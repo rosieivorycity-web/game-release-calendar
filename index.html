@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#10131a">
+  <title>Game Release Calendar</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0c0f14;--panel:#151a22;--panel2:#1c2330;--text:#f6f7fb;--muted:#aeb7c5;--line:#2a3445;--accent:#7aa2ff;--green:#67d49b}
+    *{box-sizing:border-box} body{margin:0;font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:radial-gradient(circle at 20% 0,#182239 0,transparent 38%),var(--bg);color:var(--text)}
+    .wrap{max-width:1100px;margin:auto;padding:56px 22px 80px}.hero{padding:34px;border:1px solid var(--line);border-radius:24px;background:linear-gradient(145deg,rgba(28,35,48,.96),rgba(17,22,30,.96));box-shadow:0 20px 60px rgba(0,0,0,.3)}
+    .eyebrow{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800}.hero h1{font-size:clamp(2.2rem,6vw,4.6rem);line-height:1;margin:.25em 0 .3em;letter-spacing:-.045em}.hero p{color:var(--muted);max-width:760px;font-size:1.08rem}
+    .buttons{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.btn{appearance:none;border:1px solid var(--line);border-radius:12px;padding:12px 16px;background:var(--panel2);color:var(--text);font-weight:750;text-decoration:none;cursor:pointer}.btn.primary{background:var(--accent);color:#08101f;border-color:transparent}.btn:hover{filter:brightness(1.08)}
+    .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0}.stat{padding:18px;border:1px solid var(--line);border-radius:16px;background:rgba(21,26,34,.85)}.stat b{font-size:1.55rem;display:block}.stat span{color:var(--muted);font-size:.9rem}
+    .controls{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;margin:26px 0 14px}.controls input,.controls select{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:12px 13px;border-radius:11px}
+    .event{display:grid;grid-template-columns:118px 1fr auto;gap:18px;align-items:start;padding:17px 0;border-bottom:1px solid var(--line)}.date{font-weight:800}.title{font-weight:800;font-size:1.04rem}.meta,.note{color:var(--muted);font-size:.91rem}.price{font-weight:750;white-space:nowrap}.pill{display:inline-block;margin:5px 6px 0 0;padding:3px 8px;border:1px solid var(--line);border-radius:999px;font-size:.78rem;color:#dce5f4}
+    .empty{padding:40px 0;color:var(--muted)} footer{margin-top:44px;color:var(--muted);font-size:.86rem}.feed{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;overflow-wrap:anywhere}
+    @media(max-width:720px){.stats{grid-template-columns:1fr}.controls{grid-template-columns:1fr}.event{grid-template-columns:1fr}.price{white-space:normal}}
+  </style>
+</head>
+<body>
+<main class="wrap">
+  <section class="hero">
+    <div class="eyebrow">PC • PlayStation 5 • Nintendo</div>
+    <h1>Game Release Calendar</h1>
+    <p>A subscribable calendar for games, DLC, expansions, add-on packs, platform releases, and substantial content updates. Subscribe once and calendar clients can refresh the same permanent feed URL.</p>
+    <div class="buttons">
+      <a class="btn primary" id="appleBtn" href="game-releases.ics"> Subscribe in Apple Calendar</a>
+      <button class="btn" id="copyBtn">Copy calendar feed URL</button>
+      <a class="btn" href="game-releases.ics">Download .ics</a>
+    </div>
+    <p class="feed" id="feedUrl"></p>
+  </section>
+
+  <section class="stats">
+    <div class="stat"><b id="eventCount">—</b><span>dated events</span></div>
+    <div class="stat"><b id="dateRange">—</b><span>release range</span></div>
+    <div class="stat"><b id="updated">—</b><span>feed generated</span></div>
+  </section>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Search games, DLC, notes…">
+    <select id="platform"><option value="">All platforms</option><option>PC</option><option>PS5</option><option>Switch</option><option>Switch 2</option></select>
+    <select id="type"><option value="">All release types</option></select>
+  </section>
+
+  <section id="events"></section>
+
+  <footer>
+    Release dates and prices can change. Event descriptions include the source and verification date used for each listing.
+  </footer>
+</main>
+
+<script>
+const feed = new URL("game-releases.ics", location.href).href;
+document.getElementById("feedUrl").textContent = feed;
+document.getElementById("appleBtn").href = feed.replace(/^https?:/, "webcal:");
+document.getElementById("copyBtn").onclick = async () => {
+  await navigator.clipboard.writeText(feed);
+  const b = document.getElementById("copyBtn"); const old = b.textContent;
+  b.textContent = "Copied!"; setTimeout(()=>b.textContent=old,1500);
+};
+
+const fmt = d => new Intl.DateTimeFormat(undefined,{month:"short",day:"numeric",year:"numeric",timeZone:"UTC"}).format(new Date(d+"T12:00:00Z"));
+let all = [];
+
+function render(){
+  const q=document.getElementById("search").value.toLowerCase();
+  const p=document.getElementById("platform").value;
+  const t=document.getElementById("type").value;
+  const rows=all.filter(e=>{
+    const hay=[e.title,e.release_type,e.price,e.notes,(e.platforms||[]).join(" ")].join(" ").toLowerCase();
+    return (!q||hay.includes(q)) && (!p||(e.platforms||[]).includes(p)) && (!t||e.release_type===t);
+  });
+  const host=document.getElementById("events");
+  if(!rows.length){host.innerHTML='<div class="empty">No matching releases.</div>';return}
+  host.innerHTML=rows.map(e=>`
+    <article class="event">
+      <div class="date">${fmt(e.date)}</div>
+      <div>
+        <div class="title">${escapeHtml(e.title)}</div>
+        <div class="meta">${escapeHtml(e.release_type)}</div>
+        <div>${(e.platforms||[]).map(x=>`<span class="pill">${escapeHtml(x)}</span>`).join("")}</div>
+        ${e.notes?`<div class="note">${escapeHtml(e.notes)}</div>`:""}
+        ${e.source?`<div class="note"><a href="${encodeURI(e.source)}" target="_blank" rel="noopener">Source</a></div>`:""}
+      </div>
+      <div class="price">${escapeHtml(e.price||"")}</div>
+    </article>`).join("");
+}
+function escapeHtml(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
+
+Promise.all([
+ fetch("data/releases.json",{cache:"no-store"}).then(r=>r.json()),
+ fetch("data/metadata.json",{cache:"no-store"}).then(r=>r.json())
+]).then(([data,meta])=>{
+ all=data.events||[];
+ document.getElementById("eventCount").textContent=all.length;
+ document.getElementById("dateRange").textContent=all.length?`${fmt(all[0].date)} – ${fmt(all[all.length-1].date)}`:"—";
+ document.getElementById("updated").textContent=meta.generated_at?new Date(meta.generated_at).toLocaleString():"—";
+ const types=[...new Set(all.map(x=>x.release_type))].sort();
+ const sel=document.getElementById("type");
+ types.forEach(x=>{const o=document.createElement("option");o.textContent=x;o.value=x;sel.appendChild(o)});
+ ["search","platform","type"].forEach(id=>document.getElementById(id).addEventListener("input",render));
+ render();
+}).catch(err=>{
+ document.getElementById("events").innerHTML='<div class="empty">Calendar data could not be loaded.</div>';
+ console.error(err);
+});
+</script>
+</body>
+</html>

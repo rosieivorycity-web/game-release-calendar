@@ -1,0 +1,18 @@
+{
+  "package": "game-release-calendar-github-pages",
+  "created": "2026-08-11",
+  "events": 144,
+  "files": [
+    ".github/workflows/pages.yml",
+    ".nojekyll",
+    "404.html",
+    "README.md",
+    "SETUP.md",
+    "data/metadata.json",
+    "data/releases.json",
+    "game-releases.ics",
+    "index.html",
+    "scripts/build_calendar.py",
+    "scripts/validate_calendar.py"
+  ]
+}
