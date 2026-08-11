@@ -1,6 +1,10 @@
-name: Build and deploy game release calendar
+name: Build, update, and deploy game release calendar
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+      timezone: "America/Denver"
   push:
     branches: ["main"]
     paths:
@@ -10,13 +14,9 @@ on:
       - "404.html"
       - ".nojekyll"
       - ".github/workflows/pages.yml"
-  workflow_dispatch:
-  schedule:
-    - cron: "0 8 * * *"
-      timezone: "America/Denver"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -30,11 +30,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Update release data from IGDB
+        env:
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+          IGDB_MAX_NEW_EVENTS: "2000"
+        run: python scripts/update_from_igdb.py
 
       - name: Build calendar
         run: python scripts/build_calendar.py
@@ -42,11 +51,24 @@ jobs:
       - name: Validate calendar
         run: python scripts/validate_calendar.py
 
+      - name: Commit synchronized calendar data
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/releases.json data/metadata.json game-releases.ics
+          if git diff --cached --quiet; then
+            echo "No release-data changes to commit."
+          else
+            git commit -m "chore: sync game release calendar from IGDB"
+            git push
+          fi
+
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: "."
 
@@ -59,4 +81,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
