@@ -418,6 +418,91 @@ def merge(e,c,today):
     elif source_kind=="igdb" and c["status"]!=e.get("status"): e["status"]=c["status"]; e["sequence"]=int(e.get("sequence",0))+1; changes.append(f"status → {c['status']}")
     return changes
 
+
+def _event_preference_score(event):
+    """Higher score wins when two rows have the same stable calendar UID."""
+    # Preserve hand-curated records whenever possible.
+    manual_bonus = 1 if event.get("source_kind", "manual") != "igdb" else 0
+
+    # Prefer the IGDB row with the newest upstream update timestamp.
+    igdb_updated = event.get("igdb_updated_at") or ""
+    last_verified = event.get("last_verified") or ""
+    sequence = int(event.get("sequence", 0) or 0)
+
+    return (manual_bonus, igdb_updated, last_verified, sequence)
+
+
+def dedupe_events_by_uid(events):
+    """
+    Collapse duplicate logical calendar events before validation.
+
+    A stable UID intentionally does NOT contain the release date, so a delayed
+    game remains the same calendar event. If duplicates exist, retain the best
+    record rather than creating a new UID.
+    """
+    by_uid = {}
+    without_uid = []
+    removed = []
+
+    for event in events:
+        uid = (event.get("uid") or "").strip()
+        if not uid:
+            without_uid.append(event)
+            continue
+
+        if uid not in by_uid:
+            by_uid[uid] = event
+            continue
+
+        current = by_uid[uid]
+        challenger = event
+
+        if _event_preference_score(challenger) > _event_preference_score(current):
+            kept, dropped = challenger, current
+            by_uid[uid] = challenger
+        else:
+            kept, dropped = current, challenger
+
+        # Preserve useful IGDB release-date IDs from both copies.
+        merged_ids = sorted(set(
+            (kept.get("igdb_release_date_ids") or []) +
+            (dropped.get("igdb_release_date_ids") or [])
+        ))
+        if merged_ids:
+            kept["igdb_release_date_ids"] = merged_ids
+
+        # Preserve the broader platform set if the duplicate rows differ.
+        merged_platforms = sorted(
+            set(kept.get("platforms", [])) | set(dropped.get("platforms", [])),
+            key=lambda x: PLATFORM_ORDER.get(x, 99)
+        )
+        if merged_platforms:
+            kept["platforms"] = merged_platforms
+
+        removed.append({
+            "uid": uid,
+            "kept": kept.get("title", "(untitled)"),
+            "dropped": dropped.get("title", "(untitled)"),
+        })
+
+    result = list(by_uid.values()) + without_uid
+    result.sort(key=lambda e: (e.get("date", "9999-99-99"), e.get("title", "").lower()))
+
+    if removed:
+        print(f"Removed duplicate stable-UID events: {len(removed)}")
+        for item in removed[:50]:
+            print(
+                f"  DEDUPE: {item['uid']} | kept: {item['kept']} | "
+                f"dropped: {item['dropped']}"
+            )
+        if len(removed) > 50:
+            print(f"  ...and {len(removed)-50} more duplicate UID rows")
+    else:
+        print("Removed duplicate stable-UID events: 0")
+
+    return result
+
+
 def new_event(c,today):
     return {"uid":stable_uid(c["game_id"],c["platforms"],c["release_type"]),"date":c["date"],"title":c["title"],"platforms":c["platforms"],
             "release_type":c["release_type"],"price":"TBA / not verified","notes":"Automatically added from IGDB. Release date is synchronized; price is not.",
@@ -461,7 +546,10 @@ def main():
         e=new_event(c,today); events.append(e); added.append(e["title"])
     limit=int(os.environ.get("IGDB_MAX_NEW_EVENTS","2000"))
     if len(added)>limit: raise RuntimeError(f"IGDB wanted to add {len(added)} new events, above safety limit {limit}. No file was written.")
-    events.sort(key=lambda e:(e.get("date","9999-99-99"),e.get("title","").lower())); payload["events"]=events; payload.setdefault("calendar",{})["event_count"]=len(events); payload["calendar"]["igdb_sync"]={"enabled":True,"last_scan":today.isoformat(),"window_start":start.isoformat(),"window_end":end.isoformat(),"platforms":list(TARGET_PLATFORM_SPECS)}
+    events = dedupe_events_by_uid(events)
+    payload["events"]=events
+    payload.setdefault("calendar",{})["event_count"]=len(events)
+    payload["calendar"]["igdb_sync"]={"enabled":True,"last_scan":today.isoformat(),"window_start":start.isoformat(),"window_end":end.isoformat(),"platforms":list(TARGET_PLATFORM_SPECS)}
     print(f"Linked existing curated entries to IGDB: {linked}"); print(f"Updated existing entries: {len(updated)}")
     for title,ch in updated[:50]: print(f"  UPDATE: {title}: {', '.join(ch)}")
     if len(updated)>50: print(f"  ...and {len(updated)-50} more updates")
