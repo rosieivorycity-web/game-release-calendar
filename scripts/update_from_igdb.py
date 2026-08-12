@@ -20,12 +20,34 @@ TARGET_PLATFORM_SPECS = {
     "Switch": {"names": {"nintendo switch"}, "slugs": {"switch", "nintendo-switch"}},
     "Switch 2": {"names": {"nintendo switch 2", "switch 2"}, "slugs": {"switch-2", "nintendo-switch-2"}},
 }
-INCLUDED_GAME_TYPES = {"main game","dlc addon","dlc/addon","expansion","standalone expansion","episode","season","remake","remaster","expanded game","port","pack","update"}
+INCLUDED_GAME_TYPES = {
+    "main game",
+    "dlc",
+    "expansion",
+    "standalone expansion",
+    "episode",
+    "season",
+    "remake",
+    "remaster",
+    "expanded game",
+    "port",
+    "pack addon",
+    "update",
+}
+
 TYPE_TO_RELEASE_TYPE = {
-    "main game":"Game","dlc addon":"DLC / add-on","dlc/addon":"DLC / add-on","expansion":"DLC / expansion",
-    "standalone expansion":"Standalone expansion","episode":"Episode / add-on","season":"Season / add-on",
-    "remake":"Game / remake","remaster":"Game / remaster","expanded game":"Expanded edition","port":"Platform release",
-    "pack":"Add-on pack","update":"Major update",
+    "main game": "Game",
+    "dlc": "DLC / add-on",
+    "expansion": "DLC / expansion",
+    "standalone expansion": "Standalone expansion",
+    "episode": "Episode / add-on",
+    "season": "Season / add-on",
+    "remake": "Game / remake",
+    "remaster": "Game / remaster",
+    "expanded game": "Expanded edition",
+    "port": "Platform release",
+    "pack addon": "Add-on pack",
+    "update": "Major update",
 }
 REGION_PRIORITY = {2:0, 8:1, None:2, 1:3}
 PLATFORM_ORDER = {"PC":0,"PS5":1,"Switch":2,"Switch 2":3}
@@ -157,10 +179,13 @@ def make_candidates(releases,games,pmap,types,statuses):
         if exact_day(r): bygame[int(r["game"])].append(r)
     out=[]
     for gid,rows in bygame.items():
-        g=games.get(gid)
-        if not g or g.get("version_parent"): continue
-        t=types.get(int(g.get("game_type") or -1),"")
-        if t not in INCLUDED_GAME_TYPES: continue
+    g=games.get(gid)
+    if not g or g.get("version_parent"): continue
+
+    raw_type = g.get("game_type")
+    t = types.get(int(raw_type) if raw_type is not None else -1, "")
+
+    if t not in INCLUDED_GAME_TYPES: continue
         bydate=defaultdict(list)
         for r in choose_platform_rows(rows):
             d=exact_day(r)
