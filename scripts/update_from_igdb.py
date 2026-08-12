@@ -52,6 +52,9 @@ TYPE_TO_RELEASE_TYPE = {
 REGION_PRIORITY = {2:0, 8:1, None:2, 1:3}
 PLATFORM_ORDER = {"PC":0,"PS5":1,"Switch":2,"Switch 2":3}
 
+# Populated at runtime from IGDB /date_formats. IDs whose format is YYYYMMMMDD are exact day-level dates.
+EXACT_DATE_FORMAT_IDS = set()
+
 def norm_space(v): return re.sub(r"\s+", " ", v or "").strip()
 def normalize_title(value):
     value = unicodedata.normalize("NFKD", value or "")
@@ -65,8 +68,48 @@ def stable_uid(game_id, platforms, release_type):
 def iso_from_unix(ts):
     return datetime.fromtimestamp(int(ts), tz=timezone.utc).isoformat(timespec="seconds") if ts else None
 def exact_day(row):
-    try: return date(int(row["y"]), int(row["m"]), int(row["d"]))
-    except (KeyError,TypeError,ValueError): return None
+    """Return a real calendar day only when IGDB says the precision is day-level."""
+    # First use IGDB's convenience fields when they are actually present.
+    try:
+        if row.get("y") is not None and row.get("m") is not None and row.get("d") is not None:
+            return date(int(row["y"]), int(row["m"]), int(row["d"]))
+    except (TypeError, ValueError):
+        pass
+
+    # category=0 is IGDB's deprecated YYYYMMMMDD enum. date_format is the
+    # current reference to /date_formats and is resolved dynamically below.
+    is_exact = False
+    try:
+        if row.get("category") is not None and int(row["category"]) == 0:
+            is_exact = True
+    except (TypeError, ValueError):
+        pass
+
+    try:
+        if row.get("date_format") is not None and int(row["date_format"]) in EXACT_DATE_FORMAT_IDS:
+            is_exact = True
+    except (TypeError, ValueError):
+        pass
+
+    if not is_exact:
+        return None
+
+    value = row.get("date")
+    if value is None:
+        return None
+
+    # IGDB may serialize datetime values as Unix seconds or ISO-8601 strings.
+    try:
+        if isinstance(value, (int, float)) or (isinstance(value, str) and value.isdigit()):
+            return datetime.fromtimestamp(int(value), tz=timezone.utc).date()
+
+        if isinstance(value, str):
+            iso = value.strip().replace("Z", "+00:00")
+            return datetime.fromisoformat(iso).date()
+    except (TypeError, ValueError, OSError):
+        return None
+
+    return None
 
 def http_json(url, method="GET", headers=None, data=None):
     req=urllib.request.Request(url,method=method,headers=headers or {},data=data.encode() if isinstance(data,str) else data)
@@ -132,6 +175,26 @@ def resolve_game_types(api):
         print(f"  {game_type_id}: {game_type_name}")
 
     return resolved
+
+def resolve_date_formats(api):
+    rows = api.query("date_formats", "fields id,format; limit 500;")
+    resolved = {int(r["id"]): norm_space(str(r.get("format", ""))).lower() for r in rows}
+
+    EXACT_DATE_FORMAT_IDS.clear()
+    for format_id, format_name in resolved.items():
+        normalized = re.sub(r"[^a-z0-9]+", "", format_name.lower())
+        if normalized == "yyyymmmmdd":
+            EXACT_DATE_FORMAT_IDS.add(format_id)
+
+    print("Resolved IGDB exact-date format IDs:")
+    if EXACT_DATE_FORMAT_IDS:
+        for format_id in sorted(EXACT_DATE_FORMAT_IDS):
+            print(f"  {format_id}: {resolved.get(format_id)}")
+    else:
+        print("  WARNING: no YYYYMMMMDD date format ID resolved; deprecated category=0 fallback remains active.")
+
+    return resolved
+
 def resolve_statuses(api): return {int(r["id"]):norm_space(str(r.get("name",""))) for r in api.query("release_date_statuses","fields id,name; limit 500;")}
 
 def fetch_release_rows(api,pids,start_day,end_day):
@@ -140,7 +203,7 @@ def fetch_release_rows(api,pids,start_day,end_day):
         stop=min(cur+timedelta(days=119),end_day)
         lo=int(datetime.combine(cur,datetime.min.time(),tzinfo=timezone.utc).timestamp())
         hi=int(datetime.combine(stop+timedelta(days=1),datetime.min.time(),tzinfo=timezone.utc).timestamp())-1
-        base=("fields id,d,m,y,date,human,date_format,game,platform,region,release_region,status,updated_at; "
+        base=("fields id,category,d,m,y,date,human,date_format,game,platform,region,release_region,status,updated_at; "
               f"where platform = ({pid}) & date >= {lo} & date <= {hi}; sort date asc;")
         for r in api.paged("release_dates",base): rows[int(r["id"])]=r
         cur=stop+timedelta(days=1)
@@ -318,7 +381,7 @@ def main():
     cid=os.environ.get("IGDB_CLIENT_ID","").strip(); secret=os.environ.get("IGDB_CLIENT_SECRET","").strip()
     if not cid or not secret: raise SystemExit("IGDB_CLIENT_ID and IGDB_CLIENT_SECRET must be set.")
     payload=json.loads(DATA_FILE.read_text(encoding="utf-8")); events=payload.get("events",[]); today=date.today(); start=today-timedelta(days=max(0,args.days_back)); end=today+timedelta(days=max(1,args.days_ahead))
-    api=IGDB(cid,secret); pmap=resolve_platforms(api); types=resolve_game_types(api); statuses=resolve_statuses(api)
+    api=IGDB(cid,secret); pmap=resolve_platforms(api); types=resolve_game_types(api); date_formats=resolve_date_formats(api); statuses=resolve_statuses(api)
     print("Resolved platforms:"); [print(f"  {label}: IGDB platform {pid}") for pid,label in sorted(pmap.items(),key=lambda x:PLATFORM_ORDER.get(x[1],99))]
     rel=fetch_release_rows(api,sorted(pmap),start,end)
     games=fetch_games(api,[int(r["game"]) for r in rel])
