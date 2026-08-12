@@ -91,6 +91,10 @@ def exact_day(row):
     except (TypeError, ValueError):
         pass
 
+    # fetch_release_rows() marks rows that came from our exact-only IGDB query.
+    if row.get("_exact_precision") is True:
+        is_exact = True
+
     if not is_exact:
         return None
 
@@ -203,9 +207,15 @@ def fetch_release_rows(api,pids,start_day,end_day):
         stop=min(cur+timedelta(days=119),end_day)
         lo=int(datetime.combine(cur,datetime.min.time(),tzinfo=timezone.utc).timestamp())
         hi=int(datetime.combine(stop+timedelta(days=1),datetime.min.time(),tzinfo=timezone.utc).timestamp())-1
+        # IGDB documents Release Date category 0 as YYYYMMMMDD (full exact date).
+        # Although category is deprecated, it remains documented and filterable.
+        # Filtering here is safer than guessing precision from omitted zero-valued
+        # fields in the returned JSON.
         base=("fields id,category,d,m,y,date,human,date_format,game,platform,region,release_region,status,updated_at; "
-              f"where platform = ({pid}) & date >= {lo} & date <= {hi}; sort date asc;")
-        for r in api.paged("release_dates",base): rows[int(r["id"])]=r
+              f"where platform = ({pid}) & category = 0 & date >= {lo} & date <= {hi}; sort date asc;")
+        for r in api.paged("release_dates",base):
+            r["_exact_precision"] = True
+            rows[int(r["id"])] = r
         cur=stop+timedelta(days=1)
     return list(rows.values())
 
@@ -387,7 +397,7 @@ def main():
     games=fetch_games(api,[int(r["game"]) for r in rel])
 
     exact_rows = [r for r in rel if exact_day(r)]
-    print(f"Exact-day release-date records: {len(exact_rows)} of {len(rel)}")
+    print(f"Exact-day release-date records: {len(exact_rows)} of {len(rel)} (query restricted to category=0 / YYYYMMMMDD)")
 
     raw_type_counts = Counter(
         0 if g.get("game_type") is None else int(g.get("game_type"))
