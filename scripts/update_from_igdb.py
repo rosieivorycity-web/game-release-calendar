@@ -91,7 +91,25 @@ def resolve_platforms(api):
     if not id_to_label: raise RuntimeError("No target IGDB platforms could be resolved.")
     return id_to_label
 
-def resolve_game_types(api): return {int(r["id"]):norm_space(str(r.get("type",""))).lower() for r in api.query("game_types","fields id,type; limit 500;")}
+def normalize_game_type(value):
+    value = norm_space(str(value)).lower()
+    value = re.sub(r"[_/\\-]+", " ", value)
+    return norm_space(value)
+
+
+def resolve_game_types(api):
+    rows = api.query("game_types", "fields id,type; limit 500;")
+
+    resolved = {
+        int(r["id"]): normalize_game_type(r.get("type", ""))
+        for r in rows
+    }
+
+    print("Resolved IGDB game types:")
+    for game_type_id, game_type_name in sorted(resolved.items()):
+        print(f"  {game_type_id}: {game_type_name}")
+
+    return resolved
 def resolve_statuses(api): return {int(r["id"]):norm_space(str(r.get("name",""))) for r in api.query("release_date_statuses","fields id,name; limit 500;")}
 
 def fetch_release_rows(api,pids,start_day,end_day):
