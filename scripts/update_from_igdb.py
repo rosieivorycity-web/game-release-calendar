@@ -180,24 +180,67 @@ def resolve_game_types(api):
 
     return resolved
 
+def _is_day_level_date_format(format_name):
+    """Recognize date formats that explicitly include year, month, and day."""
+    value = norm_space(str(format_name or "")).strip()
+    if not value:
+        return False
+
+    # Legacy-style compact names, e.g. YYYYMMMMDD.
+    compact = re.sub(r"[^A-Za-z%]+", "", value)
+    if compact.upper() in {"YYYYMMMMDD", "YYYYMMDD"}:
+        return True
+
+    # Common tokenized forms, e.g. YYYY-MM-DD, MMM DD, YYYY, DD MMM YYYY.
+    tokens = re.findall(r"[A-Za-z%]+", value)
+    upper_tokens = [t.upper() for t in tokens]
+
+    has_year = any(
+        t in {"Y", "YY", "YYYY", "%Y", "%Y%Y", "%Y%Y%Y%Y"} or
+        ("YYYY" in t)
+        for t in upper_tokens
+    )
+    has_month = any(
+        t in {"M", "MM", "MMM", "MMMM", "%M", "%B", "%B%B", "%B%B%B"} or
+        t.startswith("MMM")
+        for t in upper_tokens
+    )
+    has_day = any(
+        t in {"D", "DD", "%D", "%E", "%J"} or
+        t.endswith("DD")
+        for t in upper_tokens
+    )
+
+    # Also support strftime-style %Y-%m-%d.
+    lower_value = value.lower()
+    if "%y" in lower_value and "%m" in lower_value and "%d" in lower_value:
+        return True
+
+    return has_year and has_month and has_day
+
+
 def resolve_date_formats(api):
     rows = api.query("date_formats", "fields id,format; limit 500;")
-    resolved = {int(r["id"]): norm_space(str(r.get("format", ""))).lower() for r in rows}
+    resolved = {
+        int(r["id"]): norm_space(str(r.get("format", "")))
+        for r in rows
+    }
 
     EXACT_DATE_FORMAT_IDS.clear()
-    for format_id, format_name in resolved.items():
-        normalized = re.sub(r"[^a-z0-9]+", "", format_name.lower())
-        if normalized == "yyyymmmmdd":
+
+    print("Resolved IGDB date formats:")
+    for format_id, format_name in sorted(resolved.items()):
+        exact = _is_day_level_date_format(format_name)
+        marker = " [EXACT DAY]" if exact else ""
+        print(f"  {format_id}: {format_name}{marker}")
+        if exact:
             EXACT_DATE_FORMAT_IDS.add(format_id)
 
-    print("Resolved IGDB exact-date format IDs:")
-    if EXACT_DATE_FORMAT_IDS:
-        for format_id in sorted(EXACT_DATE_FORMAT_IDS):
-            print(f"  {format_id}: {resolved.get(format_id)}")
-    else:
-        print("  WARNING: no YYYYMMMMDD date format ID resolved; deprecated category=0 fallback remains active.")
+    if not EXACT_DATE_FORMAT_IDS:
+        print("::warning::No day-level IGDB date format was recognized.")
 
     return resolved
+
 
 def resolve_statuses(api): return {int(r["id"]):norm_space(str(r.get("name",""))) for r in api.query("release_date_statuses","fields id,name; limit 500;")}
 
@@ -207,14 +250,9 @@ def fetch_release_rows(api,pids,start_day,end_day):
         stop=min(cur+timedelta(days=119),end_day)
         lo=int(datetime.combine(cur,datetime.min.time(),tzinfo=timezone.utc).timestamp())
         hi=int(datetime.combine(stop+timedelta(days=1),datetime.min.time(),tzinfo=timezone.utc).timestamp())-1
-        # IGDB documents Release Date category 0 as YYYYMMMMDD (full exact date).
-        # Although category is deprecated, it remains documented and filterable.
-        # Filtering here is safer than guessing precision from omitted zero-valued
-        # fields in the returned JSON.
         base=("fields id,category,d,m,y,date,human,date_format,game,platform,region,release_region,status,updated_at; "
-              f"where platform = ({pid}) & category = 0 & date >= {lo} & date <= {hi}; sort date asc;")
+              f"where platform = ({pid}) & date >= {lo} & date <= {hi}; sort date asc;")
         for r in api.paged("release_dates",base):
-            r["_exact_precision"] = True
             rows[int(r["id"])] = r
         cur=stop+timedelta(days=1)
     return list(rows.values())
@@ -397,7 +435,7 @@ def main():
     games=fetch_games(api,[int(r["game"]) for r in rel])
 
     exact_rows = [r for r in rel if exact_day(r)]
-    print(f"Exact-day release-date records: {len(exact_rows)} of {len(rel)} (query restricted to category=0 / YYYYMMMMDD)")
+    print(f"Exact-day release-date records: {len(exact_rows)} of {len(rel)}")
 
     raw_type_counts = Counter(
         0 if g.get("game_type") is None else int(g.get("game_type"))
