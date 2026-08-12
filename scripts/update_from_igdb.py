@@ -178,14 +178,18 @@ def make_candidates(releases,games,pmap,types,statuses):
     for r in releases:
         if exact_day(r): bygame[int(r["game"])].append(r)
     out=[]
-    for gid,rows in bygame.items():
-    g=games.get(gid)
-    if not g or g.get("version_parent"): continue
+     for gid,rows in bygame.items():
+        g=games.get(gid)
 
-    raw_type = g.get("game_type")
-    t = types.get(int(raw_type) if raw_type is not None else -1, "")
+        if not g or g.get("version_parent"):
+            continue
 
-    if t not in INCLUDED_GAME_TYPES: continue
+        raw_type = g.get("game_type")
+        t = types.get(int(raw_type) if raw_type is not None else -1, "")
+
+        if t not in INCLUDED_GAME_TYPES:
+            continue
+
         bydate=defaultdict(list)
         for r in choose_platform_rows(rows):
             d=exact_day(r)
