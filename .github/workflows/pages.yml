@@ -42,7 +42,7 @@ jobs:
         env:
           IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
           IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
-          IGDB_MAX_NEW_EVENTS: "2000"
+          IGDB_MAX_NEW_EVENTS: "5000"
         run: python scripts/update_from_igdb.py
 
       - name: Build calendar
