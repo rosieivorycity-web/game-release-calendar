@@ -173,39 +173,95 @@ def title_for(name,platforms,day,first_ts):
     if first_ts and day>datetime.fromtimestamp(int(first_ts),tz=timezone.utc).date(): return f"{name} — {' / '.join(platforms)} release"
     return name
 
-def make_candidates(releases,games,pmap,types,statuses):
-    bygame=defaultdict(list)
+def make_candidates(releases, games, pmap, types, statuses):
+    bygame = defaultdict(list)
+
     for r in releases:
-        if exact_day(r): bygame[int(r["game"])].append(r)
-    out=[]
-     for gid,rows in bygame.items():
-        g=games.get(gid)
+        if exact_day(r):
+            bygame[int(r["game"])].append(r)
+
+    out = []
+
+    for gid, rows in bygame.items():
+        g = games.get(gid)
 
         if not g or g.get("version_parent"):
             continue
 
         raw_type = g.get("game_type")
-        t = types.get(int(raw_type) if raw_type is not None else -1, "")
+        t = types.get(
+            int(raw_type) if raw_type is not None else -1,
+            ""
+        )
 
         if t not in INCLUDED_GAME_TYPES:
             continue
 
-        bydate=defaultdict(list)
+        bydate = defaultdict(list)
+
         for r in choose_platform_rows(rows):
-            d=exact_day(r)
-            if d: bydate[d].append(r)
-        for d,rr in bydate.items():
-            plats=sorted({pmap[int(r["platform"])] for r in rr if int(r["platform"]) in pmap},key=lambda x:PLATFORM_ORDER.get(x,99))
-            if not plats: continue
-            st=[statuses.get(int(r.get("status") or -1),"") for r in rr]; st=next((x for x in st if x),"")
-            cancelled="cancel" in st.lower(); first=g.get("first_release_date")
-            kind=release_type_for(t,d,first)
-            out.append({"game_id":gid,"base_name":norm_space(g.get("name","")),"title":title_for(norm_space(g.get("name","")),plats,d,first),
-                        "date":d.isoformat(),"platforms":plats,"release_type":kind,"status":"cancelled" if cancelled else "confirmed",
-                        "igdb_release_status":st or None,"igdb_updated_at":iso_from_unix(max(int(r.get("updated_at") or 0) for r in rr)),
-                        "igdb_release_date_ids":sorted(int(r["id"]) for r in rr),
-                        "source":g.get("url") or (f"https://www.igdb.com/games/{g.get('slug')}" if g.get("slug") else "https://www.igdb.com/")})
-    return sorted(out,key=lambda e:(e["date"],e["title"].lower(),",".join(e["platforms"])))
+            d = exact_day(r)
+            if d:
+                bydate[d].append(r)
+
+        for d, rr in bydate.items():
+            plats = sorted(
+                {
+                    pmap[int(r["platform"])]
+                    for r in rr
+                    if int(r["platform"]) in pmap
+                },
+                key=lambda x: PLATFORM_ORDER.get(x, 99)
+            )
+
+            if not plats:
+                continue
+
+            st = [
+                statuses.get(int(r.get("status") or -1), "")
+                for r in rr
+            ]
+            st = next((x for x in st if x), "")
+
+            cancelled = "cancel" in st.lower()
+            first = g.get("first_release_date")
+            kind = release_type_for(t, d, first)
+
+            out.append({
+                "game_id": gid,
+                "base_name": norm_space(g.get("name", "")),
+                "title": title_for(
+                    norm_space(g.get("name", "")),
+                    plats,
+                    d,
+                    first
+                ),
+                "date": d.isoformat(),
+                "platforms": plats,
+                "release_type": kind,
+                "status": "cancelled" if cancelled else "confirmed",
+                "igdb_release_status": st or None,
+                "igdb_updated_at": iso_from_unix(
+                    max(int(r.get("updated_at") or 0) for r in rr)
+                ),
+                "igdb_release_date_ids": sorted(
+                    int(r["id"]) for r in rr
+                ),
+                "source": g.get("url") or (
+                    f"https://www.igdb.com/games/{g.get('slug')}"
+                    if g.get("slug")
+                    else "https://www.igdb.com/"
+                )
+            })
+
+    return sorted(
+        out,
+        key=lambda e: (
+            e["date"],
+            e["title"].lower(),
+            ",".join(e["platforms"])
+        )
+    )
 
 def overlap(e,c): return len(set(e.get("platforms",[])) & set(c.get("platforms",[])))
 def compatible(a,b):
