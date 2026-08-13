@@ -1,22 +1,24 @@
 name: Build, update, and deploy game release calendar
 
 on:
-  workflow_dispatch:
- schedule:
-    - cron: "17 8 * * *"
-      timezone: "America/Denver"
+  workflow_dispatch: {}
 
-    - cron: "47 10 * * *"
-      timezone: "America/Denver"
+  schedule:
+    - cron: '17 8 * * *'
+      timezone: 'America/Denver'
+    - cron: '47 10 * * *'
+      timezone: 'America/Denver'
+
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths:
-      - "data/**"
-      - "scripts/**"
-      - "index.html"
-      - "404.html"
-      - ".nojekyll"
-      - ".github/workflows/pages.yml"
+      - 'data/**'
+      - 'scripts/**'
+      - 'index.html'
+      - '404.html'
+      - '.nojekyll'
+      - '.github/workflows/pages.yml'
 
 permissions:
   contents: write
