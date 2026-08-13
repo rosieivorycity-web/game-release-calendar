@@ -8,18 +8,25 @@
   <style>
     :root{color-scheme:dark;--bg:#0c0f14;--panel:#151a22;--panel2:#1c2330;--text:#f6f7fb;--muted:#aeb7c5;--line:#2a3445;--accent:#7aa2ff;--green:#67d49b}
     *{box-sizing:border-box} body{margin:0;font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:radial-gradient(circle at 20% 0,#182239 0,transparent 38%),var(--bg);color:var(--text)}
-    .wrap{max-width:1100px;margin:auto;padding:56px 22px 80px}.hero{padding:34px;border:1px solid var(--line);border-radius:24px;background:linear-gradient(145deg,rgba(28,35,48,.96),rgba(17,22,30,.96));box-shadow:0 20px 60px rgba(0,0,0,.3)}
+    .wrap{max-width:1100px;margin:auto;padding:36px 22px 80px}.hero{padding:34px;border:1px solid var(--line);border-radius:24px;background:linear-gradient(145deg,rgba(28,35,48,.96),rgba(17,22,30,.96));box-shadow:0 20px 60px rgba(0,0,0,.3)}
+    .update-status{display:flex;align-items:center;justify-content:space-between;gap:14px;margin:0 0 16px;padding:12px 16px;border:1px solid rgba(103,212,155,.35);border-radius:14px;background:rgba(103,212,155,.08);color:#dff8ea}
+    .update-status .status-main{font-weight:800}.update-status .status-sub{color:var(--muted);font-size:.88rem;text-align:right}.status-dot{display:inline-block;width:9px;height:9px;margin-right:8px;border-radius:50%;background:var(--green);box-shadow:0 0 14px rgba(103,212,155,.75)}
     .eyebrow{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:800}.hero h1{font-size:clamp(2.2rem,6vw,4.6rem);line-height:1;margin:.25em 0 .3em;letter-spacing:-.045em}.hero p{color:var(--muted);max-width:760px;font-size:1.08rem}
     .buttons{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.btn{appearance:none;border:1px solid var(--line);border-radius:12px;padding:12px 16px;background:var(--panel2);color:var(--text);font-weight:750;text-decoration:none;cursor:pointer}.btn.primary{background:var(--accent);color:#08101f;border-color:transparent}.btn:hover{filter:brightness(1.08)}
     .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0}.stat{padding:18px;border:1px solid var(--line);border-radius:16px;background:rgba(21,26,34,.85)}.stat b{font-size:1.55rem;display:block}.stat span{color:var(--muted);font-size:.9rem}
     .controls{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;margin:26px 0 14px}.controls input,.controls select{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:12px 13px;border-radius:11px}
     .event{display:grid;grid-template-columns:118px 1fr auto;gap:18px;align-items:start;padding:17px 0;border-bottom:1px solid var(--line)}.date{font-weight:800}.title{font-weight:800;font-size:1.04rem}.meta,.note{color:var(--muted);font-size:.91rem}.price{font-weight:750;white-space:nowrap}.pill{display:inline-block;margin:5px 6px 0 0;padding:3px 8px;border:1px solid var(--line);border-radius:999px;font-size:.78rem;color:#dce5f4}
     .empty{padding:40px 0;color:var(--muted)} footer{margin-top:44px;color:var(--muted);font-size:.86rem}.feed{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;overflow-wrap:anywhere}
-    @media(max-width:720px){.stats{grid-template-columns:1fr}.controls{grid-template-columns:1fr}.event{grid-template-columns:1fr}.price{white-space:normal}}
+    @media(max-width:720px){.update-status{align-items:flex-start;flex-direction:column}.update-status .status-sub{text-align:left}.stats{grid-template-columns:1fr}.controls{grid-template-columns:1fr}.event{grid-template-columns:1fr}.price{white-space:normal}}
   </style>
 </head>
 <body>
 <main class="wrap">
+  <div class="update-status" id="updateStatus" aria-live="polite">
+    <div class="status-main"><span class="status-dot"></span><span id="latestRun">Checking latest update…</span></div>
+    <div class="status-sub" id="latestRunDetail"></div>
+  </div>
+
   <section class="hero">
     <div class="eyebrow">PC • PlayStation 5 • Nintendo</div>
     <h1>Game Release Calendar</h1>
