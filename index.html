@@ -104,12 +104,43 @@ Promise.all([
  document.getElementById("eventCount").textContent=all.length;
  document.getElementById("dateRange").textContent=all.length?`${fmt(all[0].date)} – ${fmt(all[all.length-1].date)}`:"—";
  document.getElementById("updated").textContent=meta.generated_at?new Date(meta.generated_at).toLocaleString():"—";
+
+ const lastScan=data && data.calendar && data.calendar.igdb_sync
+   ? data.calendar.igdb_sync.last_scan
+   : null;
+ const generatedAt=meta.generated_at||null;
+
+ let statusDate="—";
+ if(lastScan){
+   statusDate=new Intl.DateTimeFormat(undefined,{
+     month:"long",
+     day:"numeric",
+     year:"numeric",
+     timeZone:"UTC"
+   }).format(new Date(lastScan+"T12:00:00Z"));
+ }else if(generatedAt){
+   statusDate=new Intl.DateTimeFormat(undefined,{
+     month:"long",
+     day:"numeric",
+     year:"numeric"
+   }).format(new Date(generatedAt));
+ }
+
+ document.getElementById("latestRun").textContent=
+   `Last successful update: ${statusDate}`;
+
+ document.getElementById("latestRunDetail").textContent=
+   `${all.length.toLocaleString()} releases tracked` +
+   (generatedAt ? ` • Feed generated ${new Date(generatedAt).toLocaleString()}` : "");
+
  const types=[...new Set(all.map(x=>x.release_type))].sort();
  const sel=document.getElementById("type");
  types.forEach(x=>{const o=document.createElement("option");o.textContent=x;o.value=x;sel.appendChild(o)});
  ["search","platform","type"].forEach(id=>document.getElementById(id).addEventListener("input",render));
  render();
 }).catch(err=>{
+ document.getElementById("latestRun").textContent="Calendar update status unavailable";
+ document.getElementById("latestRunDetail").textContent="";
  document.getElementById("events").innerHTML='<div class="empty">Calendar data could not be loaded.</div>';
  console.error(err);
 });
