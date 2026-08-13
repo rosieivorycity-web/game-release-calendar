@@ -40,7 +40,7 @@
   </section>
 
   <section class="stats">
-    <div class="stat"><b id="eventCount">—</b><span>dated events</span></div>
+    <div class="stat"><b id="eventCount">—</b><span>upcoming dated events</span></div>
     <div class="stat"><b id="dateRange">—</b><span>release range</span></div>
     <div class="stat"><b id="updated">—</b><span>feed generated</span></div>
   </section>
@@ -69,6 +69,13 @@ document.getElementById("copyBtn").onclick = async () => {
 };
 
 const fmt = d => new Intl.DateTimeFormat(undefined,{month:"short",day:"numeric",year:"numeric",timeZone:"UTC"}).format(new Date(d+"T12:00:00Z"));
+const localTodayISO = () => {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,"0");
+  const day = String(d.getDate()).padStart(2,"0");
+  return `${y}-${m}-${day}`;
+};
 let all = [];
 
 function render(){
@@ -100,7 +107,10 @@ Promise.all([
  fetch("data/releases.json",{cache:"no-store"}).then(r=>r.json()),
  fetch("data/metadata.json",{cache:"no-store"}).then(r=>r.json())
 ]).then(([data,meta])=>{
- all=data.events||[];
+ const today=localTodayISO();
+ all=(data.events||[])
+   .filter(e=>e.date && e.date>=today)
+   .sort((a,b)=>a.date.localeCompare(b.date)||String(a.title||"").localeCompare(String(b.title||"")));
  document.getElementById("eventCount").textContent=all.length;
  document.getElementById("dateRange").textContent=all.length?`${fmt(all[0].date)} – ${fmt(all[all.length-1].date)}`:"—";
  document.getElementById("updated").textContent=meta.generated_at?new Date(meta.generated_at).toLocaleString():"—";
