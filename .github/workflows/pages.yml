@@ -72,6 +72,13 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
 
+      - name: Verify homepage before deployment
+        run: |
+          echo "=== index.html status ==="
+          ls -l index.html
+          echo "=== Looking for update-status ==="
+          grep -n "update-status" index.html
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
         with:
