@@ -2,9 +2,12 @@ name: Build, update, and deploy game release calendar
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "17 8 * * *"
-    timezone: "America/Denver"
+ schedule:
+    - cron: "17 8 * * *"
+      timezone: "America/Denver"
+
+    - cron: "47 10 * * *"
+      timezone: "America/Denver"
   push:
     branches: ["main"]
     paths:
