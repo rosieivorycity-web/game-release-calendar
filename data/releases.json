@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 3656,
+    "event_count": 3731,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-08-13",
-      "window_start": "2026-06-29",
-      "window_end": "2028-08-12",
+      "last_scan": "2026-08-14",
+      "window_start": "2026-06-30",
+      "window_end": "2028-08-13",
       "platforms": [
         "PC",
         "PS5",
@@ -994,28 +994,6 @@
       ],
       "igdb_updated_at": "2026-06-17T19:42:44+00:00",
       "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "63887e2b0448d974538cd0@game-release-calendar",
-      "date": "2026-06-29",
-      "title": "Railroad Rummy",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/railroad-rummy",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 408370,
-      "igdb_release_date_ids": [
-        934923
-      ],
-      "igdb_updated_at": "2026-07-02T20:15:40+00:00",
-      "igdb_release_status": "Early Access"
     },
     {
       "uid": "3702a10ffff51c1099c2ea@game-release-calendar",
@@ -36144,6 +36122,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "fffaa4642fd5c73c305cc0@game-release-calendar",
+      "date": "2026-07-27",
+      "title": "The Faraway King",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/the-faraway-king",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413456,
+      "igdb_release_date_ids": [
+        953123
+      ],
+      "igdb_updated_at": "2026-08-13T19:53:33+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "f38525918370b474dab20e@game-release-calendar",
       "date": "2026-07-27",
       "title": "The Left Behind",
@@ -36695,6 +36695,28 @@
         945505
       ],
       "igdb_updated_at": "2026-07-24T04:14:34+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "e247f0b240e1891c835b97@game-release-calendar",
+      "date": "2026-07-28",
+      "title": "Duet Night Abyss: Paradise Prelude",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Major update",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/duet-night-abyss-paradise-prelude",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413601,
+      "igdb_release_date_ids": [
+        953520
+      ],
+      "igdb_updated_at": "2026-08-14T06:14:30+00:00",
       "igdb_release_status": null
     },
     {
@@ -40197,6 +40219,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "441298c796d6a5284817dd@game-release-calendar",
+      "date": "2026-07-30",
+      "title": "Fantasy Journey",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/fantasy-journey--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413489,
+      "igdb_release_date_ids": [
+        953189
+      ],
+      "igdb_updated_at": "2026-08-14T02:12:10+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "85c34ebdd701721ce6303a@game-release-calendar",
       "date": "2026-07-30",
       "title": "Fantasy Maiden Wars: Dream of the Stray Dreamer — Switch release",
@@ -40939,6 +40983,28 @@
       ],
       "igdb_updated_at": "2026-08-01T13:56:10+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "128788c7ee5e60256b56eb@game-release-calendar",
+      "date": "2026-07-30",
+      "title": "Nazi Zombies",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/nazi-zombies",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413540,
+      "igdb_release_date_ids": [
+        953352
+      ],
+      "igdb_updated_at": "2026-08-14T02:12:25+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "33b9c61b4dc1ce5d17b425@game-release-calendar",
@@ -44461,6 +44527,28 @@
       "igdb_release_status": null
     },
     {
+      "uid": "b6d0e62ae062e1d431821a@game-release-calendar",
+      "date": "2026-07-31",
+      "title": "You Must Remember",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/you-must-remember",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412660,
+      "igdb_release_date_ids": [
+        953329
+      ],
+      "igdb_updated_at": "2026-08-13T22:37:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "ee92827ac47241f132d7be@game-release-calendar",
       "date": "2026-07-31",
       "title": "Zero Pixel Dawn",
@@ -45053,6 +45141,28 @@
       ],
       "igdb_updated_at": "2026-08-08T10:49:04+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "da82473c5e5a45702d96a0@game-release-calendar",
+      "date": "2026-08-01",
+      "title": "Warpfire.io",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/warpfire-dot-io",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412425,
+      "igdb_release_date_ids": [
+        950350
+      ],
+      "igdb_updated_at": "2026-08-14T01:41:19+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "f81f24d7f72a47c3f54358@game-release-calendar",
@@ -47979,11 +48089,12 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "149a86022007c45d6351ac@game-release-calendar",
+      "uid": "e01348e85285b559e5a0b6@game-release-calendar",
       "date": "2026-08-05",
-      "title": "Changeable Guardian Estique — PC release",
+      "title": "Changeable Guardian Estique — PC / Switch release",
       "platforms": [
-        "PC"
+        "PC",
+        "Switch"
       ],
       "release_type": "Platform release",
       "price": "TBA / not verified",
@@ -47991,13 +48102,14 @@
       "source": "https://www.igdb.com/games/changeable-guardian-estique",
       "source_kind": "igdb",
       "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 6,
+      "last_verified": "2026-08-14",
+      "sequence": 3,
       "igdb_game_id": 283375,
       "igdb_release_date_ids": [
-        950195
+        950195,
+        953481
       ],
-      "igdb_updated_at": "2026-08-05T15:55:38+00:00",
+      "igdb_updated_at": "2026-08-14T00:57:41+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -49307,12 +49419,11 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "e01348e85285b559e5a0b6@game-release-calendar",
+      "uid": "149a86022007c45d6351ac@game-release-calendar",
       "date": "2026-08-06",
-      "title": "Changeable Guardian Estique — PS5 / Switch release",
+      "title": "Changeable Guardian Estique — PS5 release",
       "platforms": [
-        "PS5",
-        "Switch"
+        "PS5"
       ],
       "release_type": "Platform release",
       "price": "TBA / not verified",
@@ -49320,11 +49431,10 @@
       "source": "https://www.igdb.com/games/changeable-guardian-estique",
       "source_kind": "igdb",
       "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
+      "last_verified": "2026-08-14",
+      "sequence": 9,
       "igdb_game_id": 283375,
       "igdb_release_date_ids": [
-        949380,
         949381
       ],
       "igdb_updated_at": "2026-08-04T03:16:09+00:00",
@@ -49423,6 +49533,28 @@
       ],
       "igdb_updated_at": "2026-08-02T00:02:48+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2cbecd98c82c079743bea1@game-release-calendar",
+      "date": "2026-08-06",
+      "title": "Dark Witch Match! — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/dark-witch-match",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 410487,
+      "igdb_release_date_ids": [
+        953401
+      ],
+      "igdb_updated_at": "2026-08-14T00:51:00+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "e9c921eca31b71c525deef@game-release-calendar",
@@ -49779,6 +49911,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "2dcab53fd71fe630a12aa2@game-release-calendar",
+      "date": "2026-08-06",
+      "title": "Gummy Invaders",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/gummy-invaders",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412945,
+      "igdb_release_date_ids": [
+        953421
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:32+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "2c84e1116cfcf00cdd7a26@game-release-calendar",
       "date": "2026-08-06",
       "title": "Heroes of the Triangle: Mask Rush",
@@ -50043,6 +50197,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "85e8c594f7b6d84493918a@game-release-calendar",
+      "date": "2026-08-06",
+      "title": "Legacy: Witch Island 2 — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/legacy-witch-island-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 159655,
+      "igdb_release_date_ids": [
+        953407
+      ],
+      "igdb_updated_at": "2026-08-14T00:56:20+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "bef4f763d4ed55a2df52be@game-release-calendar",
       "date": "2026-08-06",
       "title": "Limbot",
@@ -50063,6 +50239,28 @@
       ],
       "igdb_updated_at": "2026-08-01T21:57:43+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "47a5379bdd3b6fac8d01dd@game-release-calendar",
+      "date": "2026-08-06",
+      "title": "Loree 3D",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/loree-3d",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412950,
+      "igdb_release_date_ids": [
+        953425
+      ],
+      "igdb_updated_at": "2026-08-14T00:59:04+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "5dde0ac7cca8777ff46c04@game-release-calendar",
@@ -51029,6 +51227,50 @@
       "igdb_release_status": "Beta"
     },
     {
+      "uid": "c990734d5cbc680094568f@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Captive",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/captive--4",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412946,
+      "igdb_release_date_ids": [
+        953406
+      ],
+      "igdb_updated_at": "2026-08-14T00:57:11+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "673fb300e1d671ff81c9f5@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Car Dealer Simulator: Retro Car for Sale",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/car-dealer-simulator-retro-car-for-sale",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413362,
+      "igdb_release_date_ids": [
+        953408
+      ],
+      "igdb_updated_at": "2026-08-14T00:57:22+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "7d70c3af86be93d39f2715@game-release-calendar",
       "date": "2026-08-07",
       "title": "Chop Chop Inc.",
@@ -51115,6 +51357,28 @@
       ],
       "igdb_updated_at": "2026-08-08T13:07:28+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "3da7b4dfdfec6b5cbcd2c1@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Cloud Golf — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/cloud-golf",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 405902,
+      "igdb_release_date_ids": [
+        953404
+      ],
+      "igdb_updated_at": "2026-08-14T00:51:10+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "958828f866109f94470225@game-release-calendar",
@@ -51563,6 +51827,28 @@
       "igdb_release_status": null
     },
     {
+      "uid": "5cd83ddce077c17f6f5628@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Living Shadows — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/living-shadows",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 351727,
+      "igdb_release_date_ids": [
+        953405
+      ],
+      "igdb_updated_at": "2026-08-14T00:45:51+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "bba89a35c57d647eb652d8@game-release-calendar",
       "date": "2026-08-07",
       "title": "Lowmoor Idle RPG: An Adventurer's Chronicle",
@@ -51605,6 +51891,28 @@
       ],
       "igdb_updated_at": "2026-08-07T17:27:15+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "19ede85406a822570086bd@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Mancalero",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/mancalero",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413333,
+      "igdb_release_date_ids": [
+        952849
+      ],
+      "igdb_updated_at": "2026-08-14T02:58:37+00:00",
+      "igdb_release_status": "Beta"
     },
     {
       "uid": "d6d4d65d913b82e05bb162@game-release-calendar",
@@ -51985,6 +52293,28 @@
       ],
       "igdb_updated_at": "2026-08-08T22:30:59+00:00",
       "igdb_release_status": "Alpha"
+    },
+    {
+      "uid": "39b15a53e4f42a28a22c9b@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Sandbox Doodle Playground",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/sandbox-doodle-playground",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413371,
+      "igdb_release_date_ids": [
+        953427
+      ],
+      "igdb_updated_at": "2026-08-14T00:59:08+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "c7a71ef0f7f2ba6d02ff0e@game-release-calendar",
@@ -52449,6 +52779,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "8e1177dfd7d6971ab26d19@game-release-calendar",
+      "date": "2026-08-07",
+      "title": "Zooville Detectives: A Read-Along Mystery",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/zooville-detectives-a-read-along-mystery",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413373,
+      "igdb_release_date_ids": [
+        953438
+      ],
+      "igdb_updated_at": "2026-08-14T01:15:42+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "7db2f069f055de65e613b3@game-release-calendar",
       "date": "2026-08-08",
       "title": "1998: The Toll Keeper Story — PS5 release",
@@ -52535,6 +52887,28 @@
       ],
       "igdb_updated_at": "2026-08-07T02:50:46+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "0948ea855146f2f85a89ac@game-release-calendar",
+      "date": "2026-08-08",
+      "title": "Bubble Shooter: Color Splash",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/bubble-shooter-color-splash",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413361,
+      "igdb_release_date_ids": [
+        953391
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:17+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "4310ff0cdb0254b07b4649@game-release-calendar",
@@ -52644,6 +53018,28 @@
         947740
       ],
       "igdb_updated_at": "2026-07-31T03:36:02+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "d013b4e9ae5a7cb80011c4@game-release-calendar",
+      "date": "2026-08-08",
+      "title": "Merge Assault",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/merge-assault",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413365,
+      "igdb_release_date_ids": [
+        953423
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:41+00:00",
       "igdb_release_status": null
     },
     {
@@ -54627,6 +55023,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "81491f8f12e33f625c2d26@game-release-calendar",
+      "date": "2026-08-11",
+      "title": "Rescue the Hostages: Misaligned Fate",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/rescue-the-hostages-misaligned-fate",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 405719,
+      "igdb_release_date_ids": [
+        953380
+      ],
+      "igdb_updated_at": "2026-08-14T01:41:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "efb3f19f5b90ec8d1b48bb@game-release-calendar",
       "date": "2026-08-11",
       "title": "Riftstorm",
@@ -55418,28 +55836,6 @@
         948686
       ],
       "igdb_updated_at": "2026-08-01T22:19:19+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "52bc497250af0d0152f5dc@game-release-calendar",
-      "date": "2026-08-12",
-      "title": "Dealer's Dice",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/dealers-dice",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 410091,
-      "igdb_release_date_ids": [
-        942088
-      ],
-      "igdb_updated_at": "2026-07-14T09:17:43+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -56438,6 +56834,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "08a8252110fd5c840569cf@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Anime Fitness: Summer Sweat",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/anime-fitness-summer-sweat",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413360,
+      "igdb_release_date_ids": [
+        953439
+      ],
+      "igdb_updated_at": "2026-08-14T01:15:45+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "a78613919e6bc5d09f17fb@game-release-calendar",
       "date": "2026-08-13",
       "title": "Arknights — PC release",
@@ -56454,9 +56872,9 @@
       "sequence": 0,
       "igdb_game_id": 123395,
       "igdb_release_date_ids": [
-        940982
+        952982
       ],
-      "igdb_updated_at": "2026-07-14T02:51:40+00:00",
+      "igdb_updated_at": "2026-08-14T02:56:40+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -56523,6 +56941,28 @@
         942951
       ],
       "igdb_updated_at": "2026-07-17T02:37:31+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "01f728235b88dbad083436@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Card of Arcana",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/card-of-arcana",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413564,
+      "igdb_release_date_ids": [
+        953440
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:23+00:00",
       "igdb_release_status": null
     },
     {
@@ -56644,6 +57084,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "751cbaf2c9c088f03e1e5e@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Clown's Lair",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/clowns-lair",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413565,
+      "igdb_release_date_ids": [
+        953442
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:26+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "8011a7abcb4b211f14aa9e@game-release-calendar",
       "date": "2026-08-13",
       "title": "Colorizing: Pleasure",
@@ -56688,6 +57150,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "5201b33113770e143f99cb@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Cosmic Coop — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/cosmic-coop",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 274354,
+      "igdb_release_date_ids": [
+        953402
+      ],
+      "igdb_updated_at": "2026-08-14T00:51:05+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "5f50a317f9071cb0f3df@chatgpt-game-release-calendar",
       "date": "2026-08-13",
       "title": "Creepshow",
@@ -56707,6 +57191,28 @@
       ],
       "igdb_updated_at": "2026-08-01T21:46:00+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "d8408148b1ce06bd66622e@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Cruise Adventure: Hidden Journey - Collector's Edition",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/cruise-adventure-hidden-journey-collectors-edition",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413557,
+      "igdb_release_date_ids": [
+        953444
+      ],
+      "igdb_updated_at": "2026-08-14T01:15:50+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "7ffb3aecc7c7d4770469@chatgpt-game-release-calendar",
@@ -56890,6 +57396,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "2a5b510d2f58a92afea741@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Eggconsole Onryou Senki PC-8801mkIISR",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/eggconsole-onryou-senki-pc-8801mkiisr",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412951,
+      "igdb_release_date_ids": [
+        953414
+      ],
+      "igdb_updated_at": "2026-08-14T02:03:11+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "a52f0201a5e89f071852aa@game-release-calendar",
       "date": "2026-08-13",
       "title": "Emergency Room Simulator",
@@ -56909,6 +57437,28 @@
         946614
       ],
       "igdb_updated_at": "2026-07-27T18:27:11+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "3146a130cbc8700bdbac80@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Endless Tactics: Trial Run",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/endless-tactics-trial-run",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 392703,
+      "igdb_release_date_ids": [
+        953260
+      ],
+      "igdb_updated_at": "2026-08-13T21:04:32+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -56954,6 +57504,28 @@
       ],
       "igdb_updated_at": "2026-08-10T06:05:42+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "406a17d0d3c30c0b0ea3d7@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Find the Sneaky Chameleon",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/find-the-sneaky-chameleon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412567,
+      "igdb_release_date_ids": [
+        953413
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:17+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "08554e94b031ae905a03b9@game-release-calendar",
@@ -57006,7 +57578,7 @@
     {
       "uid": "32650674c2da68f3a8da57@game-release-calendar",
       "date": "2026-08-13",
-      "title": "Grayland Remastered",
+      "title": "Grayland Remastered — Switch release",
       "platforms": [
         "Switch"
       ],
@@ -57017,7 +57589,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 374967,
       "igdb_release_date_ids": [
         950805
@@ -57089,9 +57661,9 @@
       "igdb_game_id": 413097,
       "igdb_release_date_ids": [
         952287,
-        952288
+        953446
       ],
-      "igdb_updated_at": "2026-08-11T15:31:45+00:00",
+      "igdb_updated_at": "2026-08-14T01:35:23+00:00",
       "igdb_release_status": null
     },
     {
@@ -57161,6 +57733,28 @@
       "igdb_release_status": null
     },
     {
+      "uid": "80a9dca710be0051620699@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Kaboomania",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/kaboomania",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413569,
+      "igdb_release_date_ids": [
+        953447
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:31+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "7285e4e9223c1f8ee022d6@game-release-calendar",
       "date": "2026-08-13",
       "title": "Karma Keepers",
@@ -57203,6 +57797,28 @@
       ],
       "igdb_updated_at": "2026-08-04T21:00:13+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "99d2369108fd930c370e2d@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Lethal Corporation — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/lethal-corporation",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 317651,
+      "igdb_release_date_ids": [
+        953417
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:09+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "0aa9d79f814482dda40a7b@game-release-calendar",
@@ -57361,6 +57977,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3d01f8b60750357953e1af@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Menherarium — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/menherarium",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 331675,
+      "igdb_release_date_ids": [
+        953424
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:36+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "a24ae364bda1b67ccef51d@game-release-calendar",
       "date": "2026-08-13",
       "title": "Miniquest",
@@ -57380,6 +58018,28 @@
         944249
       ],
       "igdb_updated_at": "2026-07-20T18:08:04+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "1683222db1d7d95b8f6e85@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Mystery Box",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/mystery-box",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413367,
+      "igdb_release_date_ids": [
+        953429
+      ],
+      "igdb_updated_at": "2026-08-14T00:59:49+00:00",
       "igdb_release_status": null
     },
     {
@@ -57446,6 +58106,28 @@
         948090
       ],
       "igdb_updated_at": "2026-08-01T21:55:12+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "21720d9d0517c7ba859953@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Omega Pilot Evolution",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/omega-pilot-evolution",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413359,
+      "igdb_release_date_ids": [
+        953389
+      ],
+      "igdb_updated_at": "2026-08-14T02:03:47+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -57581,6 +58263,50 @@
       ],
       "igdb_updated_at": "2026-08-01T21:07:01+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "78214b005ced54dd03228d@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Primary School: English Grade 1 & 2",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/primary-school-english-grade-1-and-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413369,
+      "igdb_release_date_ids": [
+        953450
+      ],
+      "igdb_updated_at": "2026-08-14T01:16:47+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "110e313292b4a986aa4bb4@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Project Neon — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/project-neon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 330134,
+      "igdb_release_date_ids": [
+        953428
+      ],
+      "igdb_updated_at": "2026-08-14T00:45:54+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "7f7540bdf0d54a66008af4@game-release-calendar",
@@ -57896,6 +58622,72 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "76592f890f36878461e7fd@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Star Troopers: Combat Force",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/star-troopers-combat-force",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 411568,
+      "igdb_release_date_ids": [
+        953451
+      ],
+      "igdb_updated_at": "2026-08-14T01:17:15+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "154c61cf4cfa4d72fb1dfb@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Storm Horse Simulator",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/storm-horse-simulator",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 357860,
+      "igdb_release_date_ids": [
+        953356
+      ],
+      "igdb_updated_at": "2026-08-13T22:43:15+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "5bc62f8977b8b38b468e9e@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Suika Pets",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/suika-pets",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 290549,
+      "igdb_release_date_ids": [
+        953355
+      ],
+      "igdb_updated_at": "2026-08-13T22:41:59+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "1c50ad59bc06df5751dc9a@game-release-calendar",
       "date": "2026-08-13",
       "title": "Terrol",
@@ -57984,6 +58776,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "a05d3e90466b41e9d7cb94@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "The Finest Spark",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/the-finest-spark",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 408235,
+      "igdb_release_date_ids": [
+        953353
+      ],
+      "igdb_updated_at": "2026-08-13T22:41:10+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "2c999d4fad88b005b8df0e@game-release-calendar",
       "date": "2026-08-13",
       "title": "The Pirate Keko",
@@ -58003,6 +58817,28 @@
         947751
       ],
       "igdb_updated_at": "2026-07-31T03:29:33+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "ff7e1888c5d14245534eb9@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Tiny Paw Academy: Numbers + Fun",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/tiny-paw-academy-numbers-plus-fun",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413372,
+      "igdb_release_date_ids": [
+        953452
+      ],
+      "igdb_updated_at": "2026-08-14T01:17:27+00:00",
       "igdb_release_status": null
     },
     {
@@ -58116,6 +58952,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "b5895c58e0bf63480b6dfd@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "Vengeance of Mr. Peppermint — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/vengeance-of-mr-peppermint--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 250012,
+      "igdb_release_date_ids": [
+        953437
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:32+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "f4d3bf7c71d25e75ef8d@chatgpt-game-release-calendar",
       "date": "2026-08-13",
       "title": "Wild Blue Skies",
@@ -58159,6 +59017,28 @@
       ],
       "igdb_updated_at": "2026-08-01T21:33:25+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "fcc3422ec1b8ecd6e31979@game-release-calendar",
+      "date": "2026-08-13",
+      "title": "WinterCraft: Survival in the Forest",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/wintercraft-survival-in-the-forest",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413570,
+      "igdb_release_date_ids": [
+        953454
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:34+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "fabe7cf064212c042de34a@game-release-calendar",
@@ -58317,18 +59197,18 @@
     {
       "uid": "daad8f07c015fcd1245978@game-release-calendar",
       "date": "2026-08-14",
-      "title": "Cthulhu's Reach: Devil Reef — PC release",
+      "title": "Cthulhu's Reach: Devil Reef",
       "platforms": [
         "PC"
       ],
-      "release_type": "Platform release",
+      "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "source": "https://www.igdb.com/games/cthulhus-reach-devil-reef",
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 258013,
       "igdb_release_date_ids": [
         948716
@@ -59101,6 +59981,28 @@
       ],
       "igdb_updated_at": "2026-07-15T02:29:18+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f7adfdf4aadb97bc84957f@game-release-calendar",
+      "date": "2026-08-14",
+      "title": "Small Saga — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/small-saga",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 119278,
+      "igdb_release_date_ids": [
+        953430
+      ],
+      "igdb_updated_at": "2026-08-14T00:59:45+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "0b2c3b63ac06aa8b2476a3@game-release-calendar",
@@ -60702,6 +61604,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "1d509bdd463f93f28e8841@game-release-calendar",
+      "date": "2026-08-18",
+      "title": "Ready or Nowhere",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/ready-or-nowhere",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413370,
+      "igdb_release_date_ids": [
+        953432
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:11+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "041aeba1165e5d91543e@chatgpt-game-release-calendar",
       "date": "2026-08-18",
       "title": "REKA",
@@ -61454,6 +62378,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "090765598396e37594d961@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Aerialia: Wings of Delivery",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/aerialia-wings-of-delivery",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413551,
+      "igdb_release_date_ids": [
+        953399
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:52+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "8a351db2c4fe00bcec13ab@game-release-calendar",
       "date": "2026-08-20",
       "title": "Ascent DX — Switch release",
@@ -61476,11 +62422,56 @@
       "igdb_release_status": null
     },
     {
+      "uid": "c4af5adf2928d281ae495d@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Beach Volleyball Boys: Hot Spike",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/beach-volleyball-boys-hot-spike",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412948,
+      "igdb_release_date_ids": [
+        953395
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:43+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "fa27b9306504e67e1340ef@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Beach Volleyball Girls: Hot Spike",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/beach-volleyball-girls-hot-spike",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413571,
+      "igdb_release_date_ids": [
+        953458
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:37+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "e2d19fae0e7430824323e6@game-release-calendar",
       "date": "2026-08-20",
-      "title": "Berry Bury Berry — PS5 release",
+      "title": "Berry Bury Berry — PS5 / Switch release",
       "platforms": [
-        "PS5"
+        "PS5",
+        "Switch"
       ],
       "release_type": "Platform release",
       "price": "TBA / not verified",
@@ -61489,12 +62480,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 381578,
       "igdb_release_date_ids": [
-        950126
+        950126,
+        953394
       ],
-      "igdb_updated_at": "2026-08-05T19:43:45+00:00",
+      "igdb_updated_at": "2026-08-14T00:50:33+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -61518,6 +62510,28 @@
       ],
       "igdb_updated_at": "2026-07-20T23:59:04+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "02820f8971aef038867d22@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Build My Arcade",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/build-my-arcade",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412949,
+      "igdb_release_date_ids": [
+        953392
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:22+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "224348a9a332ef25e6ee2e@game-release-calendar",
@@ -62279,6 +63293,28 @@
       ],
       "igdb_updated_at": "2026-06-17T00:18:23+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "68d8520592fe31df437159@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Peaceful Bug Catching Story",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/peaceful-bug-catching-story",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413368,
+      "igdb_release_date_ids": [
+        953433
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:14+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "19a8fa6d21103101b2651c@game-release-calendar",
@@ -63074,6 +64110,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "bfa97d10d10f5afaeb420c@game-release-calendar",
+      "date": "2026-08-21",
+      "title": "Hearthwater",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/hearthwater",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 412947,
+      "igdb_release_date_ids": [
+        953411
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:13+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "62f465e7f6a3eb8d8be8c6@game-release-calendar",
       "date": "2026-08-21",
       "title": "Kill your Darlings",
@@ -63632,6 +64690,72 @@
       "igdb_release_status": null
     },
     {
+      "uid": "0e227356dd0b510f2540b0@game-release-calendar",
+      "date": "2026-08-22",
+      "title": "Blocky Powers",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/blocky-powers",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413552,
+      "igdb_release_date_ids": [
+        953398
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:49+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "6e9ddb775e446b536f105c@game-release-calendar",
+      "date": "2026-08-22",
+      "title": "Horror Prison: Escape",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/horror-prison-escape",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413559,
+      "igdb_release_date_ids": [
+        953409
+      ],
+      "igdb_updated_at": "2026-08-14T00:57:48+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "9082fa172a57059448b0c4@game-release-calendar",
+      "date": "2026-08-22",
+      "title": "House Cleaner Simulator",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/house-cleaner-simulator--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 401145,
+      "igdb_release_date_ids": [
+        953410
+      ],
+      "igdb_updated_at": "2026-08-14T00:56:42+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "06a59d527986e46708199b@game-release-calendar",
       "date": "2026-08-22",
       "title": "Increbraintal — Switch release",
@@ -63651,6 +64775,28 @@
         950826
       ],
       "igdb_updated_at": "2026-08-07T08:24:13+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "241a81485dc739f58731c3@game-release-calendar",
+      "date": "2026-08-22",
+      "title": "Mireglow",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/mireglow",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413366,
+      "igdb_release_date_ids": [
+        953426
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:58+00:00",
       "igdb_release_status": null
     },
     {
@@ -64413,6 +65559,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3048c0b9cd5b6dbfd07d0a@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Funguys Swarm — Switch 2 release",
+      "platforms": [
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/funguys-swarm",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 332851,
+      "igdb_release_date_ids": [
+        953419
+      ],
+      "igdb_updated_at": "2026-08-14T00:45:44+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "e464ee7482a8a60273328c@game-release-calendar",
       "date": "2026-08-25",
       "title": "Gathera",
@@ -64830,6 +65998,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "fe2034a6e497453ec70e2b@game-release-calendar",
+      "date": "2026-08-26",
+      "title": "A Tower Full of Cats — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/a-tower-full-of-cats",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 234411,
+      "igdb_release_date_ids": [
+        953397
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:36+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "35d6f23867c67057d361a9@game-release-calendar",
       "date": "2026-08-26",
       "title": "Beware the Depths",
@@ -65012,7 +66202,8 @@
       "date": "2026-08-26",
       "title": "Fractured Worlds",
       "platforms": [
-        "PC"
+        "PC",
+        "Switch"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -65021,12 +66212,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 321943,
       "igdb_release_date_ids": [
-        949203
+        949203,
+        953420
       ],
-      "igdb_updated_at": "2026-08-02T21:16:25+00:00",
+      "igdb_updated_at": "2026-08-14T00:58:28+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -65739,6 +66931,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "747f14769f189178787e2a@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Giraffe Raising Game: Reach for the sky",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/giraffe-raising-game-reach-for-the-sky",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413568,
+      "igdb_release_date_ids": [
+        953445
+      ],
+      "igdb_updated_at": "2026-08-14T00:41:13+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "36803c8ed66eb19fd61f62@game-release-calendar",
       "date": "2026-08-27",
       "title": "Glow Box",
@@ -65824,6 +67038,28 @@
         898910
       ],
       "igdb_updated_at": "2026-04-10T02:14:50+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "355ee185ca8b69c602eb59@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Horripilant — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/horripilant",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 342102,
+      "igdb_release_date_ids": [
+        953418
+      ],
+      "igdb_updated_at": "2026-08-14T00:45:49+00:00",
       "igdb_release_status": null
     },
     {
@@ -65948,6 +67184,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "cf8b79215d52987787ee96@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Magnetail",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/magnetail",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413561,
+      "igdb_release_date_ids": [
+        953422
+      ],
+      "igdb_updated_at": "2026-08-14T00:58:54+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "0a7583d1b98e70ffbd3fb7@game-release-calendar",
       "date": "2026-08-27",
       "title": "Memory Brew: Tales of Underworld",
@@ -66063,6 +67321,30 @@
         878333
       ],
       "igdb_updated_at": "2026-02-20T02:18:19+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "98f1f584a0efd8a6199298@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Mind Diver — PS5 / Switch 2 release",
+      "platforms": [
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/mind-diver",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 236519,
+      "igdb_release_date_ids": [
+        953031,
+        953386
+      ],
+      "igdb_updated_at": "2026-08-14T02:14:43+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -66332,6 +67614,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "84a9bb86742dd912948c61@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Tearscape — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/tearscape",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 318752,
+      "igdb_release_date_ids": [
+        953434
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:19+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "b451e62213371c8c25b536@game-release-calendar",
       "date": "2026-08-27",
       "title": "The Blood Mage II",
@@ -66567,6 +67871,28 @@
         948500
       ],
       "igdb_updated_at": "2026-08-01T20:00:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "34b379ea28bc441b156152@game-release-calendar",
+      "date": "2026-08-28",
+      "title": "Can I Take Your Order",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/can-i-take-your-order",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 404572,
+      "igdb_release_date_ids": [
+        953574
+      ],
+      "igdb_updated_at": "2026-08-14T14:09:26+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -68875,6 +70201,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7c06b8a090d1b97c83fb3a@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "Little Problems — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/little-problems",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 272792,
+      "igdb_release_date_ids": [
+        953449
+      ],
+      "igdb_updated_at": "2026-08-14T01:16:39+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "061d53f0e701276a5fa008@game-release-calendar",
       "date": "2026-09-03",
       "title": "Marsupilami 2: Salsa Palombia",
@@ -68986,6 +70334,28 @@
       ],
       "igdb_updated_at": "2026-08-04T02:01:10+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "9d12f62dea4313ebb898df@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "Shoe it All!",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/shoe-it-all",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 310329,
+      "igdb_release_date_ids": [
+        953435
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:23+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "26ebfcada2bc4289815250@game-release-calendar",
@@ -69101,6 +70471,28 @@
       ],
       "igdb_updated_at": "2026-05-29T07:41:45+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "9445e04bb293c4aad87d46@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "Vikings Pinball — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/vikings-pinball",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 309638,
+      "igdb_release_date_ids": [
+        953436
+      ],
+      "igdb_updated_at": "2026-08-14T01:00:27+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "72e30306f5332ef6b8d4f8@game-release-calendar",
@@ -69890,7 +71282,8 @@
       "date": "2026-09-04",
       "title": "Order Automatica",
       "platforms": [
-        "PC"
+        "PC",
+        "Switch"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -69899,12 +71292,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 213444,
       "igdb_release_date_ids": [
-        948440
+        948440,
+        953416
       ],
-      "igdb_updated_at": "2026-08-01T19:24:23+00:00",
+      "igdb_updated_at": "2026-08-14T00:58:04+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -70062,6 +71456,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "0b6413319ef670c3ee38ac@game-release-calendar",
+      "date": "2026-09-07",
+      "title": "Crazy Pocket",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/crazy-pocket",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413613,
+      "igdb_release_date_ids": [
+        953555
+      ],
+      "igdb_updated_at": "2026-08-14T06:14:41+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "c3d2b435490628fd5f74c4@game-release-calendar",
       "date": "2026-09-07",
       "title": "Nothing Strange Here",
@@ -70210,6 +71626,28 @@
       "sequence": 0
     },
     {
+      "uid": "52bc497250af0d0152f5dc@game-release-calendar",
+      "date": "2026-09-08",
+      "title": "Dealer's Dice",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/dealers-dice",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 1,
+      "igdb_game_id": 410091,
+      "igdb_release_date_ids": [
+        953516
+      ],
+      "igdb_updated_at": "2026-08-14T03:14:09+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "8349da9bb64718308d9b8a@game-release-calendar",
       "date": "2026-09-08",
       "title": "Factory Default: Build, Trade, Repeat",
@@ -70286,7 +71724,8 @@
       "title": "Sprawl Zero",
       "platforms": [
         "PC",
-        "PS5"
+        "PS5",
+        "Switch 2"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -70295,13 +71734,14 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 393036,
       "igdb_release_date_ids": [
         952367,
-        952368
+        952368,
+        953431
       ],
-      "igdb_updated_at": "2026-08-11T19:24:39+00:00",
+      "igdb_updated_at": "2026-08-14T00:59:12+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -70391,6 +71831,28 @@
       ],
       "igdb_updated_at": "2026-07-02T18:48:49+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f643225d372aac83fac247@game-release-calendar",
+      "date": "2026-09-08",
+      "title": "Voldark",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/voldark",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413507,
+      "igdb_release_date_ids": [
+        953210
+      ],
+      "igdb_updated_at": "2026-08-13T19:57:08+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "fda935e550e644fcd75b0a@game-release-calendar",
@@ -71204,6 +72666,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "49744c819b27005b5d858f@game-release-calendar",
+      "date": "2026-09-11",
+      "title": "Cursed District: Horror",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/cursed-district-horror",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413566,
+      "igdb_release_date_ids": [
+        953443
+      ],
+      "igdb_updated_at": "2026-08-14T00:40:28+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "af225f2ce2d2333474c4d1@game-release-calendar",
       "date": "2026-09-11",
       "title": "Grandpa's Bee Haven",
@@ -71815,6 +73299,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "628d2843238e6d3bc5065a@game-release-calendar",
+      "date": "2026-09-16",
+      "title": "Good Heavens!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/good-heavens",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 204463,
+      "igdb_release_date_ids": [
+        953576
+      ],
+      "igdb_updated_at": "2026-08-14T10:40:33+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "75c12ae4cfdfb71ea08320@game-release-calendar",
       "date": "2026-09-16",
       "title": "Harvest Scream",
@@ -71835,6 +73341,30 @@
       ],
       "igdb_updated_at": "2026-08-12T20:07:24+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "c1b2e4e773c658c35521d4@game-release-calendar",
+      "date": "2026-09-16",
+      "title": "Monowave",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/monowave",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 276631,
+      "igdb_release_date_ids": [
+        953373,
+        953374
+      ],
+      "igdb_updated_at": "2026-08-13T23:50:31+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "3d7affc6abc626c111934e@game-release-calendar",
@@ -71921,6 +73451,34 @@
       "status": "confirmed",
       "last_verified": "2026-08-11",
       "sequence": 0
+    },
+    {
+      "uid": "49624782884fa4dafd6d2e@game-release-calendar",
+      "date": "2026-09-16",
+      "title": "Woodo",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Switch 2"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/woodo",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 145078,
+      "igdb_release_date_ids": [
+        953213,
+        953214,
+        953215,
+        953217
+      ],
+      "igdb_updated_at": "2026-08-13T19:45:40+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "62c71304dcc99832faf426@game-release-calendar",
@@ -72602,6 +74160,9 @@
       "date": "2026-09-18",
       "title": "The Walking Dead: Streets of Survival",
       "platforms": [
+        "PC",
+        "PS5",
+        "Switch",
         "Switch 2"
       ],
       "release_type": "Game",
@@ -72611,13 +74172,16 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 409384,
       "igdb_release_date_ids": [
-        950803
+        950884,
+        950885,
+        950886,
+        950887
       ],
-      "igdb_updated_at": "2026-08-07T08:25:05+00:00",
-      "igdb_release_status": null
+      "igdb_updated_at": "2026-08-14T13:49:44+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "01dadbd959031e469307f8@game-release-calendar",
@@ -72985,6 +74549,28 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "48adb441836de552df6168@game-release-calendar",
+      "date": "2026-09-24",
+      "title": "Boardwalk Builders — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/boardwalk-builders",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 345173,
+      "igdb_release_date_ids": [
+        953393
+      ],
+      "igdb_updated_at": "2026-08-14T01:20:00+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "bdc1577ba3b63c684b8429@game-release-calendar",
       "date": "2026-09-24",
       "title": "Card Conquest",
@@ -73253,6 +74839,28 @@
         893778
       ],
       "igdb_updated_at": "2026-03-27T02:49:27+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "183b2223ade4f7931de0c8@game-release-calendar",
+      "date": "2026-09-24",
+      "title": "Ghostly Whiskers — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/ghostly-whiskers--2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 384730,
+      "igdb_release_date_ids": [
+        953415
+      ],
+      "igdb_updated_at": "2026-08-14T01:20:02+00:00",
       "igdb_release_status": null
     },
     {
@@ -76114,6 +77722,28 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7967eac47efab2907d341a@game-release-calendar",
+      "date": "2026-10-16",
+      "title": "Solemnfable",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/solemnfable",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 0,
+      "igdb_game_id": 413517,
+      "igdb_release_date_ids": [
+        953265
+      ],
+      "igdb_updated_at": "2026-08-14T04:45:06+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "8851ce6385d2a2264b19@chatgpt-game-release-calendar",
       "date": "2026-10-16",
       "title": "Tales of Eternia Remastered",
@@ -78015,6 +79645,28 @@
         951047
       ],
       "igdb_updated_at": "2026-08-07T19:41:20+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "023411259651a26ae9a3f1@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Let’s Sing 2027",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/lets-sing-2027",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 2,
+      "igdb_game_id": 412639,
+      "igdb_release_date_ids": [
+        953448
+      ],
+      "igdb_updated_at": "2026-08-14T00:50:10+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -81262,26 +82914,24 @@
       "igdb_release_status": null
     },
     {
-      "uid": "023411259651a26ae9a3f1@game-release-calendar",
+      "uid": "1ef85edd06385697685982@game-release-calendar",
       "date": "2027-11-03",
-      "title": "Let’s Sing 2027",
+      "title": "Let’s Sing 2027 — PS5 / Switch 2 release",
       "platforms": [
         "PS5",
-        "Switch",
         "Switch 2"
       ],
-      "release_type": "Game",
+      "release_type": "Platform release",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "source": "https://www.igdb.com/games/lets-sing-2027",
       "source_kind": "igdb",
       "status": "confirmed",
-      "last_verified": "2026-08-12",
+      "last_verified": "2026-08-14",
       "sequence": 0,
       "igdb_game_id": 412639,
       "igdb_release_date_ids": [
         951038,
-        951039,
         951040
       ],
       "igdb_updated_at": "2026-08-07T19:33:04+00:00",
@@ -81352,6 +83002,28 @@
       ],
       "igdb_updated_at": "2025-09-14T16:06:46+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "63887e2b0448d974538cd0@game-release-calendar",
+      "date": "2028-03-01",
+      "title": "Railroad Rummy — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/railroad-rummy",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-14",
+      "sequence": 3,
+      "igdb_game_id": 408370,
+      "igdb_release_date_ids": [
+        934924
+      ],
+      "igdb_updated_at": "2026-07-02T20:15:40+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "e133cb47d6a397db1f9fb1@game-release-calendar",
