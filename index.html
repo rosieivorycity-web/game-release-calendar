@@ -15,9 +15,9 @@
     .buttons{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}.btn{appearance:none;border:1px solid var(--line);border-radius:12px;padding:12px 16px;background:var(--panel2);color:var(--text);font-weight:750;text-decoration:none;cursor:pointer}.btn.primary{background:var(--accent);color:#08101f;border-color:transparent}.btn:hover{filter:brightness(1.08)}
     .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0}.stat{padding:18px;border:1px solid var(--line);border-radius:16px;background:rgba(21,26,34,.85)}.stat b{font-size:1.55rem;display:block}.stat span{color:var(--muted);font-size:.9rem}
     .controls{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;margin:26px 0 14px}.controls input,.controls select{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:12px 13px;border-radius:11px}
-    .event{display:grid;grid-template-columns:118px 1fr auto;gap:18px;align-items:start;padding:17px 0;border-bottom:1px solid var(--line)}.date{font-weight:800}.title{font-weight:800;font-size:1.04rem}.meta,.note{color:var(--muted);font-size:.91rem}.price{font-weight:750;white-space:nowrap}.pill{display:inline-block;margin:5px 6px 0 0;padding:3px 8px;border:1px solid var(--line);border-radius:999px;font-size:.78rem;color:#dce5f4}
+    .event{display:grid;grid-template-columns:118px 90px minmax(0,1fr) auto;gap:18px;align-items:start;margin:12px 0;padding:16px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(145deg,rgba(21,26,34,.88),rgba(16,21,29,.88));transition:transform .15s ease,border-color .15s ease,background .15s ease}.event:hover{transform:translateY(-1px);border-color:#3a4961;background:linear-gradient(145deg,rgba(25,31,41,.94),rgba(17,23,32,.94))}.date{font-weight:850;line-height:1.25;padding-top:3px}.cover-wrap{width:90px;aspect-ratio:264/374;border-radius:11px;overflow:hidden;background:linear-gradient(145deg,#202938,#111722);border:1px solid var(--line);box-shadow:0 8px 22px rgba(0,0,0,.24)}.cover{display:block;width:100%;height:100%;object-fit:cover}.cover-placeholder{display:grid;width:100%;height:100%;place-items:center;text-align:center;color:#8290a5;font-size:.68rem;font-weight:800;letter-spacing:.06em;padding:8px}.cover-placeholder b{display:block;font-size:1.5rem;line-height:1.2;margin-bottom:4px}.cover-fallback{display:none}.event-main{min-width:0}.title{font-weight:850;font-size:1.08rem;line-height:1.25}.meta,.note,.summary{color:var(--muted);font-size:.91rem}.summary{margin-top:9px;max-width:720px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;line-height:1.45}.source-link{display:inline-block;margin-top:8px;font-size:.87rem}.price{font-weight:750;white-space:nowrap;font-size:.88rem;color:#dce5f4}.pill{display:inline-block;margin:6px 6px 0 0;padding:3px 8px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;color:#dce5f4}.pill.type-pill{border-color:rgba(122,162,255,.35);color:#cbd9ff;background:rgba(122,162,255,.08)}
     .empty{padding:40px 0;color:var(--muted)} footer{margin-top:44px;color:var(--muted);font-size:.86rem}.feed{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;overflow-wrap:anywhere}
-    @media(max-width:720px){.update-status{align-items:flex-start;flex-direction:column}.update-status .status-sub{text-align:left}.stats{grid-template-columns:1fr}.controls{grid-template-columns:1fr}.event{grid-template-columns:1fr}.price{white-space:normal}}
+    @media(max-width:720px){.update-status{align-items:flex-start;flex-direction:column}.update-status .status-sub{text-align:left}.stats{grid-template-columns:1fr}.controls{grid-template-columns:1fr}.event{grid-template-columns:72px minmax(0,1fr);gap:13px}.date{grid-column:1/-1;padding:0}.cover-wrap{width:72px}.event-main{grid-column:2}.price{grid-column:2;white-space:normal;margin-top:-4px}.summary{-webkit-line-clamp:4}}
   </style>
 </head>
 <body>
@@ -46,7 +46,7 @@
   </section>
 
   <section class="controls">
-    <input id="search" type="search" placeholder="Search games, DLC, notes…">
+    <input id="search" type="search" placeholder="Search games, summaries, DLC…">
     <select id="platform"><option value="">All platforms</option><option>PC</option><option>PS5</option><option>Switch</option><option>Switch 2</option></select>
     <select id="type"><option value="">All release types</option></select>
   </section>
@@ -78,29 +78,48 @@ const localTodayISO = () => {
 };
 let all = [];
 
+function isGenericIgdbNote(note){
+  return String(note||"").trim()==="Automatically added from IGDB. Release date is synchronized; price is not.";
+}
+
+function coverMarkup(e){
+  const title=escapeHtml(e.title||"Game cover");
+  const placeholder=`<div class="cover-placeholder"><div><b>🎮</b>NO COVER</div></div>`;
+  if(!e.cover_url) return `<div class="cover-wrap">${placeholder}</div>`;
+  return `<div class="cover-wrap"><img class="cover" src="${escapeHtml(e.cover_url)}" alt="Cover art for ${title}" loading="lazy" decoding="async" onerror="this.style.display='none';this.nextElementSibling.style.display='grid'"><div class="cover-placeholder cover-fallback"><div><b>🎮</b>NO COVER</div></div></div>`;
+}
+
 function render(){
   const q=document.getElementById("search").value.toLowerCase();
   const p=document.getElementById("platform").value;
   const t=document.getElementById("type").value;
   const rows=all.filter(e=>{
-    const hay=[e.title,e.release_type,e.price,e.notes,(e.platforms||[]).join(" ")].join(" ").toLowerCase();
+    const visibleNote=isGenericIgdbNote(e.notes)?"":e.notes;
+    const hay=[e.title,e.release_type,e.price,e.summary,visibleNote,(e.platforms||[]).join(" ")].join(" ").toLowerCase();
     return (!q||hay.includes(q)) && (!p||(e.platforms||[]).includes(p)) && (!t||e.release_type===t);
   });
   const host=document.getElementById("events");
   if(!rows.length){host.innerHTML='<div class="empty">No matching releases.</div>';return}
-  host.innerHTML=rows.map(e=>`
+  host.innerHTML=rows.map(e=>{
+    const visibleNote=isGenericIgdbNote(e.notes)?"":e.notes;
+    const description=e.summary||visibleNote||"";
+    const price=(e.price && !/^TBA \/ not verified$/i.test(e.price))?`<div class="price">${escapeHtml(e.price)}</div>`:"";
+    const sourceLabel=e.source && /igdb\.com/i.test(e.source)?"View on IGDB ↗":"Source ↗";
+    return `
     <article class="event">
       <div class="date">${fmt(e.date)}</div>
-      <div>
+      ${coverMarkup(e)}
+      <div class="event-main">
         <div class="title">${escapeHtml(e.title)}</div>
-        <div class="meta">${escapeHtml(e.release_type)}</div>
-        <div>${(e.platforms||[]).map(x=>`<span class="pill">${escapeHtml(x)}</span>`).join("")}</div>
-        ${e.notes?`<div class="note">${escapeHtml(e.notes)}</div>`:""}
-        ${e.source?`<div class="note"><a href="${encodeURI(e.source)}" target="_blank" rel="noopener">Source</a></div>`:""}
+        <div><span class="pill type-pill">${escapeHtml(e.release_type)}</span>${(e.platforms||[]).map(x=>`<span class="pill">${escapeHtml(x)}</span>`).join("")}</div>
+        ${description?`<div class="summary">${escapeHtml(description)}</div>`:""}
+        ${e.source?`<a class="source-link" href="${encodeURI(e.source)}" target="_blank" rel="noopener">${sourceLabel}</a>`:""}
       </div>
-      <div class="price">${escapeHtml(e.price||"")}</div>
-    </article>`).join("");
+      ${price}
+    </article>`;
+  }).join("");
 }
+
 function escapeHtml(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
 
 Promise.all([
