@@ -261,10 +261,34 @@ def fetch_games(api,ids):
     out={}; ids=sorted(set(ids))
     for i in range(0,len(ids),350):
         block=",".join(map(str,ids[i:i+350]))
-        body=("fields id,name,slug,url,game_type,first_release_date,parent_game,version_parent,updated_at; "
+        body=("fields id,name,slug,url,game_type,first_release_date,parent_game,version_parent,updated_at,summary,storyline,cover; "
               f"where id = ({block}); limit 500;")
         for r in api.query("games",body): out[int(r["id"])]=r
     return out
+
+def fetch_covers(api,ids):
+    out={}; ids=sorted({int(x) for x in ids if x is not None})
+    for i in range(0,len(ids),400):
+        block=",".join(map(str,ids[i:i+400]))
+        body=("fields id,image_id,url,width,height; "
+              f"where id = ({block}); limit 500;")
+        for r in api.query("covers",body): out[int(r["id"])]=r
+    return out
+
+def brief_summary(game,limit=420):
+    text=norm_space(game.get("summary") or game.get("storyline") or "")
+    if len(text)<=limit:
+        return text or None
+    clipped=text[:limit-1].rsplit(" ",1)[0].rstrip(" ,;:-")
+    return (clipped or text[:limit-1]).rstrip()+"…"
+
+def cover_image_url(cover):
+    if not cover:
+        return None
+    image_id=norm_space(str(cover.get("image_id","")))
+    if not image_id:
+        return None
+    return f"https://images.igdb.com/igdb/image/upload/t_cover_small_2x/{image_id}.jpg"
 
 def choose_platform_rows(rows):
     by=defaultdict(list)
@@ -284,7 +308,7 @@ def title_for(name,platforms,day,first_ts):
     if first_ts and day>datetime.fromtimestamp(int(first_ts),tz=timezone.utc).date(): return f"{name} — {' / '.join(platforms)} release"
     return name
 
-def make_candidates(releases, games, pmap, types, statuses):
+def make_candidates(releases, games, covers, pmap, types, statuses):
     bygame = defaultdict(list)
 
     for r in releases:
@@ -340,6 +364,7 @@ def make_candidates(releases, games, pmap, types, statuses):
             cancelled = "cancel" in st.lower()
             first = g.get("first_release_date")
             kind = release_type_for(t, d, first)
+            cover = covers.get(int(g["cover"])) if g.get("cover") is not None else None
 
             out.append({
                 "game_id": gid,
@@ -361,6 +386,9 @@ def make_candidates(releases, games, pmap, types, statuses):
                 "igdb_release_date_ids": sorted(
                     int(r["id"]) for r in rr
                 ),
+                "summary": brief_summary(g),
+                "cover_image_id": cover.get("image_id") if cover else None,
+                "cover_url": cover_image_url(cover),
                 "source": g.get("url") or (
                     f"https://www.igdb.com/games/{g.get('slug')}"
                     if g.get("slug")
@@ -406,6 +434,10 @@ def merge(e,c,today):
     if e.get("igdb_game_id")!=c["game_id"]: e["igdb_game_id"]=c["game_id"]; changes.append("linked to IGDB")
     for k in ("igdb_release_date_ids","igdb_updated_at","igdb_release_status"):
         if c.get(k) is not None and e.get(k)!=c[k]: e[k]=c[k]; changes.append(f"{k} refreshed")
+    # Web-display metadata does not change calendar identity or sequence.
+    for k in ("summary","cover_image_id","cover_url"):
+        if c.get(k) is not None and (source_kind=="igdb" or not e.get(k)) and e.get(k)!=c[k]:
+            e[k]=c[k]; changes.append(f"{k} refreshed")
     if (source_kind=="igdb" or updated_day(c)>=verified_day(e.get("last_verified"))) and e.get("date")!=c["date"]:
         old=e.get("date"); e["date"]=c["date"]; e["last_verified"]=today.isoformat(); e["sequence"]=int(e.get("sequence",0))+1; changes.append(f"date {old} → {c['date']}")
     if source_kind=="igdb":
@@ -506,6 +538,7 @@ def dedupe_events_by_uid(events):
 def new_event(c,today):
     return {"uid":stable_uid(c["game_id"],c["platforms"],c["release_type"]),"date":c["date"],"title":c["title"],"platforms":c["platforms"],
             "release_type":c["release_type"],"price":"TBA / not verified","notes":"Automatically added from IGDB. Release date is synchronized; price is not.",
+            "summary":c.get("summary"),"cover_image_id":c.get("cover_image_id"),"cover_url":c.get("cover_url"),
             "source":c["source"],"source_kind":"igdb","status":c["status"],"last_verified":today.isoformat(),"sequence":0,
             "igdb_game_id":c["game_id"],"igdb_release_date_ids":c["igdb_release_date_ids"],"igdb_updated_at":c["igdb_updated_at"],"igdb_release_status":c.get("igdb_release_status")}
 
@@ -518,6 +551,8 @@ def main():
     print("Resolved platforms:"); [print(f"  {label}: IGDB platform {pid}") for pid,label in sorted(pmap.items(),key=lambda x:PLATFORM_ORDER.get(x[1],99))]
     rel=fetch_release_rows(api,sorted(pmap),start,end)
     games=fetch_games(api,[int(r["game"]) for r in rel])
+    covers=fetch_covers(api,[g.get("cover") for g in games.values()])
+    print(f"Fetched IGDB covers: {len(covers)} for {len(games)} games.")
 
     exact_rows = [r for r in rel if exact_day(r)]
     print(f"Exact-day release-date records: {len(exact_rows)} of {len(rel)}")
@@ -530,7 +565,7 @@ def main():
     for type_id, count in sorted(raw_type_counts.items()):
         print(f"  {type_id} ({types.get(type_id, 'unknown')}): {count}")
 
-    candidates=make_candidates(rel,games,pmap,types,statuses)
+    candidates=make_candidates(rel,games,covers,pmap,types,statuses)
     print(f"IGDB scan: {len(rel)} release-date records, {len(games)} games, {len(candidates)} eligible dated release groups.")
     claimed=set(); added=[]; updated=[]; linked=0; skipped=0
     for c in candidates:
