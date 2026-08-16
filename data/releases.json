@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 3785,
+    "event_count": 3786,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -61370,10 +61370,10 @@
       "sequence": 0,
       "igdb_game_id": 370921,
       "igdb_release_date_ids": [
-        949138
+        954191
       ],
-      "igdb_updated_at": "2026-08-02T17:40:37+00:00",
-      "igdb_release_status": "Full Release",
+      "igdb_updated_at": "2026-08-16T15:00:01+00:00",
+      "igdb_release_status": "Early Access",
       "summary": "A fantasy roguelite RPG where heroes reincarnate to stop the mystic dragon Umbra. Master turn-based combat, sever giant bosses, and shape your journey through relics and evolving NPC interactions.",
       "cover_image_id": "coblq6",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coblq6.jpg"
@@ -67408,6 +67408,31 @@
       "summary": "CONNECTION ESTABLISHED...LOGIN TO 137 NEURAL FRAME DETECTED...CREDENTIALS APPROVED...WELCOME USER",
       "cover_image_id": "coatnz",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coatnz.jpg"
+    },
+    {
+      "uid": "a53db299bd94fbd3e892d4@game-release-calendar",
+      "date": "2026-08-14",
+      "title": "A Sea of Grey & Green",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A Sea of Grey & Green is a First Person exploration game. Explore your surroundings, find hidden objects, complete Cas' daily tasks and uncover what it really means to see life through their macabre eyes.",
+      "cover_image_id": "cocpci",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocpci.jpg",
+      "source": "https://www.igdb.com/games/a-sea-of-grey-and-green",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-16",
+      "sequence": 0,
+      "igdb_game_id": 413864,
+      "igdb_release_date_ids": [
+        954190
+      ],
+      "igdb_updated_at": "2026-08-16T14:58:43+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "24d7b586ea45ac47b76833@game-release-calendar",
@@ -80076,31 +80101,6 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc665.jpg"
     },
     {
-      "uid": "70774ef001d1c46506f56d@game-release-calendar",
-      "date": "2026-09-02",
-      "title": "Dungeon Raid",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/dungeon-raid--1",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 350475,
-      "igdb_release_date_ids": [
-        949115
-      ],
-      "igdb_updated_at": "2026-08-02T17:29:48+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Dungeon Raid is an adventure card roguelike. Dive deeper and deeper into the dungeon. Use everything you find to defeat enemies and kill the final boss. Good luck! And try not to die... from hunger.",
-      "cover_image_id": "coccz4",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coccz4.jpg"
-    },
-    {
       "uid": "d12e3a06d66d9f6a2aa017@game-release-calendar",
       "date": "2026-09-02",
       "title": "Fofumia",
@@ -80972,6 +80972,31 @@
       "summary": "Robert battles early Alzheimer's and nightly sleep paralysis. Each night reveals fragments of his past. Uncover the truth and help him solve the mysteries haunting his mind.",
       "cover_image_id": "co9b85",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9b85.jpg"
+    },
+    {
+      "uid": "70774ef001d1c46506f56d@game-release-calendar",
+      "date": "2026-09-04",
+      "title": "Dungeon Raid",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/dungeon-raid--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-16",
+      "sequence": 1,
+      "igdb_game_id": 350475,
+      "igdb_release_date_ids": [
+        954218
+      ],
+      "igdb_updated_at": "2026-08-16T17:19:29+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Dungeon Raid is an adventure card roguelike. Dive deeper and deeper into the dungeon. Use everything you find to defeat enemies and kill the final boss. Good luck! And try not to die... from hunger.",
+      "cover_image_id": "coccz4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coccz4.jpg"
     },
     {
       "uid": "920fa4fc209843d77e49cb@game-release-calendar",
