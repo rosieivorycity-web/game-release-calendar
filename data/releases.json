@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 3947,
+    "event_count": 3949,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -74370,6 +74370,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co3o56.jpg"
     },
     {
+      "uid": "fb3b676d6527696c1f7767@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Deep Blue Sushi",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Deep Blue Sushi is a casual 1–5 player co-op adventure where you explore the ocean, catch fresh fish, prepare sushi, serve customers, and grow your restaurant while uncovering the secrets of the mysterious Deep Blue.",
+      "cover_image_id": "cocqef",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocqef.jpg",
+      "source": "https://www.igdb.com/games/deep-blue-sushi",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-20",
+      "sequence": 0,
+      "igdb_game_id": 414377,
+      "igdb_release_date_ids": [
+        955552
+      ],
+      "igdb_updated_at": "2026-08-20T16:11:14+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "5213cb90b11742e982f6fe@game-release-calendar",
       "date": "2026-08-20",
       "title": "Dino Hex Trap",
@@ -75461,6 +75486,31 @@
       ],
       "igdb_updated_at": "2026-08-07T07:51:34+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "dfd7ac4af6d7621f6927a1@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "ReDraft: The Fantasy Football Simulator",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A Fantasy Football simulator for PC: make your draft, create your team and win your fantasy league.",
+      "cover_image_id": "cocqbw",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocqbw.jpg",
+      "source": "https://www.igdb.com/games/redraft-the-fantasy-football-simulator",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-20",
+      "sequence": 0,
+      "igdb_game_id": 414361,
+      "igdb_release_date_ids": [
+        955487
+      ],
+      "igdb_updated_at": "2026-08-20T16:14:11+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "5e6274c8a64346149b4760@game-release-calendar",
