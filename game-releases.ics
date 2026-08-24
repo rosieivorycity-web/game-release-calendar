@@ -9527,17 +9527,17 @@ BEGIN:VEVENT
 UID:9a3a6713c850c155304344@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🚀 Digimon Story: Time Stranger — Switch release
-DESCRIPTION:Platforms: Switch\nRelease type: Platform release\nPrice: TBA
-  / not verified\nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB rele
- ase status: Full Release\nNotes: Automatically added from IGDB. Release 
- date is synchronized\; price is not.\nSource: https://www.igdb.com/games
- /digimon-story-time-stranger
+SUMMARY:🚀 Digimon Story: Time Stranger — Switch / Switch 2 release
+DESCRIPTION:Platforms: Switch • Switch 2\nRelease type: Platform releas
+ e\nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-
+ 12\nIGDB release status: Full Release\nNotes: Automatically added from I
+ GDB. Release date is synchronized\; price is not.\nSource: https://www.i
+ gdb.com/games/digimon-story-time-stranger
 URL:https://www.igdb.com/games/digimon-story-time-stranger
-CATEGORIES:GAME RELEASE,SWITCH
+CATEGORIES:GAME RELEASE,SWITCH,SWITCH_2
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -9615,17 +9615,17 @@ BEGIN:VEVENT
 UID:44c7619621bda0399bba34@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🚀 Echoes of Aincrad — PC release
-DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
- ot verified\nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release 
- status: Full Release\nNotes: Automatically added from IGDB. Release date
-  is synchronized\; price is not.\nSource: https://www.igdb.com/games/ech
- oes-of-aincrad
+SUMMARY:🚀 Echoes of Aincrad — PC / PS5 release
+DESCRIPTION:Platforms: PC • PS5\nRelease type: Platform release\nPrice:
+  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB 
+ release status: Full Release\nNotes: Automatically added from IGDB. Rele
+ ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
+ ames/echoes-of-aincrad
 URL:https://www.igdb.com/games/echoes-of-aincrad
-CATEGORIES:GAME RELEASE,PC
+CATEGORIES:GAME RELEASE,PC,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -43057,6 +43057,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e415b79d9bf140a45be35f@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:🚀 Crewmate Rush Space Escape Runner — PC release
+DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
+ ot verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release 
+ status: Full Release\nNotes: Automatically added from IGDB. Release date
+  is synchronized\; price is not.\nSource: https://www.igdb.com/games/cre
+ wmate-rush-space-escape-runner
+URL:https://www.igdb.com/games/crewmate-rush-space-escape-runner
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:5d747fe0453328a141f702@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -44074,6 +44092,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/landscaper-simu
  lator
 URL:https://www.igdb.com/games/landscaper-simulator
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a552b591db2eca6c1d138b@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:🎮 Lin Ling
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/lin-ling
+URL:https://www.igdb.com/games/lin-ling
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -46923,6 +46958,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d644479d49f40d6cf9778e@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:🚀 Karakulo 21 — PS5 release
+DESCRIPTION:Platforms: PS5\nRelease type: Platform release\nPrice: TBA / 
+ not verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release
+  status: Full Release\nNotes: Automatically added from IGDB. Release dat
+ e is synchronized\; price is not.\nSource: https://www.igdb.com/games/ka
+ rakulo-21--1
+URL:https://www.igdb.com/games/karakulo-21--1
+CATEGORIES:GAME RELEASE,PS5
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7285e4e9223c1f8ee022d6@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -49608,6 +49661,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6dbf2f9b2a3334c9080eec@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:🎮 Mr. Swop
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/mr-swop
+URL:https://www.igdb.com/games/mr-swop
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a61e7c5203a79f15ac4086@game-release-calendar
 DTSTAMP:20260819T120000Z
 LAST-MODIFIED:20260819T120000Z
@@ -49975,6 +50045,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:b514775d4346c4a7c36460@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🎮 Cursed Ciddy
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/cursed-ciddy
+URL:https://www.igdb.com/games/cursed-ciddy
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:abbd16d83c82bb371a8905@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -50202,6 +50289,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/mega-man-x-rege
  nesis
 URL:https://www.igdb.com/games/mega-man-x-regenesis
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:716f123148a9f69d61c24e@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🎮 Moon and Away
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/moon-and-away
+URL:https://www.igdb.com/games/moon-and-away
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -51184,6 +51288,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f0d1b37fadabfb90b75b67@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🎮 Real backrooms
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/real-backrooms
+URL:https://www.igdb.com/games/real-backrooms
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:041aeba1165e5d91543e@chatgpt-game-release-calendar
 DTSTAMP:20260811T120000Z
 LAST-MODIFIED:20260811T120000Z
@@ -51787,6 +51908,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2edbae821b8e7b9f0657f6@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:🎮 Manorism
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/manorism
+URL:https://www.igdb.com/games/manorism
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:5898f6f4bfc0dc7ce80fc9@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -52334,6 +52472,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:87546cfa768e4c1d6d9059@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🧩 Anno 117: Pax Romana – The Hippodrome
+DESCRIPTION:Platforms: PC • PS5\nRelease type: DLC / add-on\nPrice: TBA
+  / not verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB rele
+ ase status: Full Release\nNotes: Automatically added from IGDB. Release 
+ date is synchronized\; price is not.\nSource: https://www.igdb.com/games
+ /anno-117-pax-romana-the-hippodrome
+URL:https://www.igdb.com/games/anno-117-pax-romana-the-hippodrome
+CATEGORIES:GAME RELEASE,PC,PS5,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a351db2c4fe00bcec13ab@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -52539,24 +52695,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  itled-game
 URL:https://www.igdb.com/games/cosette-the-untitled-game
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6d9dd6c0639742c55b99b8@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:🎮 Cozy Farm Life Simulator
-DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
- \nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Ful
- l Release\nNotes: Automatically added from IGDB. Release date is synchro
- nized\; price is not.\nSource: https://www.igdb.com/games/cozy-farm-life
- -simulator
-URL:https://www.igdb.com/games/cozy-farm-life-simulator
-CATEGORIES:GAME RELEASE,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -53900,6 +54038,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:51bf3d9b5cf7712c9dc9c0@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🎮 Still Rain: The Arrival
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/still-rain-the-
+ arrival
+URL:https://www.igdb.com/games/still-rain-the-arrival
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ad740526d9955872c3509d@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -54217,6 +54373,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2de0223591001907d3e785@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🎮 Chef's Dogma
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/chefs-dogma
+URL:https://www.igdb.com/games/chefs-dogma
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a19947304194f99e7ccfe9@game-release-calendar
 DTSTAMP:20260817T120000Z
 LAST-MODIFIED:20260817T120000Z
@@ -54229,24 +54402,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/cicadamata
 URL:https://www.igdb.com/games/cicadamata
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0b047ceb765be5b40da57a@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:🎮 Click the Button
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/click-the-butto
- n
-URL:https://www.igdb.com/games/click-the-button
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -54443,6 +54598,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0cabfd009b56eff3045cfa@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🎮 Flora Parasocial
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/flora-parasocia
+ l
+URL:https://www.igdb.com/games/flora-parasocial
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:59e9b6c39b703b3eb6c715@game-release-calendar
 DTSTAMP:20260823T120000Z
 LAST-MODIFIED:20260823T120000Z
@@ -54599,6 +54772,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81686bb2a13f1296fe7826@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🎮 Mall: Tidy Up Together
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/mall-tidy-up-to
+ gether
+URL:https://www.igdb.com/games/mall-tidy-up-together
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ff6a6f45480a8e2fb764f3@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -54718,6 +54909,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Early Access\nPrice: TBA / not v
  video-game-releases-full-list-top-picks/
 URL:https://nuxgameguides.com/originals/all-august-2026-video-game-releas
  es-full-list-top-picks/
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49f3599d9955ba5fe7ebfa@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🎮 Reinforced Hearts
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/reinforced-hear
+ ts
+URL:https://www.igdb.com/games/reinforced-hearts
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -55125,6 +55334,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c08d0642890187df3580bd@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🎮 White Dwarf
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/white-dwarf
+URL:https://www.igdb.com/games/white-dwarf
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:85e8c308725a4197a344f6@game-release-calendar
 DTSTAMP:20260821T120000Z
 LAST-MODIFIED:20260821T120000Z
@@ -55159,6 +55385,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d3af7fd6327ccaeceb4072@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🎮 Ashes of Kardoria
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/ashes-of-kardor
+ ia
+URL:https://www.igdb.com/games/ashes-of-kardoria
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0e227356dd0b510f2540b0@game-release-calendar
 DTSTAMP:20260814T120000Z
 LAST-MODIFIED:20260814T120000Z
@@ -55172,6 +55416,23 @@ DESCRIPTION:Platforms: Switch\nRelease type: Game\nPrice: TBA / not verif
  ttps://www.igdb.com/games/blocky-powers
 URL:https://www.igdb.com/games/blocky-powers
 CATEGORIES:GAME RELEASE,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbe2084f4dc75b85629d3@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🎮 Deadline
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/deadline--7
+URL:https://www.igdb.com/games/deadline--7
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -55278,6 +55539,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:64b45ff1d0515a6121ba29@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🎮 Princess of Frozen Flowers
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/princess-of-fro
+ zen-flowers
+URL:https://www.igdb.com/games/princess-of-frozen-flowers
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3cf85d4fdc30c160e1fafd@game-release-calendar
 DTSTAMP:20260821T120000Z
 LAST-MODIFIED:20260821T120000Z
@@ -55291,6 +55570,95 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/superposition--
  2
 URL:https://www.igdb.com/games/superposition--2
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adf24c50784690703855d1@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🎮 Three Kingdoms: Shu-han Chronicles
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/three-kingdoms-
+ shu-han-chronicles
+URL:https://www.igdb.com/games/three-kingdoms-shu-han-chronicles
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6805d79214b98b73233f28@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🎮 GwenBlade Witcheresque
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/gwenblade-witch
+ eresque
+URL:https://www.igdb.com/games/gwenblade-witcheresque
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe7d49f9c8091dd6c9df2@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🎮 Open For Business
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/open-for-busine
+ ss
+URL:https://www.igdb.com/games/open-for-business
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:32d3820e93b46c3ec0a149@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🎮 Outbreak Compound
+DESCRIPTION:Platforms: Switch\nRelease type: Game\nPrice: TBA / not verif
+ ied\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: 
+ Full Release\nNotes: Automatically added from IGDB. Release date is sync
+ hronized\; price is not.\nSource: https://www.igdb.com/games/outbreak-co
+ mpound
+URL:https://www.igdb.com/games/outbreak-compound
+CATEGORIES:GAME RELEASE,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28435a9a29728dba5503e3@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🎮 Type Ride
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/type-ride
+URL:https://www.igdb.com/games/type-ride
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -55740,9 +56108,10 @@ DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:🎮 Titanic Escape Simulator
 DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nNotes: Automatically adde
- d from IGDB. Release date is synchronized\; price is not.\nSource: https
- ://www.igdb.com/games/titanic-escape-simulator
+ nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/titanic-escape-
+ simulator
 URL:https://www.igdb.com/games/titanic-escape-simulator
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
@@ -55815,6 +56184,23 @@ DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: DLC / add-o
  gdb.com/games/wwe-2k26-ringside-pass-premium-season-4
 URL:https://www.igdb.com/games/wwe-2k26-ringside-pass-premium-season-4
 CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:36ccdce5fac4f3c32ddb0c@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:🎮 Y2kill
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/y2kill
+URL:https://www.igdb.com/games/y2kill
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -56457,23 +56843,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:03c1eaae6a89ce4fef3194@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:🎮 Woman Simulator
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/woman-simulator
-URL:https://www.igdb.com/games/woman-simulator
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260814T120000Z
 LAST-MODIFIED:20260814T120000Z
@@ -56524,6 +56893,24 @@ DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game\nPrice
 URL:https://nuxgameguides.com/originals/all-august-2026-video-game-releas
  es-full-list-top-picks/
 CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0b047ceb765be5b40da57a@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:🎮 Click the Button
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/click-the-butto
+ n
+URL:https://www.igdb.com/games/click-the-button
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -57161,6 +57548,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  fall
 URL:https://www.igdb.com/games/condemned-nightfall
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9dd6c0639742c55b99b8@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 Cozy Farm Life Simulator
+DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
+ \nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Ful
+ l Release\nNotes: Automatically added from IGDB. Release date is synchro
+ nized\; price is not.\nSource: https://www.igdb.com/games/cozy-farm-life
+ -simulator
+URL:https://www.igdb.com/games/cozy-farm-life-simulator
+CATEGORIES:GAME RELEASE,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -58256,6 +58661,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8737665acced767cffcc2d@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:🎮 Alfred's Alien Abduction Adventure
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/alfreds-alien-a
+ bduction-adventure
+URL:https://www.igdb.com/games/alfreds-alien-abduction-adventure
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2665bd2cbd532c0bb7b522@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -58487,24 +58910,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/cats-and-seek-z
  oo
 URL:https://www.igdb.com/games/cats-and-seek-zoo
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:29f77740f078b11affaa67@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🎮 Chiqing Meimei Shaxue de Xiongkong Riji
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/chiqing-meimei-
- shaxue-de-xiongkong-riji
-URL:https://www.igdb.com/games/chiqing-meimei-shaxue-de-xiongkong-riji
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -59231,6 +59636,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:eb7268cbce5cb8fd5120d5@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:🧩 Vampire Survivors: Legacy of the Bloodmoon
+DESCRIPTION:Platforms: PC • PS5 • Switch\nRelease type: DLC / add-on\
+ nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-24
+ \nIGDB release status: Full Release\nNotes: Automatically added from IGD
+ B. Release date is synchronized\; price is not.\nSource: https://www.igd
+ b.com/games/vampire-survivors-legacy-of-the-bloodmoon
+URL:https://www.igdb.com/games/vampire-survivors-legacy-of-the-bloodmoon
+CATEGORIES:GAME RELEASE,PC,PS5,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fbe045b365e82a7c302285@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -59365,6 +59788,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game / remake\nPrice: TBA / not
  ow-prison-survival
 URL:https://www.igdb.com/games/hoosegow-prison-survival
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3f651d79997397e468207f@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:🎮 Tank Odyssey
+DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
+ \nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Ful
+ l Release\nNotes: Automatically added from IGDB. Release date is synchro
+ nized\; price is not.\nSource: https://www.igdb.com/games/tank-odyssey
+URL:https://www.igdb.com/games/tank-odyssey
+CATEGORIES:GAME RELEASE,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -59589,6 +60029,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/potential-man
 URL:https://www.igdb.com/games/potential-man
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eba5ef9bd3a41cd9353fe0@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:🎮 Project Reignition
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/project-reignit
+ ion
+URL:https://www.igdb.com/games/project-reignition
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -59923,6 +60381,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  d from IGDB. Release date is synchronized\; price is not.\nSource: https
  ://www.igdb.com/games/first-light--2
 URL:https://www.igdb.com/games/first-light--2
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b2445f97e9ef7942daac22@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🎮 Fleet Hunters
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/fleet-hunters
+URL:https://www.igdb.com/games/fleet-hunters
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -60307,6 +60782,23 @@ DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game / 1.0\
 URL:https://www.gematsu.com/2026/08/moonlighter-2-the-endless-vault-launc
  hes-september-2
 CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:82eab9f01d1dd00e234f45@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Staged
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/staged
+URL:https://www.igdb.com/games/staged
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -60779,6 +61271,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ee94fdc1e4992376125fee@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 Tetword
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/tetword
+URL:https://www.igdb.com/games/tetword
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:482732abf6635546cc13@chatgpt-game-release-calendar
 DTSTAMP:20260811T120000Z
 LAST-MODIFIED:20260811T120000Z
@@ -60924,6 +61433,41 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:365b86c7c3f0d1a6c11f57@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🎮 Boneyard Bounce!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/boneyard-bounce
+URL:https://www.igdb.com/games/boneyard-bounce
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29f77740f078b11affaa67@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🎮 Chiqing Meimei Shaxue de Xiongkong Riji
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/chiqing-meimei-
+ shaxue-de-xiongkong-riji
+URL:https://www.igdb.com/games/chiqing-meimei-shaxue-de-xiongkong-riji
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fa030893e0c643c23751ec@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -60984,9 +61528,10 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:🚀 Fear the Timeloop — PS5 release
 DESCRIPTION:Platforms: PS5\nRelease type: Platform release\nPrice: TBA / 
- not verified\nStatus: Confirmed\nLast verified: 2026-08-13\nNotes: Autom
- atically added from IGDB. Release date is synchronized\; price is not.\n
- Source: https://www.igdb.com/games/fear-the-timeloop
+ not verified\nStatus: Confirmed\nLast verified: 2026-08-13\nIGDB release
+  status: Full Release\nNotes: Automatically added from IGDB. Release dat
+ e is synchronized\; price is not.\nSource: https://www.igdb.com/games/fe
+ ar-the-timeloop
 URL:https://www.igdb.com/games/fear-the-timeloop
 CATEGORIES:GAME RELEASE,PS5
 TRANSP:TRANSPARENT
@@ -61712,6 +62257,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f968d26b8c374d917ac81a@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🎮 Reality Breach
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/reality-breach-
+ -1
+URL:https://www.igdb.com/games/reality-breach--1
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9dfb09ce0cac519828d277@game-release-calendar
 DTSTAMP:20260816T120000Z
 LAST-MODIFIED:20260816T120000Z
@@ -62069,9 +62632,10 @@ DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:🎮 Cat Me If You Can
 DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-11\nNotes: Listed on current 
- 2026 release calendars.\nSource: https://www.gamespot.com/articles/2026-
- upcoming-games-release-schedule/1100-6534941/
+ nStatus: Confirmed\nLast verified: 2026-08-11\nIGDB release status: Full
+  Release\nNotes: Listed on current 2026 release calendars.\nSource: http
+ s://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-
+ 6534941/
 URL:https://www.gamespot.com/articles/2026-upcoming-games-release-schedul
  e/1100-6534941/
 CATEGORIES:GAME RELEASE,PC
@@ -62216,6 +62780,25 @@ DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game\nPrice
  games/sprawl-zero
 URL:https://www.igdb.com/games/sprawl-zero
 CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a28c06cf7df942aa7a1f21@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🧩 Surviving Mars: Relaunched - Feeding the Future
+DESCRIPTION:Platforms: PC • PS5\nRelease type: DLC / add-on\nPrice: TBA
+  / not verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB rele
+ ase status: Full Release\nNotes: Automatically added from IGDB. Release 
+ date is synchronized\; price is not.\nSource: https://www.igdb.com/games
+ /surviving-mars-relaunched-feeding-the-future
+URL:https://www.igdb.com/games/surviving-mars-relaunched-feeding-the-futu
+ re
+CATEGORIES:GAME RELEASE,PC,PS5,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -62642,6 +63225,42 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:b46ace554ab7a893fbe599@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🧩 Crafty Survivors: Wicked Winter
+DESCRIPTION:Platforms: PC\nRelease type: DLC / add-on\nPrice: TBA / not v
+ erified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release stat
+ us: Full Release\nNotes: Automatically added from IGDB. Release date is 
+ synchronized\; price is not.\nSource: https://www.igdb.com/games/crafty-
+ survivors-wicked-winter
+URL:https://www.igdb.com/games/crafty-survivors-wicked-winter
+CATEGORIES:GAME RELEASE,PC,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1b8cd579b3025f0eb903@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🎮 Dumb Ways to Build
+DESCRIPTION:Platforms: PC • PS5\nRelease type: Game\nPrice: TBA / not v
+ erified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release stat
+ us: Full Release\nNotes: Automatically added from IGDB. Release date is 
+ synchronized\; price is not.\nSource: https://www.igdb.com/games/dumb-wa
+ ys-to-build
+URL:https://www.igdb.com/games/dumb-ways-to-build
+CATEGORIES:GAME RELEASE,PC,PS5
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:4fa18787d8b92694747e49@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -62762,6 +63381,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
  anatsu-of-churches-sunflowers-and-long-summers
 URL:https://www.igdb.com/games/himanatsu-of-churches-sunflowers-and-long-
  summers
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f469269f90daa89e45cfca@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🎮 Hitherto: School of Swordcery and Shieldjuration
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/hitherto-school
+ -of-swordcery-and-shieldjuration
+URL:https://www.igdb.com/games/hitherto-school-of-swordcery-and-shieldjur
+ ation
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -63013,6 +63651,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/welcome-to-elde
  rfield
 URL:https://www.igdb.com/games/welcome-to-elderfield
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c51f42f54c896442004e50@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🎮 Ball Scratch Simulator
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/ball-scratch-si
+ mulator
+URL:https://www.igdb.com/games/ball-scratch-simulator
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -63651,6 +64307,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:df74c8500ba97498f87b2f@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Garage: Tidy Up!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/garage-tidy-up
+URL:https://www.igdb.com/games/garage-tidy-up
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:628d2843238e6d3bc5065a@game-release-calendar
 DTSTAMP:20260814T120000Z
 LAST-MODIFIED:20260814T120000Z
@@ -63767,6 +64440,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Expanded edition\nPrice: TBA / n
   is synchronized\; price is not.\nSource: https://www.igdb.com/games/par
  atopic-overdub
 URL:https://www.igdb.com/games/paratopic-overdub
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4577939c16a77e7bac3240@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Phobos
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/phobos--4
+URL:https://www.igdb.com/games/phobos--4
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -64357,6 +65047,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e8089cd7d65957c2c1b99b@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🎮 Cheap Tattoo
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/cheap-tattoo
+URL:https://www.igdb.com/games/cheap-tattoo
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f2a3a5036933d8c084e9d2@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -64689,6 +65396,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0ac69ec65101d656f5e85d@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🎮 Echoes of Mora
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/echoes-of-mora
+URL:https://www.igdb.com/games/echoes-of-mora
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fa799e907608102df6dc@chatgpt-game-release-calendar
 DTSTAMP:20260811T120000Z
 LAST-MODIFIED:20260811T120000Z
@@ -64772,6 +65496,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/bugarden
 URL:https://www.igdb.com/games/bugarden
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4103d2e78846146e78d6f1@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🚀 Cupid Parasite — PC release
+DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
+ ot verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release 
+ status: Full Release\nNotes: Automatically added from IGDB. Release date
+  is synchronized\; price is not.\nSource: https://www.igdb.com/games/cup
+ id-parasite
+URL:https://www.igdb.com/games/cupid-parasite
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -64884,6 +65626,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:86dc18c1713eef549f5398@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🎮 Stuntboost
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/stuntboost
+URL:https://www.igdb.com/games/stuntboost
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9813ec4ce50ff3947aa767@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -64918,6 +65677,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:03c1eaae6a89ce4fef3194@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🎮 Woman Simulator
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/woman-simulator
+URL:https://www.igdb.com/games/woman-simulator
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9ff591682cab4bbd24ed1b@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -64930,6 +65706,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/gobble
 URL:https://www.igdb.com/games/gobble
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:47f9ed4b993f791aeb362f@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🚀 Stick It to the Stickman — PC release
+DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
+ ot verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release 
+ status: Full Release\nNotes: Automatically added from IGDB. Release date
+  is synchronized\; price is not.\nSource: https://www.igdb.com/games/sti
+ ck-it-to-the-stickman
+URL:https://www.igdb.com/games/stick-it-to-the-stickman
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -65342,6 +66136,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8ed1e7cdfc8686fb8cfc52@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎮 Museologist: Tidy Up the Museum!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/museologist-tid
+ y-up-the-museum
+URL:https://www.igdb.com/games/museologist-tidy-up-the-museum
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:65a656098d7d096ac701d0@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -65582,6 +66394,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/sayagatari-prom
  ise-of-the-cursed-blade
 URL:https://www.igdb.com/games/sayagatari-promise-of-the-cursed-blade
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7dc8f97f8b2384e7e48a@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🎮 Smoke Keeper
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/smoke-keeper
+URL:https://www.igdb.com/games/smoke-keeper
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -66406,6 +67235,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f706a936916b3bb6ae732b@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🎮 RetroSpace
+DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game\nPrice
+ : TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB
+  release status: Full Release\nNotes: Automatically added from IGDB. Rel
+ ease date is synchronized\; price is not.\nSource: https://www.igdb.com/
+ games/retrospace
+URL:https://www.igdb.com/games/retrospace
+CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:eb42a5967af5c6def13bb1@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -66438,6 +67285,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -1
 URL:https://www.igdb.com/games/tile-and-error--1
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -66616,6 +67482,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/fafo-executive-
  order-simulator
 URL:https://www.igdb.com/games/fafo-executive-order-simulator
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7941e7bae81212bbea4fc9@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🎮 Tidy Backpack: In the Faraway Lands
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/tidy-backpack-i
+ n-the-faraway-lands
+URL:https://www.igdb.com/games/tidy-backpack-in-the-faraway-lands
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -68043,6 +68927,24 @@ DESCRIPTION:Platforms: Switch 2\nRelease type: Platform release\nPrice: T
  .nintendo.com/au/nintendo-direct/
 URL:https://www.nintendo.com/au/nintendo-direct/
 CATEGORIES:GAME RELEASE,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c2076e9279eaa62d31ffef@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🎮 The World's Shortest Horror Game
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/the-worlds-shor
+ test-horror-game
+URL:https://www.igdb.com/games/the-worlds-shortest-horror-game
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -69906,6 +70808,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a6afdbfcd89d96184a5ea6@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🎮 Carve The Cave Together
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/carve-the-cave-
+ together
+URL:https://www.igdb.com/games/carve-the-cave-together
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3565277d6f77005de9388f@game-release-calendar
 DTSTAMP:20260822T120000Z
 LAST-MODIFIED:20260822T120000Z
@@ -70181,25 +71101,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  l
 URL:https://www.igdb.com/games/fancy-farm-brawl
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
-DESCRIPTION:Platforms: Switch\nRelease type: DLC / add-on\nPrice: TBA / n
- ot verified\nStatus: Confirmed\nLast verified: 2026-08-12\nNotes: Automa
- tically added from IGDB. Release date is synchronized\; price is not.\nS
- ource: https://www.igdb.com/games/wingspan-bird-pack-birds-of-continenta
- l-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -71655,6 +72556,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6b01d230a729298d335cc8@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🎮 Shell Soldier
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/shell-soldier
+URL:https://www.igdb.com/games/shell-soldier
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:10ad29e1d8864266f4fd02@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -72462,6 +73380,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  a\nNotes: Automatically added from IGDB. Release date is synchronized\; 
  price is not.\nSource: https://www.igdb.com/games/on-tape-rewind
 URL:https://www.igdb.com/games/on-tape-rewind
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:478ecb667c75c525849533@game-release-calendar
+DTSTAMP:20260824T120000Z
+LAST-MODIFIED:20260824T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:🎮 Everguest: The Veiled Inn
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-08-24\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/everguest-the-v
+ eiled-inn
+URL:https://www.igdb.com/games/everguest-the-veiled-inn
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
