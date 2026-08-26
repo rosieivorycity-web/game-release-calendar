@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 4232,
+    "event_count": 4287,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-08-25",
-      "window_start": "2026-07-11",
-      "window_end": "2028-08-24",
+      "last_scan": "2026-08-26",
+      "window_start": "2026-07-12",
+      "window_end": "2028-08-25",
       "platforms": [
         "PC",
         "PS5",
@@ -26506,6 +26506,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobnjy.jpg"
     },
     {
+      "uid": "97f39be351e20ab1bafea3@game-release-calendar",
+      "date": "2026-07-17",
+      "title": "Hunter's Journey: Nightmare Hunting",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/hunters-journey-nightmare-hunting",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414938,
+      "igdb_release_date_ids": [
+        957080
+      ],
+      "igdb_updated_at": "2026-08-25T19:54:19+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "7282e4c51ce21d04b3bd14@game-release-calendar",
       "date": "2026-07-17",
       "title": "Huntervania",
@@ -31831,8 +31856,8 @@
       "igdb_updated_at": "2026-07-13T14:17:21+00:00",
       "igdb_release_status": "Early Access",
       "summary": "You wake with no memory inside a world under the influence of the Anima. In Soulbound, slay hordes of enemies in roguelite dungeon runs, craft legendary weapons and build your base. Squad up for 3-player co-op, compete in clan raids for rare loot, and survive in a massive open world MMORPG.",
-      "cover_image_id": "co8ju7",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8ju7.jpg"
+      "cover_image_id": "cocrnr",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrnr.jpg"
     },
     {
       "uid": "6f8e56d517716db4839f56@game-release-calendar",
@@ -46587,6 +46612,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coclgk.jpg"
     },
     {
+      "uid": "29f78e6a047940247d9bcf@game-release-calendar",
+      "date": "2026-07-30",
+      "title": "Luck of the Draw",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A wild west themed Roguelike Deck-builder where you claim bounties by getting into western standoffs and growing your arsenal. Order your bullets and buffs into the cylinder to create devastating combos and deal massive damage!",
+      "cover_image_id": "cocrow",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrow.jpg",
+      "source": "https://www.igdb.com/games/luck-of-the-draw",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415123,
+      "igdb_release_date_ids": [
+        957561
+      ],
+      "igdb_updated_at": "2026-08-26T14:28:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f49b7155894607b651c437@game-release-calendar",
       "date": "2026-07-30",
       "title": "Ludus: A Gladiator Story",
@@ -50287,8 +50337,8 @@
       "igdb_updated_at": "2026-07-22T21:20:12+00:00",
       "igdb_release_status": "Full Release",
       "summary": "Sephiria is a top-down action rogue-lite game with pixel graphics. Go down the tower, meet various animals, and collect various talismans and artifacts to become stronger.",
-      "cover_image_id": "co9m29",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9m29.jpg"
+      "cover_image_id": "cocrlm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrlm.jpg"
     },
     {
       "uid": "b2b5d9e5ce0c81d7befbb7@game-release-calendar",
@@ -69393,6 +69443,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob3kg.jpg"
     },
     {
+      "uid": "75ae3b267ef26f3ddb5b89@game-release-calendar",
+      "date": "2026-08-14",
+      "title": "Eden: World Builder — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A block-based sandbox game focused on creativity, exploration, and experimentation. Build and reshape expansive worlds with varied materials, colors, interactive objects, explosives, portals, and other tools while discovering friendly and aggressive creatures. Share creations with the community, explore user-made worlds, or build and socialize with friends in multiplayer servers.",
+      "cover_image_id": "cocrgm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrgm.jpg",
+      "source": "https://www.igdb.com/games/eden-world-builder",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 89535,
+      "igdb_release_date_ids": [
+        957089
+      ],
+      "igdb_updated_at": "2026-08-25T18:01:29+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "ce8ee443a239078a27aaf7@game-release-calendar",
       "date": "2026-08-14",
       "title": "FairyLand",
@@ -71382,6 +71457,31 @@
         954140
       ],
       "igdb_updated_at": "2026-08-17T14:11:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "ebbbb225aaec5cc6ff60fc@game-release-calendar",
+      "date": "2026-08-16",
+      "title": "Lycoris: Underworld",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Defend against relentless enemy waves in an all-new tactical survival mode! Experience intense, high-stakes combat featuring striking, seductive prone-shooting animations and dynamic waifu action.",
+      "cover_image_id": "cocrhd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrhd.jpg",
+      "source": "https://www.igdb.com/games/lycoris-underworld",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 413834,
+      "igdb_release_date_ids": [
+        957123
+      ],
+      "igdb_updated_at": "2026-08-26T02:21:36+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -73402,7 +73502,7 @@
     {
       "uid": "f0d1b37fadabfb90b75b67@game-release-calendar",
       "date": "2026-08-18",
-      "title": "Real backrooms",
+      "title": "Real Backrooms",
       "platforms": [
         "PC"
       ],
@@ -73416,7 +73516,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-24",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 414622,
       "igdb_release_date_ids": [
         956272
@@ -74124,6 +74224,31 @@
       "summary": "Holey is a co-op horror game where you are part of a crew sheltering in a collapsed tunnel, scavenging loot across maps filled with deadly creatures born from a biological war. Feed the creature, convert its waste into fuel, and reach the radio tower",
       "cover_image_id": "cocbgq",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocbgq.jpg"
+    },
+    {
+      "uid": "8da8d2dc3ffce19b7f8c41@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "Hoshizora he Tatsuhi",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An occult suspense girl-meets-girl story in which a rumor-loving girl 'interviews' a serial killer.",
+      "cover_image_id": "cocrg3",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrg3.jpg",
+      "source": "https://www.igdb.com/games/hoshizora-he-tatsuhi",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414936,
+      "igdb_release_date_ids": [
+        957076
+      ],
+      "igdb_updated_at": "2026-08-26T02:42:51+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "9afd87dd871a458d2677dc@game-release-calendar",
@@ -74879,6 +75004,181 @@
       "summary": "Speed & Weight - Perfect Body Bob is joining the fight!"
     },
     {
+      "uid": "8e0bb40ab738ba59c93426@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Audi Car Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Unleash the power of Quattro. Dominate the streets in the Audi RS Q8, carve up corners with the agile 2017 TT RS, and experience a true wagon legend with the iconic 1993 RS2 Avant.",
+      "cover_image_id": "cocrkm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrkm.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-audi-car-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415026,
+      "igdb_release_date_ids": [
+        957343
+      ],
+      "igdb_updated_at": "2026-08-25T23:48:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "88182de824bd49e0a44af7@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Bike Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Rule the open road with high-speed performance. Push the limits on the Ducati Panigale, unleash the raw power of the Kawasaki Z1000, and tear up the track on the fierce 2015 KTM 1190 RC8 R.",
+      "cover_image_id": "cocrk9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrk9.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-bike-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415022,
+      "igdb_release_date_ids": [
+        957313
+      ],
+      "igdb_updated_at": "2026-08-25T23:19:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f866e1ef2c11a1b5595d0a@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: BMW Car Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Experience precision German engineering at its finest. Drive the futuristic BMW i8 Roadster, rule the streets with the high-performance BMW M2 F87, and feel the wind in the sleek 2011 BMW Z4.",
+      "cover_image_id": "cocrkl",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrkl.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-bmw-car-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415025,
+      "igdb_release_date_ids": [
+        957340
+      ],
+      "igdb_updated_at": "2026-08-25T23:44:23+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "9d26e168f278262d8d092b@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Mercedes Car Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Unleash luxury and raw V8 power. Cruise in style with the 2009 Mercedes SL63 AMG, dominate the asphalt in the legendary Mercedes SLR722, and turn heads with the iconic gullwing 2010 Mercedes SLS.",
+      "cover_image_id": "cocrki",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrki.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-mercedes-car-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415024,
+      "igdb_release_date_ids": [
+        957332
+      ],
+      "igdb_updated_at": "2026-08-25T23:37:50+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "c23d1f4fed1df8b1f0f910@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Nissan Car Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Drive the iconic Nissan 300ZX (Z32), unleash the track-ready Nissan 370Z Nismo, and dominate the streets in the legendary 2020 Nissan GT-R Nismo.",
+      "cover_image_id": "cocrk8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrk8.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-nissan-car-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415021,
+      "igdb_release_date_ids": [
+        957310
+      ],
+      "igdb_updated_at": "2026-08-25T23:17:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "4a51270e9da45593ee98e6@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Porsche Car Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Experience the iconic Porsche 911 Carrera RS 2.7, dominate with the raw power of the 2022 Cayenne Turbo GT, and blast down the highway in the sleek 2021 Panamera Turbo S Sport Turismo.",
+      "cover_image_id": "cocrka",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrka.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-porsche-car-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415020,
+      "igdb_release_date_ids": [
+        957323
+      ],
+      "igdb_updated_at": "2026-08-25T23:22:14+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2f7404ea45943c839911f9@game-release-calendar",
+      "date": "2026-08-19",
+      "title": "The Crew 2: Sky, Dirt, and Waves Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Master the waters in the high-speed DCB M31 powerboat, slice through the skies with the agile Zivko Edge 540 aerobatic plane, and tear up the trails on the gritty KTM 450 EXC dirt bike.",
+      "cover_image_id": "cocrke",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrke.jpg",
+      "source": "https://www.igdb.com/games/the-crew-2-sky-dirt-and-waves-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415023,
+      "igdb_release_date_ids": [
+        957327
+      ],
+      "igdb_updated_at": "2026-08-25T23:29:52+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "dfaae88571289773938dcf@game-release-calendar",
       "date": "2026-08-19",
       "title": "Tic-Tac: Twelve O’Clock",
@@ -75153,6 +75453,58 @@
         956540
       ],
       "igdb_updated_at": "2026-08-24T01:31:04+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "0585b6e153189f67c86c6e@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Arcade Archives 2: Cyber Cycles",
+      "platforms": [
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "\"CYBER CYCLES\" is a racing game released by NAMCO LIMITED (current Bandai Namco Entertainment Inc.) in 1995. This game featured a large bike-style cabinet design that stood out at arcades at the time. Set against the backdrop of near-future motorcycle racing, choose from a lineup of unique machines with different performance features, and cross the finish line ahead of all your rivals!",
+      "cover_image_id": "cocrk6",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrk6.jpg",
+      "source": "https://www.igdb.com/games/arcade-archives-2-cyber-cycles",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414798,
+      "igdb_release_date_ids": [
+        957304,
+        957305
+      ],
+      "igdb_updated_at": "2026-08-25T23:01:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "af315e517ca562cb7d7cc2@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Arcade Archives: Cyber Cycles",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "\"CYBER CYCLES\" is a racing game released by NAMCO LIMITED (current Bandai Namco Entertainment Inc.) in 1995. This game featured a large bike-style cabinet design that stood out at arcades at the time. Set against the backdrop of near-future motorcycle racing, choose from a lineup of unique machines with different performance features, and cross the finish line ahead of all your rivals!",
+      "cover_image_id": "cocrbu",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrbu.jpg",
+      "source": "https://www.igdb.com/games/arcade-archives-cyber-cycles",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414882,
+      "igdb_release_date_ids": [
+        957303
+      ],
+      "igdb_updated_at": "2026-08-25T22:26:56+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -75507,8 +75859,9 @@
     {
       "uid": "00dcd2d7f470bcf9a05a84@game-release-calendar",
       "date": "2026-08-20",
-      "title": "Dark Reflection — Switch release",
+      "title": "Dark Reflection — PS5 / Switch release",
       "platforms": [
+        "PS5",
         "Switch"
       ],
       "release_type": "Platform release",
@@ -75518,12 +75871,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 121970,
       "igdb_release_date_ids": [
-        947717
+        947717,
+        957370
       ],
-      "igdb_updated_at": "2026-07-31T03:33:37+00:00",
+      "igdb_updated_at": "2026-08-26T02:45:28+00:00",
       "igdb_release_status": null,
       "summary": "\"Dark reflection\" is a mix of good old-fashioned aesthetics of pixel games, black humor and light philosophy with cool and catchy music.",
       "cover_image_id": "co3o56",
@@ -77559,7 +77913,9 @@
       ],
       "igdb_updated_at": "2026-07-07T03:18:17+00:00",
       "igdb_release_status": "Full Release",
-      "summary": "A hundred years of waiting comes to an end. In the name of Qliphoth, Karel declares war upon the Descendants. Prepare yourselves for the ultimate battle."
+      "summary": "A hundred years of waiting comes to an end. In the name of Qliphoth, Karel declares war upon the Descendants. Prepare yourselves for the ultimate battle.",
+      "cover_image_id": "cocrga",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrga.jpg"
     },
     {
       "uid": "620e611e02172621355cc8@game-release-calendar",
@@ -77787,6 +78143,31 @@
       "summary": "The Horde is coming, but you're ready to fight it! Arm your team to your liking and discover which synergies work best against thousands of the undead. Survive, evolve, and break the limits in this casual yet heart-pumping rogue-lite reverse bullet hell.",
       "cover_image_id": "co72ye",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co72ye.jpg"
+    },
+    {
+      "uid": "1ad8fe67a4bee67e5c3c51@game-release-calendar",
+      "date": "2026-08-21",
+      "title": "4096 Space Traders Era",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/4096-space-traders-era",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414799,
+      "igdb_release_date_ids": [
+        957365
+      ],
+      "igdb_updated_at": "2026-08-26T02:15:58+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "02807d68bf4c7d47906e5c@game-release-calendar",
@@ -78921,6 +79302,35 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocmgg.jpg"
     },
     {
+      "uid": "1156459df8050d5a8efd9b@game-release-calendar",
+      "date": "2026-08-21",
+      "title": "Tails of Iron II: Blood and Brine",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "release_type": "Major update",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Blood and Brine, the free expansion for Tails of Iron 2: Whiskers of Winter. Leave the frozen wastes of the North behind and travel to Hardshell Brook, a coastal settlement where new characters, dangerous creatures and something altogether more sinister are waiting beneath the waves.",
+      "cover_image_id": "cocr8p",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr8p.jpg",
+      "source": "https://www.igdb.com/games/tails-of-iron-ii-blood-and-brine",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414781,
+      "igdb_release_date_ids": [
+        956568,
+        956569,
+        956572
+      ],
+      "igdb_updated_at": "2026-08-26T03:12:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "ed2482eeabeca5e898ceaf@game-release-calendar",
       "date": "2026-08-21",
       "title": "Tanks: Total Destruction",
@@ -79373,8 +79783,9 @@
     {
       "uid": "85e8c308725a4197a344f6@game-release-calendar",
       "date": "2026-08-21",
-      "title": "With Eyes of Ice — Switch release",
+      "title": "With Eyes of Ice — PS5 / Switch release",
       "platforms": [
+        "PS5",
         "Switch"
       ],
       "release_type": "Platform release",
@@ -79387,12 +79798,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-21",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 251971,
       "igdb_release_date_ids": [
-        955694
+        955694,
+        957367
       ],
-      "igdb_updated_at": "2026-08-21T02:48:52+00:00",
+      "igdb_updated_at": "2026-08-26T02:45:23+00:00",
       "igdb_release_status": null
     },
     {
@@ -79821,6 +80233,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "da9178766564e808b81e55@game-release-calendar",
+      "date": "2026-08-23",
+      "title": "Pokémon Survivors Burst",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Pokémon Survivors Burst is a free, unofficial Pokémon fan game focused on survival-action gameplay. Players control a Pokémon directly while facing increasingly dangerous enemy waves, gaining experience and choosing upgrades and abilities throughout each run. The game features multiple playable characters, progression challenges, boss encounters, Classic and Rush game modes, and online leaderboards. Pokémon…",
+      "cover_image_id": "cocra1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocra1.jpg",
+      "source": "https://www.igdb.com/games/pokemon-survivors-burst",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414864,
+      "igdb_release_date_ids": [
+        956874
+      ],
+      "igdb_updated_at": "2026-08-26T02:31:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "6463f5285865da78b8b038@game-release-calendar",
       "date": "2026-08-23",
       "title": "T7's Basics in Birthday",
@@ -79831,8 +80268,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Celebrate the original game but collect 7 cakes and get out to win!",
-      "cover_image_id": null,
-      "cover_url": null,
+      "cover_image_id": "cocrm2",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrm2.jpg",
       "source": "https://www.igdb.com/games/t7-s-basics-in-birthday",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -79869,6 +80306,31 @@
       ],
       "igdb_updated_at": "2026-08-23T20:18:34+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "a3f8e88ba20a721cb3f017@game-release-calendar",
+      "date": "2026-08-24",
+      "title": "1-2-Splendid Word Search!",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cocqi0",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocqi0.jpg",
+      "source": "https://www.igdb.com/games/1-2-splendid-word-search",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414432,
+      "igdb_release_date_ids": [
+        957364
+      ],
+      "igdb_updated_at": "2026-08-26T02:17:10+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "d435bfce24276780fd1297@game-release-calendar",
@@ -81196,6 +81658,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "71c32a0e37d25f4911a8f2@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "A College of Thirst & Claws: Season 1",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An immersive, story-driven adult visual novel. As a werewolf joining a supernatural college, you'll be thrown into the deep end of a sinister conspiracy in the town of Lanstone. Develop relationships with beautiful women as you shape the story with your choices.",
+      "cover_image_id": "co8838",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8838.jpg",
+      "source": "https://www.igdb.com/games/a-college-of-thirst-and-claws-season-1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 301678,
+      "igdb_release_date_ids": [
+        957270
+      ],
+      "igdb_updated_at": "2026-08-25T20:45:12+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "85c432b47a7a73522e0f51@game-release-calendar",
       "date": "2026-08-25",
       "title": "A Couple Nights at the Chud House",
@@ -81320,7 +81807,7 @@
       ],
       "igdb_updated_at": "2026-07-31T12:50:02+00:00",
       "igdb_release_status": "Full Release",
-      "summary": "Astral Court DX is an arcade bullet hell platformer! Taking place in Heaven, you play as \"The Prisoner\" - an infamous criminal who's been to prison one too many times and is sent to death-row! Heaven's one and only court, the Astral Court, is an... odd one... and decides to grant The Prisoner with a series of deadly trials that, if completed, will allow them to get out of prison scot-free! In these trials, you…",
+      "summary": "Astral Court DX is an arcade precision platformer! Taking place in Heaven, you play as \"The Prisoner\" - an infamous criminal who's been to prison one too many times and is sent to death-row! Heaven's one and only court, the Astral Court, is an... odd one... and decides to grant The Prisoner with a series of deadly trials that, if completed, will allow them to get out of prison scot-free! In these trials, you…",
       "cover_image_id": "cobx07",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobx07.jpg"
     },
@@ -81379,6 +81866,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc6y8.jpg"
     },
     {
+      "uid": "be5c77290f766dc11a45df@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Cherry Blossom",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The game \"Cherry blossom\" is about a cute little bear who went to save a wise tree from darkness.",
+      "cover_image_id": "coaxl3",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coaxl3.jpg",
+      "source": "https://www.igdb.com/games/cherry-blossom--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 380064,
+      "igdb_release_date_ids": [
+        957271
+      ],
+      "igdb_updated_at": "2026-08-25T20:47:27+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "db1231c3e0b4701894d73b@game-release-calendar",
       "date": "2026-08-25",
       "title": "Chronicles Puzzle: History Path",
@@ -81402,6 +81914,31 @@
       "summary": "Piece together the shards of time in this historical sliding puzzle game. Experience a journey from the Big Bang to the future through 80 unique levels and 320 challenges. Choose from four difficulties, collect trophies, and unlock the wonders of the world - available in 14 languages.",
       "cover_image_id": "coc8xd",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc8xd.jpg"
+    },
+    {
+      "uid": "8ad814c6b27adddda47e6a@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Crabs: Chef's Story",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In this Multiplayer Party Brawler, play as one of 'Chef's' crabs! Launch crab ass with 'Crab-fu' and battle online in a number of crazy game modes designed to push your crabs abilities to the limit.",
+      "cover_image_id": "co5d61",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co5d61.jpg",
+      "source": "https://www.igdb.com/games/crabs-chefs-story",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 197089,
+      "igdb_release_date_ids": [
+        957266
+      ],
+      "igdb_updated_at": "2026-08-25T20:43:06+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "2f9fd17536f239776e1850@game-release-calendar",
@@ -81433,6 +81970,8 @@
       "date": "2026-08-25",
       "title": "Funguys Swarm",
       "platforms": [
+        "PC",
+        "PS5",
         "Switch 2"
       ],
       "release_type": "Game",
@@ -81442,13 +81981,15 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-14",
-      "sequence": 2,
+      "sequence": 3,
       "igdb_game_id": 332851,
       "igdb_release_date_ids": [
-        953419
+        957273,
+        957274,
+        957300
       ],
-      "igdb_updated_at": "2026-08-14T00:45:44+00:00",
-      "igdb_release_status": null,
+      "igdb_updated_at": "2026-08-25T21:53:01+00:00",
+      "igdb_release_status": "Full Release",
       "summary": "Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire—and it’s very much not fine. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe—just maybe—save the day if you’re skilled (or lucky) enough.",
       "cover_image_id": "co9ouv",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9ouv.jpg"
@@ -81501,6 +82042,31 @@
         955438
       ],
       "igdb_updated_at": "2026-08-20T13:20:50+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "b57eb2ae8f788ad75639cf@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Guardians of Dreamstate",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Guardians of Dreamstate TCG is a fantasy trading card game where both players share every turn. Draw, Set, LVL UP and battle across five lanes every turn. Your goal of the game is simple, damage your opponents 7 card life deck while they have none remaining and you win the game!",
+      "cover_image_id": "cocrhf",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrhf.jpg",
+      "source": "https://www.igdb.com/games/guardians-of-dreamstate",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414965,
+      "igdb_release_date_ids": [
+        957125
+      ],
+      "igdb_updated_at": "2026-08-25T18:07:24+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -81706,6 +82272,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7r20.jpg"
     },
     {
+      "uid": "8da995b0db0e22f8ced1da@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Magic Market World",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "\"Magic Market World\" is a PvP rhythm game with strategic elements. Place your advertisement spells, sell your products and make sure to stay ahead of the competition!",
+      "cover_image_id": "cocrp3",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrp3.jpg",
+      "source": "https://www.igdb.com/games/magic-market-world",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415129,
+      "igdb_release_date_ids": [
+        957569
+      ],
+      "igdb_updated_at": "2026-08-26T14:38:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "ed50f175c4e3e385a754e4@game-release-calendar",
       "date": "2026-08-25",
       "title": "Monke Survivor",
@@ -81805,6 +82396,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "54ac5dee39a74e0fed8eac@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "OverInfected",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "OverInfected is a tactical roguelike auto battler featuring parasite management mechanics, where your life is on a timer. The stronger you are, the faster your ‘weapon’ kills you. Death isn’t an option – it’s a core gameplay element. During a run, you’ll need to find hosts to transfer into, freeing yourself from your problems. Sooner or later, your life will start all over again.",
+      "cover_image_id": "cocrd8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrd8.jpg",
+      "source": "https://www.igdb.com/games/overinfected",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414898,
+      "igdb_release_date_ids": [
+        956989
+      ],
+      "igdb_updated_at": "2026-08-26T02:23:21+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "6dcb8ad52c6f49c7874465@game-release-calendar",
       "date": "2026-08-25",
       "title": "Polylithic",
@@ -81875,9 +82491,34 @@
       ],
       "igdb_updated_at": "2026-06-06T23:47:58+00:00",
       "igdb_release_status": "Full Release",
-      "summary": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, and unlock new areas and perks.",
+      "summary": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.",
       "cover_image_id": "cobjyc",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobjyc.jpg"
+    },
+    {
+      "uid": "d7f4e4ec0bd6bfcbcf2f4d@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Snack Invaders",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Slipping into a junk food‑induced coma during a late‑night movie marathon, you wake up as an astronaut stranded in a galaxy overrun by living junk food! Play solo or co‑op online with up to 3 friends (4 players max) to battle hordes of junk food and Souls‑like bosses as you fight to escape alive!",
+      "cover_image_id": "cobm3l",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobm3l.jpg",
+      "source": "https://www.igdb.com/games/snack-invaders",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 392275,
+      "igdb_release_date_ids": [
+        957272
+      ],
+      "igdb_updated_at": "2026-08-25T20:47:57+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "33fcb55d7f60515649a7d7@game-release-calendar",
@@ -81955,6 +82596,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co6yuc.jpg"
     },
     {
+      "uid": "ba677a139d59d85dcc41a8@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Tatlone",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Our protagonist lives an ordinary life, yet something continues to spark their curiosity. One day, a close friend calls and invites them to visit a place where their grandmother also lives. Before long, they begin working on a shared project together.",
+      "cover_image_id": "cocrpd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrpd.jpg",
+      "source": "https://www.igdb.com/games/tatlone",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415066,
+      "igdb_release_date_ids": [
+        957455
+      ],
+      "igdb_updated_at": "2026-08-26T15:05:08+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "bd43e0e72d0ce87f62a5f9@game-release-calendar",
       "date": "2026-08-25",
       "title": "Tsugunohi: The Thread That Beckons to Heaven",
@@ -82021,13 +82687,13 @@
       "sequence": 0,
       "igdb_game_id": 249967,
       "igdb_release_date_ids": [
-        939029
+        957267
       ],
-      "igdb_updated_at": "2026-07-04T23:03:21+00:00",
-      "igdb_release_status": "Full Release",
+      "igdb_updated_at": "2026-08-25T20:44:33+00:00",
+      "igdb_release_status": "Early Access",
       "summary": "Welcome to the harsh and lawless world of the Wild West, where a mysterious fever called the 'Rye Fever' has turned the once-proud frontier into a lawless wasteland. In this world, survival is the only law, and you'll need to be tough, quick-witted, and deadly if you hope to make it out alive.",
-      "cover_image_id": "co6hyi",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co6hyi.jpg"
+      "cover_image_id": "cocrji",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrji.jpg"
     },
     {
       "uid": "fe2034a6e497453ec70e2b@game-release-calendar",
@@ -82307,6 +82973,31 @@
       "summary": "Fractured Worlds is a dark fantasy action RPG set in the shattered remnants of a ruined reality. Master weighty, precision-based combat, explore diverse realms, and face challenging bosses alone or together with other players of the realm",
       "cover_image_id": "coak6y",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coak6y.jpg"
+    },
+    {
+      "uid": "fe4833c36bfb6189580329@game-release-calendar",
+      "date": "2026-08-26",
+      "title": "Ghostflippers",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Flip haunted houses with your friends… before the ghost flips you. Reach your quota, grow your business, and survive the night.",
+      "cover_image_id": "cocrpa",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrpa.jpg",
+      "source": "https://www.igdb.com/games/ghostflippers",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 408722,
+      "igdb_release_date_ids": [
+        957205
+      ],
+      "igdb_updated_at": "2026-08-25T19:19:46+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "d4175de2bc63842bc1773a@game-release-calendar",
@@ -82709,6 +83400,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc9ep.jpg"
     },
     {
+      "uid": "667bac8fe2362a6667c7b4@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "1x1 Street Football: mini soccer PvP",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "1x1 Street Football: mini soccer PvP is a vibrant arcade game where every match turns into a real fight! PvP sports battles, mini football and the spirit of street playgrounds inspired us to create this online game. Here you are a football manager, a goalkeeper, and a striker - in short, a true football star! These are not just football games - players of all ages will enjoy them!",
+      "cover_image_id": "cocrfg",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrfg.jpg",
+      "source": "https://www.igdb.com/games/1x1-street-football-mini-soccer-pvp",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414926,
+      "igdb_release_date_ids": [
+        957046
+      ],
+      "igdb_updated_at": "2026-08-26T07:26:18+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "407f197c9fc59e8f0f7952@game-release-calendar",
       "date": "2026-08-27",
       "title": "9mm Roulette",
@@ -83089,6 +83805,31 @@
       "summary": "Welcome to the 'Breaker System'. Fight back against the system through a game of cards and free humanity from its systematic embrace as BREAKER. Combine the use of skill cards and powerful artefacts alongside tactical thinking to best the system and break through the advancing array of robots.",
       "cover_image_id": "cobrod",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobrod.jpg"
+    },
+    {
+      "uid": "64224556a904e59e27721f@game-release-calendar",
+      "date": "2026-08-27",
+      "title": "Cycle01",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A minimalist game about washing contaminated laundry. Wash, sell, upgrade, and buy new equipment. Keep the contamination in check. A small mystery is waiting for you at the end.",
+      "cover_image_id": "cocrkc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrkc.jpg",
+      "source": "https://www.igdb.com/games/cycle01",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414912,
+      "igdb_release_date_ids": [
+        957321
+      ],
+      "igdb_updated_at": "2026-08-25T23:22:13+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "6bfacf51727361418c1115@game-release-calendar",
@@ -87287,6 +88028,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocchf.jpg"
     },
     {
+      "uid": "51a268b7f1d566015f9a46@game-release-calendar",
+      "date": "2026-09-01",
+      "title": "Smile Your Day",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Two Players, Two Perspectives, One Cult. You and a friend explore the opulent cult known as Lifted Spirits in Boston, 2014. One player is the Hacker, controlling the cult's cameras and communications. With their aid, the other player stealths around the office hoping to discover the cult's secrets.",
+      "cover_image_id": "cocrhj",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrhj.jpg",
+      "source": "https://www.igdb.com/games/smile-your-day",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414969,
+      "igdb_release_date_ids": [
+        957131
+      ],
+      "igdb_updated_at": "2026-08-25T18:13:42+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "43935d28db3ba7511b1cac@game-release-calendar",
       "date": "2026-09-01",
       "title": "The Death Game Report",
@@ -87954,6 +88720,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobv9r.jpg"
     },
     {
+      "uid": "974595a9ed39bcc755a0e5@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "God of Chaos",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Defy nature’s laws and avenge your slain pantheon! Humanity once feared and hated you, but now, awakened from a thousand-year slumber, you are their only hope. A text-based interactive game.",
+      "cover_image_id": "coccnt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coccnt.jpg",
+      "source": "https://www.igdb.com/games/god-of-chaos",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 408920,
+      "igdb_release_date_ids": [
+        957144
+      ],
+      "igdb_updated_at": "2026-08-25T20:42:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "466a4ac724c272e86f3243@game-release-calendar",
       "date": "2026-09-03",
       "title": "Hashire Hebereke: EX",
@@ -88181,6 +88972,31 @@
       "summary": "A game about organizing, stacking and remembering where you put hundreds of books in a cozy-creepy medieval library. Play solo or with up to three fellow monks.",
       "cover_image_id": "cobptm",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobptm.jpg"
+    },
+    {
+      "uid": "42fb7e1b915da03a9dd388@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "Moo-A-Doodle-Doo",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Transform into anything. Sound like anything. Fool your friends in this chaotic multiplayer party game.",
+      "cover_image_id": "cocrm6",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrm6.jpg",
+      "source": "https://www.igdb.com/games/moo-a-doodle-doo",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415055,
+      "igdb_release_date_ids": [
+        957445
+      ],
+      "igdb_updated_at": "2026-08-26T08:48:21+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "2ac97734e65a58d6704455@game-release-calendar",
@@ -90074,6 +90890,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocovl.jpg"
     },
     {
+      "uid": "0156b83bf21dbee761b072@game-release-calendar",
+      "date": "2026-09-07",
+      "title": "Dice Tavern: Farkle Roguelike",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Dice Tavern is a medieval Farkle dice roguelike. Roll, lock, and bank through six taverns, from village tables to the King's throne. Collect unique dice, equip badges and coatings to craft your build. Every run is new, every roll a gamble with fate.",
+      "cover_image_id": "cobwv1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobwv1.jpg",
+      "source": "https://www.igdb.com/games/dice-tavern-farkle-roguelike",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 398071,
+      "igdb_release_date_ids": [
+        957478
+      ],
+      "igdb_updated_at": "2026-08-26T15:12:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "15eedbe28241c299a5efe6@game-release-calendar",
       "date": "2026-09-07",
       "title": "Jenny LeClue: Detectivu — Switch 2 release",
@@ -90449,6 +91290,33 @@
         955927
       ],
       "igdb_updated_at": "2026-08-21T14:01:31+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "cdcbe78884b39645e479ab@game-release-calendar",
+      "date": "2026-09-08",
+      "title": "Mewgenics — PS5 / Switch release",
+      "platforms": [
+        "PS5",
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "From the creator of The Binding of Isaac, Super Meat Boy and The End is Nigh comes... Mewgenics! A game where you hoard, breed, train and set cats out on epic adventures through a sprawling world of complete chaos. Level up your team as you venture further and further from your home, collect unique items, defeat epic bosses, gain mutations, and return home so you can breed and further your bloodline in this turn…",
+      "cover_image_id": "co9n5k",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9n5k.jpg",
+      "source": "https://www.igdb.com/games/mewgenics",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 8042,
+      "igdb_release_date_ids": [
+        956334,
+        956335
+      ],
+      "igdb_updated_at": "2026-08-25T21:18:02+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -91152,6 +92020,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocoge.jpg"
     },
     {
+      "uid": "08dc489814271f98fa619f@game-release-calendar",
+      "date": "2026-09-10",
+      "title": "Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A port for Nintendo Switch of the original Playstation Vita Bundle.",
+      "cover_image_id": "cocqqn",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocqqn.jpg",
+      "source": "https://www.igdb.com/games/black-wolves-saga-weib-und-schwarz-for-nintendo-switch",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414563,
+      "igdb_release_date_ids": [
+        956143
+      ],
+      "igdb_updated_at": "2026-08-26T02:44:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "a74d7e2a9d249fed6de6@chatgpt-game-release-calendar",
       "date": "2026-09-10",
       "title": "Borderlands 4 — Story Pack 2: FL4K and the Last Resort",
@@ -91192,6 +92085,31 @@
       "summary": "BrokenLore: DON'T LIE is psychological horror spin-off of DON’T WATCH, where lies, medication and fragile bonds blur the line between reality and nightmare.",
       "cover_image_id": "coakzn",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coakzn.jpg"
+    },
+    {
+      "uid": "b51a0582a411a0c70de8c0@game-release-calendar",
+      "date": "2026-09-10",
+      "title": "Chill Drive Together",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An endless road that builds itself as you drive, and no reason to hurry down it. Playable with 1 or 2 players. Press B and the world around you changes on the spot, with no loading. Rain, snow, night skies, real traffic, photo mode.",
+      "cover_image_id": "cocriz",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocriz.jpg",
+      "source": "https://www.igdb.com/games/chill-drive-together",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415000,
+      "igdb_release_date_ids": [
+        957226
+      ],
+      "igdb_updated_at": "2026-08-25T19:44:49+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "30359b8fe18f8f4e259a56@game-release-calendar",
@@ -92278,6 +93196,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9wqk.jpg"
     },
     {
+      "uid": "03a96f18ce6caf166ca6c8@game-release-calendar",
+      "date": "2026-09-14",
+      "title": "Stack Together: To the Moon",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Work together to build towering structures and reach the Moon! Build massive towers, launch rockets, slow down the incoming meteor, and discover anomaly boxes to keep your structure balanced. A chaotic physics-based co-op adventure for up to 4 players!",
+      "cover_image_id": "cocrim",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrim.jpg",
+      "source": "https://www.igdb.com/games/stack-together-to-the-moon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414992,
+      "igdb_release_date_ids": [
+        957206
+      ],
+      "igdb_updated_at": "2026-08-25T19:26:18+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "757750d5cc28c8e0907623@game-release-calendar",
       "date": "2026-09-14",
       "title": "Suba Pogo",
@@ -92655,6 +93598,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocapx.jpg"
     },
     {
+      "uid": "12af5aeb7613a5e6c9521f@game-release-calendar",
+      "date": "2026-09-15",
+      "title": "Secrets of Temple Isle",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Explore ancient ruins and diverse biomes, fight in third-person combat while collecting gear and powers. Design your space and decorate with items gathered in the world. Become the legend in this exciting single player adventure.",
+      "cover_image_id": "cocrl1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrl1.jpg",
+      "source": "https://www.igdb.com/games/secrets-of-temple-isle",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 216847,
+      "igdb_release_date_ids": [
+        957383
+      ],
+      "igdb_updated_at": "2026-08-26T02:42:09+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "b75818588d31ae5b9a9806@game-release-calendar",
       "date": "2026-09-15",
       "title": "TCG Card Shop Simulator — PC / PS5 release",
@@ -92679,6 +93647,31 @@
         954097
       ],
       "igdb_updated_at": "2026-08-17T02:35:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "99f08450436dd8787ff3c3@game-release-calendar",
+      "date": "2026-09-15",
+      "title": "Train Sim World 7",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Live life on the tracks and discover the joy of train simulation. Whether looking for a relaxing run on the rails or seeking the thrill of mastering your virtual train driver career, find your way in Train Sim World 7.",
+      "cover_image_id": "cocrgl",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrgl.jpg",
+      "source": "https://www.igdb.com/games/train-sim-world-7",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 414945,
+      "igdb_release_date_ids": [
+        957241
+      ],
+      "igdb_updated_at": "2026-08-25T20:10:48+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -93370,6 +94363,8 @@
       "date": "2026-09-17",
       "title": "Flamecraft",
       "platforms": [
+        "PC",
+        "PS5",
         "Switch"
       ],
       "release_type": "Game",
@@ -93379,12 +94374,14 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 342916,
       "igdb_release_date_ids": [
-        947794
+        947794,
+        957609,
+        957610
       ],
-      "igdb_updated_at": "2026-07-31T03:39:32+00:00",
+      "igdb_updated_at": "2026-08-26T16:04:41+00:00",
       "igdb_release_status": "Full Release",
       "summary": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town’s stores and fill them with dragon cards as you watch the whimsical shopping district come to life.",
       "cover_image_id": "co9sh0",
@@ -93750,6 +94747,31 @@
       "summary": "Explore a dangerous open world, loot abandoned places, build your shelter, produce food, and manage your resources. Survive alone or in co-op against zombies, hostile humans, and the growing dangers that come with the fog.",
       "cover_image_id": "cocnv9",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocnv9.jpg"
+    },
+    {
+      "uid": "19716dc4d835ab9369c1fc@game-release-calendar",
+      "date": "2026-09-17",
+      "title": "The Guild 1 Remake: Europa 1410",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Forge your path to power in medieval Europe. Choose your profession and master trade, politics, and intrigue to climb the social ladder and found a dynasty. Secure your legacy and dominate history in this immersive economic simulation.",
+      "cover_image_id": "cocri4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocri4.jpg",
+      "source": "https://www.igdb.com/games/the-guild-1-remake-europa-1410",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 358761,
+      "igdb_release_date_ids": [
+        957179
+      ],
+      "igdb_updated_at": "2026-08-25T23:28:41+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "d7c0034711f6639278a1c3@game-release-calendar",
@@ -94921,6 +95943,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobr3j.jpg"
     },
     {
+      "uid": "9f89fe4dd9e78b43fa9fa8@game-release-calendar",
+      "date": "2026-09-23",
+      "title": "Nomori",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Nomori is a mind-bending puzzle game where you need to control time and space to journey through a shattered spirit world. Take shortcuts through portals, rotate your perspective, and control the flow of time to move forward, whichever way that is.",
+      "cover_image_id": "coca3z",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coca3z.jpg",
+      "source": "https://www.igdb.com/games/nomori",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 213574,
+      "igdb_release_date_ids": [
+        957386
+      ],
+      "igdb_updated_at": "2026-08-26T02:45:33+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "47f9ed4b993f791aeb362f@game-release-calendar",
       "date": "2026-09-23",
       "title": "Stick It to the Stickman — PC release",
@@ -95297,6 +96344,31 @@
       "summary": "Murder on the train? It doesn't matter, it's no longer our concern! Ladies and gentlemen, don't worry, we have four detectives who can handle this! After all, there's nothing complicated about murder investigations, right?",
       "cover_image_id": "cobhrr",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobhrr.jpg"
+    },
+    {
+      "uid": "e8b276652b7d33bd217649@game-release-calendar",
+      "date": "2026-09-24",
+      "title": "Fusty Dungeon",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Travel the land and explore a dungeon with two beautiful ladies to find the cure to your childhood friend’s curse.",
+      "cover_image_id": "cocrl8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrl8.jpg",
+      "source": "https://www.igdb.com/games/fusty-dungeon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415043,
+      "igdb_release_date_ids": [
+        957387
+      ],
+      "igdb_updated_at": "2026-08-26T02:43:56+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "a1c1a7f173dc4821842a@chatgpt-game-release-calendar",
@@ -96217,6 +97289,35 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocc6d.jpg"
     },
     {
+      "uid": "3b5b14184c031c1f3779c4@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "The Witcher 3: Wild Hunt Remastered",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "Game / remaster",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Coming on September 29, this is the definitive way to experience Geralt of Rivia’s legendary adventure. The Witcher 3: Wild Hunt — Remastered features an array of improvements, bringing upgrades to visuals, gameplay, and more. Remastered is a free upgrade for players who own The Witcher 3 on GOG, Steam, Epic Games Store, PlayStation 5, and Xbox Series X|S, and includes both Hearts of Stone and Blood and Wine…",
+      "cover_image_id": "cocrjd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrjd.jpg",
+      "source": "https://www.igdb.com/games/the-witcher-3-wild-hunt-remastered",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 415005,
+      "igdb_release_date_ids": [
+        957238,
+        957250,
+        957252
+      ],
+      "igdb_updated_at": "2026-08-25T20:26:21+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "a0afaa1a1b175c046089@chatgpt-game-release-calendar",
       "date": "2026-09-29",
       "title": "TOEM 2",
@@ -96243,6 +97344,33 @@
       "summary": "Step back into the shoes of a curious photographer and set off on a brand new adventure all about uncovering hidden details, helping friends along the way, and documenting the world’s little wonders in TOEM 2, the sequel to the acclaimed TOEM.",
       "cover_image_id": "cocn4a",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocn4a.jpg"
+    },
+    {
+      "uid": "3b79d0dff2069f59ebc1b9@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Transport Fever 3",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Transport Fever 3, the ultimate transport tycoon returns, bigger, deeper, and more dynamic than ever. Build the routes that transform the world across land, sea, and sky using over a century of evolving transport options. Design and build your ideal transport network.",
+      "cover_image_id": "co9u3u",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9u3u.jpg",
+      "source": "https://www.igdb.com/games/transport-fever-3",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 344466,
+      "igdb_release_date_ids": [
+        957279,
+        957280
+      ],
+      "igdb_updated_at": "2026-08-25T20:53:34+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "d7b656d4f83ea1f875b1fd@game-release-calendar",
@@ -97192,33 +98320,6 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-10-01",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-25",
-      "sequence": 3,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -97449,6 +98550,31 @@
       "summary": "A visual novel based on the Itsuwari no Alice gacha game. It will features a new scenario and new CGs, backgrounds, BGM, character facial expressions and pose differences.",
       "cover_image_id": "coan9f",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coan9f.jpg"
+    },
+    {
+      "uid": "1c47e6fbaae2e635c55534@game-release-calendar",
+      "date": "2026-10-05",
+      "title": "Aion 2 — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Aion 2 takes place 200 years after the PC game, Aion: The Tower of Eternity. One main feature is the appearance of dimensional cracks, allowing players from different servers to engage in large-scale PVP. Gliding and wings will no doubt be there as the IP’s signature element. NCsoft even claimed Aion 2 will have features which could not be realized in the PC game, and that its vision for the game is “no longer a…",
+      "cover_image_id": "co9vpm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9vpm.jpg",
+      "source": "https://www.igdb.com/games/aion-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 117297,
+      "igdb_release_date_ids": [
+        957296
+      ],
+      "igdb_updated_at": "2026-08-25T21:23:18+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "0ca216d32123cc2fd7a477@game-release-calendar",
@@ -98838,6 +99964,31 @@
         955471
       ],
       "igdb_updated_at": "2026-08-23T14:21:50+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "57dcbfb85db1e1f3aa137b@game-release-calendar",
+      "date": "2026-10-14",
+      "title": "Over the Hill",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Explore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
+      "cover_image_id": "co9bpq",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9bpq.jpg",
+      "source": "https://www.igdb.com/games/over-the-hill",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 329124,
+      "igdb_release_date_ids": [
+        952187
+      ],
+      "igdb_updated_at": "2026-08-25T20:32:30+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -100944,6 +102095,31 @@
       "sequence": 0
     },
     {
+      "uid": "edfe61fe66d56ce0dc5956@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Terrible Lizards",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
+      "cover_image_id": "coboiu",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coboiu.jpg",
+      "source": "https://www.igdb.com/games/terrible-lizards",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 296564,
+      "igdb_release_date_ids": [
+        957623
+      ],
+      "igdb_updated_at": "2026-08-26T16:25:09+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "94f14c15cdb3a22b1d140e@game-release-calendar",
       "date": "2026-10-30",
       "title": "10 Hours Before Sunrise",
@@ -102865,6 +104041,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocmkn.jpg"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-11-15",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3d781c9a2e835c214370f6@game-release-calendar",
       "date": "2026-11-16",
       "title": "World 23",
@@ -104002,8 +105205,8 @@
       "igdb_updated_at": "2026-08-04T01:23:52+00:00",
       "igdb_release_status": null,
       "summary": "Hoop Dynasty: Rise of a Legend is a single-player basketball career simulator set in an original fictional universe. Create a prospect, choose a College, International, or Pro path, shape skills and mentality through RPG decisions, and earn a role through performance, form, and consistency. Play or simulate games in the Live 2D Match Center while teams, rosters, markets, standings, playoffs, records, contracts…",
-      "cover_image_id": "cocpo5",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocpo5.jpg"
+      "cover_image_id": "cocrfs",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrfs.jpg"
     },
     {
       "uid": "66023a97ee6d3f206b5156@game-release-calendar",
@@ -104032,6 +105235,35 @@
         954988
       ],
       "igdb_updated_at": "2026-08-23T10:45:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "362f46539d9b5c912b95ab@game-release-calendar",
+      "date": "2026-12-10",
+      "title": "Stage Tour",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Stage Tour is a rhythm-action game that blends familiar, accessible note-highway gameplay with exciting modern twists. It’s poised to rekindle the flame of plastic-instrument rhythm gaming with new features and modes, diverse bandmates and instruments, competitive depth, and seasonal events.",
+      "cover_image_id": "cocriy",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocriy.jpg",
+      "source": "https://www.igdb.com/games/stage-tour",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 393269,
+      "igdb_release_date_ids": [
+        957230,
+        957231,
+        957232
+      ],
+      "igdb_updated_at": "2026-08-25T21:09:19+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -104083,6 +105315,33 @@
       "summary": "Pet the lucky cat, spin the charm slots and chase the golden koban jackpot. Maneki Mania is a kawaii fortune shrine where you unlock lucky charms, grow your luck and watch the gold pile up. Cute on the outside, casino on the inside.",
       "cover_image_id": "cock3k",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cock3k.jpg"
+    },
+    {
+      "uid": "6d07602ecb366560de4728@game-release-calendar",
+      "date": "2026-12-11",
+      "title": "Path of Exile 2 — PC / PS5 release",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Path of Exile 2 is a next generation Action RPG created by Grinding Gear Games. Set years after the original Path of Exile, you will return to the dark world of Wraeclast and seek to end the corruption that is spreading. Path of Exile 2 is a free-to-play online multiplayer game with co-op for up to six players.",
+      "cover_image_id": "co8ae0",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8ae0.jpg",
+      "source": "https://www.igdb.com/games/path-of-exile-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 125642,
+      "igdb_release_date_ids": [
+        957209,
+        957210
+      ],
+      "igdb_updated_at": "2026-08-25T19:31:47+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "a1d01c7455707f3d228a1a@game-release-calendar",
@@ -104769,6 +106028,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coand6.jpg"
     },
     {
+      "uid": "91ee03bfd820253952915a@game-release-calendar",
+      "date": "2027-01-15",
+      "title": "Ananta",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Take on the role of an elite Agent within the A.C.D. (Anti-Chaos Directorate) embarking on an exhilarating adventure through a world that breaks all the rules. Meet a variety of interesting characters, jump into exciting combat, solve challenges and safeguard the balance by overcoming threats to humanity, all while enjoying unparalleled freedom to traverse and discover Nova City on a journey to find out who you…",
+      "cover_image_id": "cocrlo",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrlo.jpg",
+      "source": "https://www.igdb.com/games/ananta",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 262712,
+      "igdb_release_date_ids": [
+        957136,
+        957137
+      ],
+      "igdb_updated_at": "2026-08-25T19:18:16+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "5135ef117706b57bcd16@chatgpt-game-release-calendar",
       "date": "2027-01-15",
       "title": "STRANGER THAN HEAVEN",
@@ -104793,6 +106079,33 @@
       "summary": "Stranger Than Heaven is an upcoming action-adventure game developed by Ryu Ga Gotoku Studio and published by Sega. The game follows a multi-decade story across five eras and five cities, centered on men searching for a place to belong. It combines close-quarters action with narrative elements, historical urban settings, and activities connected to music and performance.",
       "cover_image_id": "cobu6l",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobu6l.jpg"
+    },
+    {
+      "uid": "ebff35206d54fc00b7dc7a@game-release-calendar",
+      "date": "2027-01-15",
+      "title": "TankRat",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A dying world, flesh given way to steel. Swarms of corrupted mech-monsters roam a desolated land. Search and destroy, scavenge and dismantle, rebuild yourself from the wreckage. What you take becomes what you are. Survive the wasteland. Make it to Highpoint.",
+      "cover_image_id": "cob0ej",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob0ej.jpg",
+      "source": "https://www.igdb.com/games/tankrat",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 381208,
+      "igdb_release_date_ids": [
+        957243,
+        957244
+      ],
+      "igdb_updated_at": "2026-08-25T20:15:43+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "3aa58027d8d94d9f2e1618@game-release-calendar",
@@ -105364,6 +106677,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc79f.jpg"
     },
     {
+      "uid": "bfd0bc874055e7641559b3@game-release-calendar",
+      "date": "2027-03-11",
+      "title": "Road Kings",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Drive a 40-ton semi hauling cargo across the coastal plains of the American South, managing multiple jobs, trailers, and routes. Grow reputation from rookie to veteran owner-operator, dodging disasters and rivals to become the hero of the open road.",
+      "cover_image_id": "coaaxo",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coaaxo.jpg",
+      "source": "https://www.igdb.com/games/road-kings",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 361840,
+      "igdb_release_date_ids": [
+        957198,
+        957199
+      ],
+      "igdb_updated_at": "2026-08-25T19:18:50+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "0e017bd6f10d7d79a0a555@game-release-calendar",
       "date": "2027-03-15",
       "title": "Altiros",
@@ -105489,6 +106829,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobj1a.jpg"
     },
     {
+      "uid": "7ce27cdbde6b3baab03230@game-release-calendar",
+      "date": "2027-04-07",
+      "title": "Exodus",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Exodus is an epic new sci-fi action-adventure RPG franchise developed by the team at Archetype Entertainment. The story is fueled by the consequences of player choices due to the impact of Time Dilation and how they change the lives of those we love most.",
+      "cover_image_id": "coaott",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coaott.jpg",
+      "source": "https://www.igdb.com/games/exodus--5",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 279621,
+      "igdb_release_date_ids": [
+        957182,
+        957183
+      ],
+      "igdb_updated_at": "2026-08-25T18:54:26+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8db25913e45c0594525dc@game-release-calendar",
       "date": "2027-04-09",
       "title": "Vapor Strange",
@@ -105559,6 +106926,60 @@
       ],
       "igdb_updated_at": "2026-07-24T03:46:36+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "f83d3938ae84247408b9e3@game-release-calendar",
+      "date": "2027-04-27",
+      "title": "Mariachi Legends",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Mariachi Legends is an action-packed mystery Metroidvania game. In Mariachi Legends, Join fantastical festivities at the Day of the Dead carnival alongside Detective Pablo Cruz, currently masquerading as a mariachi player to investigate an evil curse looming over the serene town of Santa Mascota.",
+      "cover_image_id": "co93lp",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co93lp.jpg",
+      "source": "https://www.igdb.com/games/mariachi-legends",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 252852,
+      "igdb_release_date_ids": [
+        957117,
+        957118,
+        957119
+      ],
+      "igdb_updated_at": "2026-08-25T20:41:31+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "263a097bcc2a37a7cb3e96@game-release-calendar",
+      "date": "2027-04-27",
+      "title": "Pony Island 2: Panda Circus",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Pony Island 2: Panda Circus is a phantasmagorical voyage through time, myth, divinity, and video games. Escape the lordly deities of the underworld with your soul, and your sanity, intact. This is not a game about ponies.",
+      "cover_image_id": "co7h9g",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7h9g.jpg",
+      "source": "https://www.igdb.com/games/pony-island-2-panda-circus",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-08-26",
+      "sequence": 0,
+      "igdb_game_id": 279613,
+      "igdb_release_date_ids": [
+        957248
+      ],
+      "igdb_updated_at": "2026-08-25T20:39:57+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "592c96650184c1e15e72c8@game-release-calendar",
