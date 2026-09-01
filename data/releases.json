@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 4736,
+    "event_count": 4747,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59901,7 +59901,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 5,
+      "sequence": 6,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -84117,7 +84117,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 5,
+      "sequence": 6,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -84869,31 +84869,6 @@
       "summary": "You are a Monke beating up endless waves of office workers with brutal melee combat and ragdoll physics. Smash props for rare buffs, stack game-breaking items and compete on the Global Leaderboards in this aggressive action-roguelite.",
       "cover_image_id": "cocolm",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocolm.jpg"
-    },
-    {
-      "uid": "c9de1eecc0be96c8d57b6d@game-release-calendar",
-      "date": "2026-08-25",
-      "title": "NodalBastion",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/nodalbastion",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 378196,
-      "igdb_release_date_ids": [
-        947887
-      ],
-      "igdb_updated_at": "2026-07-31T12:51:03+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Defend the last AI core in an abstract minimalist game of incremental progression, powerful skills, and evolving networks.",
-      "cover_image_id": "coav7h",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coav7h.jpg"
     },
     {
       "uid": "8520862ddea728812e3c@chatgpt-game-release-calendar",
@@ -91967,31 +91942,6 @@
       "summary": "A 2D action platformer of graceful duels and perfect parries under the falling sakura.",
       "cover_image_id": "coao8t",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coao8t.jpg"
-    },
-    {
-      "uid": "e593d093d398712a3a6db4@game-release-calendar",
-      "date": "2026-08-28",
-      "title": "Sincognito",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/sincognito",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 223356,
-      "igdb_release_date_ids": [
-        948476
-      ],
-      "igdb_updated_at": "2026-08-01T19:41:02+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Sincognito, is a 5-15 players SOCIAL DEDUCTION, horror, stealth game in which players, split between two distinct teams - Humans & Sins - must use communication with proximity voice chat, teamwork to complete tasks, skills for combat, betrayal, and ultimately mind games to defeat the opposite team.",
-      "cover_image_id": "co7icz",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7icz.jpg"
     },
     {
       "uid": "673008199fe5100ad432b5@game-release-calendar",
@@ -106419,6 +106369,31 @@
       "igdb_release_status": null
     },
     {
+      "uid": "1b3f81b6423f77cad48c4b@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "Ammossum",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Build an endlessly upgradable weapon! Evolve projectiles into unstoppable firepower in this action roguelike. Fight through hordes of infected beasts, save your family, and feel the thrill of bloody shootouts filled with bullets, explosions, and acid. Can you survive the madness?",
+      "cover_image_id": "co9m3p",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9m3p.jpg",
+      "source": "https://www.igdb.com/games/ammossum",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 275884,
+      "igdb_release_date_ids": [
+        959894
+      ],
+      "igdb_updated_at": "2026-09-01T14:33:10+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3d6c01d62dc36184e4aa19@game-release-calendar",
       "date": "2026-09-28",
       "title": "Battle Meating",
@@ -106441,6 +106416,131 @@
         957107
       ],
       "igdb_updated_at": "2026-08-25T17:43:08+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "126b586728ef7fab5c8bdc@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "Drop Command",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The year is 2647. War rages 150 light years from Earth. Pilot Mechs, Tanks, Infantry and Aircraft in combined arms combat on many worlds across the star cluster. Play as a lone wolf, or rise in rank to manage and lead entire battalions into combat throughout a procedural campaign.",
+      "cover_image_id": "co7ggd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7ggd.jpg",
+      "source": "https://www.igdb.com/games/drop-command",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 279295,
+      "igdb_release_date_ids": [
+        959891
+      ],
+      "igdb_updated_at": "2026-09-01T14:29:23+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2a583522cc4a871618df20@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "HR: Human Remains",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In a broken world ruled by demons, the gears of productivity still turn. Complete tasks, solve puzzles, and explore a society under demonic regime from the perspective of an ordinary office clerk.",
+      "cover_image_id": "cobywr",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobywr.jpg",
+      "source": "https://www.igdb.com/games/hr-human-remains",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 347337,
+      "igdb_release_date_ids": [
+        959910
+      ],
+      "igdb_updated_at": "2026-09-01T14:45:21+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "da43e04dbcd5615abcdedb@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "One Fenix Down",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A retro-inspired, classic turn-based RPG for those with nostalgia for the '90s golden era. Explore a vast world with 14 playable characters, fight hundreds of unique enemies, and delve into an epic story of war, betrayal, and redemption.",
+      "cover_image_id": "coc4qw",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc4qw.jpg",
+      "source": "https://www.igdb.com/games/one-fenix-down",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 297172,
+      "igdb_release_date_ids": [
+        959892
+      ],
+      "igdb_updated_at": "2026-09-01T14:29:38+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "e593d093d398712a3a6db4@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "Sincognito",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/sincognito",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 1,
+      "igdb_game_id": 223356,
+      "igdb_release_date_ids": [
+        959909
+      ],
+      "igdb_updated_at": "2026-09-01T14:45:06+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Sincognito, is a 5-15 players SOCIAL DEDUCTION, horror, stealth game in which players, split between two distinct teams - Humans & Sins - must use communication with proximity voice chat, teamwork to complete tasks, skills for combat, betrayal, and ultimately mind games to defeat the opposite team.",
+      "cover_image_id": "co7icz",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7icz.jpg"
+    },
+    {
+      "uid": "375454934737e8bc5caefb@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "Space Cat Solitaire",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Space Cat Solitaire is a euphoric and satisfying puzzle card game adventure. With cats. Stack, organize and pros-purr! Hone your puzzling skills as you create epic combos, beat your high score and find your fortune among the stars! Use your wits & your winnings to unlock customizations, trophies, and elite story-driven missions featuring the eccentric locals of the Whiskerfang Expanse.",
+      "cover_image_id": "cobgu1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobgu1.jpg",
+      "source": "https://www.igdb.com/games/space-cat-solitaire",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 368471,
+      "igdb_release_date_ids": [
+        959919
+      ],
+      "igdb_updated_at": "2026-09-01T14:49:32+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -106519,6 +106619,131 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocca8.jpg"
     },
     {
+      "uid": "601bfaf0e4f7a2c6084c8d@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Crack the Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Open booster packs, buy upgrades, and collect over 600 cards and their variants. Build a true automated booster factory by endlessly multiplying production until you unlock cloning and nuclear fusion !",
+      "cover_image_id": "cock16",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cock16.jpg",
+      "source": "https://www.igdb.com/games/crack-the-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 411003,
+      "igdb_release_date_ids": [
+        959907
+      ],
+      "igdb_updated_at": "2026-09-01T14:44:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "9f876e9a1f0dcd45107fb6@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Dog in the Machine",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A tactical roguelite where you help an AutoDog escape a dystopian mecha-city and get back to their exiled humans. Teach the dog custom tricks to tackle strategic challenges through devastating chain reactions. Break the Machine in your path to freedom!",
+      "cover_image_id": "cobxgo",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobxgo.jpg",
+      "source": "https://www.igdb.com/games/dog-in-the-machine",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 398405,
+      "igdb_release_date_ids": [
+        959895
+      ],
+      "igdb_updated_at": "2026-09-01T14:33:38+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2b01c2ad804df7fb910b09@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Endless Rails",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Protect your train with your drones as it rolls through a monster-infested wasteland. Reach new stations to buy new weapons, wagons, and upgrades. Keep rolling until you or the game crashes. Isometric bullet heaven roguelite.",
+      "cover_image_id": "coc9it",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc9it.jpg",
+      "source": "https://www.igdb.com/games/endless-rails",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 406947,
+      "igdb_release_date_ids": [
+        959902
+      ],
+      "igdb_updated_at": "2026-09-01T14:34:57+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "a56b6c3f80ed556e2b6cf9@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Escape from 8-Bit High",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "When a cursed cassette awakens a sentient Pomodore 64, Cloudydale High is overrun by 8-bit villains! Join alt-rock trio Blueberry Finn—Hank, Duck, and Alex—as they battle mole men, aliens, dinosaurs and more in a bizarre, musical quest to save the world!",
+      "cover_image_id": "cobo3r",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobo3r.jpg",
+      "source": "https://www.igdb.com/games/escape-from-8-bit-high",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 392212,
+      "igdb_release_date_ids": [
+        959898
+      ],
+      "igdb_updated_at": "2026-09-01T14:33:56+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "fc1661a92bbac1c06dd0c4@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "Frutiger Home",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Decorate your dream frutiger home in this cozy co-op frutiger house decorating game. Pick a home layout, add from a wide range of frutiger-themed decor and hang out with your friends!",
+      "cover_image_id": "coain9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coain9.jpg",
+      "source": "https://www.igdb.com/games/frutiger-home",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 368055,
+      "igdb_release_date_ids": [
+        959890
+      ],
+      "igdb_updated_at": "2026-09-01T14:29:02+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "12bdea6838a0074a419155@game-release-calendar",
       "date": "2026-09-29",
       "title": "Gretel's Honesty",
@@ -106542,6 +106767,31 @@
       "summary": "A comic-like visual novel, expressing a new story based on the fairy tale “Hansel and Gretel”.",
       "cover_image_id": "co9dmw",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9dmw.jpg"
+    },
+    {
+      "uid": "42d37c08e56dee824e567c@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "King's Guard",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In this turn-based strategy roguelike your job is to keep an ungrateful king alive. As the royal guard's manager you unlock upgrades, assign badges for special skills and try to keep morale and supplies from collapsing faster than the monarchy.",
+      "cover_image_id": "co9vea",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9vea.jpg",
+      "source": "https://www.igdb.com/games/kings-guard",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 0,
+      "igdb_game_id": 345539,
+      "igdb_release_date_ids": [
+        959888
+      ],
+      "igdb_updated_at": "2026-09-01T14:28:48+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "16d089d021bd46b17abf@chatgpt-game-release-calendar",
@@ -106625,6 +106875,31 @@
       "summary": "Grow your business, manage restaurants and nightclubs, make friends and enemies, buy and decorate apartments, go fishing and maybe even find love in Nivalis, the city that stretches from the ocean to the clouds.",
       "cover_image_id": "cocc6d",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocc6d.jpg"
+    },
+    {
+      "uid": "c9de1eecc0be96c8d57b6d@game-release-calendar",
+      "date": "2026-09-29",
+      "title": "NodalBastion",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/nodalbastion",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 1,
+      "igdb_game_id": 378196,
+      "igdb_release_date_ids": [
+        959901
+      ],
+      "igdb_updated_at": "2026-09-01T14:34:24+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Defend the last AI core in an abstract minimalist game of incremental progression, powerful skills, and evolving networks.",
+      "cover_image_id": "coav7h",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coav7h.jpg"
     },
     {
       "uid": "f6fd16181d7ebac58f2f8c@game-release-calendar",
@@ -108084,6 +108359,33 @@
         954242
       ],
       "igdb_updated_at": "2026-08-17T02:34:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-01",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -114996,33 +115298,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-01",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {

@@ -41880,7 +41880,7 @@ BEGIN:VEVENT
 UID:110e313292b4a986aa4bb4@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:5
+SEQUENCE:6
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:🚀 Project Neon — PC release
@@ -58850,7 +58850,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:5
+SEQUENCE:6
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -59375,23 +59375,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/monke-survivor
 URL:https://www.igdb.com/games/monke-survivor
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c9de1eecc0be96c8d57b6d@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:🎮 NodalBastion
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/nodalbastion
-URL:https://www.igdb.com/games/nodalbastion
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -64349,23 +64332,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/saga-of-yurina
 URL:https://www.igdb.com/games/saga-of-yurina
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e593d093d398712a3a6db4@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🎮 Sincognito
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/sincognito
-URL:https://www.igdb.com/games/sincognito
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -74430,6 +74396,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1b3f81b6423f77cad48c4b@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Ammossum
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/ammossum
+URL:https://www.igdb.com/games/ammossum
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3d6c01d62dc36184e4aa19@game-release-calendar
 DTSTAMP:20260825T120000Z
 LAST-MODIFIED:20260825T120000Z
@@ -74442,6 +74425,93 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/battle-meating
 URL:https://www.igdb.com/games/battle-meating
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:126b586728ef7fab5c8bdc@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Drop Command
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/drop-command
+URL:https://www.igdb.com/games/drop-command
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a583522cc4a871618df20@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 HR: Human Remains
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/hr-human-remain
+ s
+URL:https://www.igdb.com/games/hr-human-remains
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:da43e04dbcd5615abcdedb@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 One Fenix Down
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/one-fenix-down
+URL:https://www.igdb.com/games/one-fenix-down
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e593d093d398712a3a6db4@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Sincognito
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/sincognito
+URL:https://www.igdb.com/games/sincognito
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:375454934737e8bc5caefb@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Space Cat Solitaire
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/space-cat-solit
+ aire
+URL:https://www.igdb.com/games/space-cat-solitaire
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -74500,6 +74570,93 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:601bfaf0e4f7a2c6084c8d@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 Crack the Pack
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/crack-the-pack
+URL:https://www.igdb.com/games/crack-the-pack
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9f876e9a1f0dcd45107fb6@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 Dog in the Machine
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/dog-in-the-mach
+ ine
+URL:https://www.igdb.com/games/dog-in-the-machine
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2b01c2ad804df7fb910b09@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 Endless Rails
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/endless-rails
+URL:https://www.igdb.com/games/endless-rails
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a56b6c3f80ed556e2b6cf9@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 Escape from 8-Bit High
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/escape-from-8-b
+ it-high
+URL:https://www.igdb.com/games/escape-from-8-bit-high
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1661a92bbac1c06dd0c4@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 Frutiger Home
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/frutiger-home
+URL:https://www.igdb.com/games/frutiger-home
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:12bdea6838a0074a419155@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -74512,6 +74669,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/gretels-honesty
 URL:https://www.igdb.com/games/gretels-honesty
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42d37c08e56dee824e567c@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 King's Guard
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/kings-guard
+URL:https://www.igdb.com/games/kings-guard
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -74565,6 +74739,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: PC release.\nSource: https://dayone-app.com/en/releases
  /2026/september/
 URL:https://dayone-app.com/en/releases/2026/september/
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c9de1eecc0be96c8d57b6d@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 NodalBastion
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/nodalbastion
+URL:https://www.igdb.com/games/nodalbastion
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -75613,6 +75804,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -1
 URL:https://www.igdb.com/games/tile-and-error--1
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260901T120000Z
+LAST-MODIFIED:20260901T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -80477,26 +80687,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/netherwake
 URL:https://www.igdb.com/games/netherwake
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260901T120000Z
-LAST-MODIFIED:20260901T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-01\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
