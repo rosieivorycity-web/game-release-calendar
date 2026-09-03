@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 4957,
+    "event_count": 4960,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59904,7 +59904,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 9,
+      "sequence": 10,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -62566,8 +62566,8 @@
       "igdb_updated_at": "2026-08-01T23:29:57+00:00",
       "igdb_release_status": "Full Release",
       "summary": "[HERROR] is a series of short horror episodes where everyday work routines collide with paranormal threats. Each episode is a unique standalone story lasting 1.5–2 hours. Dan Cooper, a 25-year-old night shift gas station worker in Ohio, recently laid off from a uranium plant, is trying to put his life back together. But everything changes when his friend Michael discovers a mysterious case by the lake. Soon, people…",
-      "cover_image_id": "coak35",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coak35.jpg"
+      "cover_image_id": "coctl6",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctl6.jpg"
     },
     {
       "uid": "464e3dd9438e9f12b2ee@chatgpt-game-release-calendar",
@@ -84070,7 +84070,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 9,
+      "sequence": 10,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -96624,10 +96624,10 @@
       "sequence": 0,
       "igdb_game_id": 342606,
       "igdb_release_date_ids": [
-        960268
+        960867
       ],
-      "igdb_updated_at": "2026-09-03T00:20:17+00:00",
-      "igdb_release_status": null
+      "igdb_updated_at": "2026-09-03T14:34:46+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "8da8bf85e59370fd12a57c@game-release-calendar",
@@ -110006,6 +110006,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobj1c.jpg"
     },
     {
+      "uid": "6a10f84d5b8c18ceede504@game-release-calendar",
+      "date": "2026-09-24",
+      "title": "Rematch: Season 5",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Season / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "coctkc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctkc.jpg",
+      "source": "https://www.igdb.com/games/rematch-season-5",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-03",
+      "sequence": 0,
+      "igdb_game_id": 416130,
+      "igdb_release_date_ids": [
+        960871,
+        960872
+      ],
+      "igdb_updated_at": "2026-09-03T14:39:45+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "9855ab91b7e92c36e15270@game-release-calendar",
       "date": "2026-09-24",
       "title": "Sender Unknown",
@@ -113152,6 +113179,33 @@
         954242
       ],
       "igdb_updated_at": "2026-08-17T02:34:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-03",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -116751,8 +116805,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": null,
-      "cover_image_id": null,
-      "cover_url": null,
+      "cover_image_id": "coctjv",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctjv.jpg",
       "source": "https://www.igdb.com/games/hunters-moon--3",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -118130,7 +118184,7 @@
       "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": null,
+      "summary": "A fandisk for Da Capo 4 and Da Capo 5.",
       "cover_image_id": "cocbed",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocbed.jpg",
       "source": "https://www.igdb.com/games/d-dot-c-5-to-4-luminous-memories",
@@ -119493,6 +119547,31 @@
       "igdb_release_status": null
     },
     {
+      "uid": "225301ccf30df3c670110d@game-release-calendar",
+      "date": "2026-11-05",
+      "title": "Where the Seeds Fall — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "coctkd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctkd.jpg",
+      "source": "https://www.igdb.com/games/where-the-seeds-fall",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-03",
+      "sequence": 0,
+      "igdb_game_id": 416123,
+      "igdb_release_date_ids": [
+        960857
+      ],
+      "igdb_updated_at": "2026-09-03T14:41:16+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "dd6d4120565fd7426fc1@chatgpt-game-release-calendar",
       "date": "2026-11-05",
       "title": "Wielders of the Essence",
@@ -120364,33 +120443,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-03",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -122911,6 +122963,35 @@
         957006
       ],
       "igdb_updated_at": "2026-08-25T10:01:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "adfe210399cb488908f020@game-release-calendar",
+      "date": "2027-01-28",
+      "title": "Fate/Extra Record",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The “Moon Holy Grail War” begins anew… The setting is a Spiritron virtual world called “SE.RA.PH.” built on the moon. Masters and Servants team up and fight for survival in pursuit of the “Holy Grail,” an omnipotent wish-granting device, in the Moon Holy Grail War which begins once again… This is a remake of Fate/EXTRA, the first Fate series RPG originally released on July 22, 2010, now revamped for modern hardware…",
+      "cover_image_id": "co8mq1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8mq1.jpg",
+      "source": "https://www.igdb.com/games/fate-slash-extra-record",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-03",
+      "sequence": 0,
+      "igdb_game_id": 142911,
+      "igdb_release_date_ids": [
+        960850,
+        960851,
+        960852
+      ],
+      "igdb_updated_at": "2026-09-03T14:32:21+00:00",
       "igdb_release_status": "Full Release"
     },
     {

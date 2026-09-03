@@ -41879,7 +41879,7 @@ BEGIN:VEVENT
 UID:110e313292b4a986aa4bb4@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:9
+SEQUENCE:10
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:🚀 Project Neon — PC release
@@ -58812,7 +58812,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:9
+SEQUENCE:10
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -67600,9 +67600,10 @@ DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:🎮 Asterika: Phantom Rose Refrain
 DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-09-03\nNotes: Automatically adde
- d from IGDB. Release date is synchronized\; price is not.\nSource: https
- ://www.igdb.com/games/asterika-phantom-rose-refrain
+ nStatus: Confirmed\nLast verified: 2026-09-03\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/asterika-phanto
+ m-rose-refrain
 URL:https://www.igdb.com/games/asterika-phantom-rose-refrain
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
@@ -76930,6 +76931,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6a10f84d5b8c18ceede504@game-release-calendar
+DTSTAMP:20260903T120000Z
+LAST-MODIFIED:20260903T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🧩 Rematch: Season 5
+DESCRIPTION:Platforms: PC • PS5\nRelease type: Season / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-03\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/rematch-season-5
+URL:https://www.igdb.com/games/rematch-season-5
+CATEGORIES:GAME RELEASE,PC,PS5,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9855ab91b7e92c36e15270@game-release-calendar
 DTSTAMP:20260903T120000Z
 LAST-MODIFIED:20260903T120000Z
@@ -79146,6 +79165,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -1
 URL:https://www.igdb.com/games/tile-and-error--1
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260903T120000Z
+LAST-MODIFIED:20260903T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-03\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -83608,6 +83646,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:225301ccf30df3c670110d@game-release-calendar
+DTSTAMP:20260903T120000Z
+LAST-MODIFIED:20260903T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🚀 Where the Seeds Fall — PS5 release
+DESCRIPTION:Platforms: PS5\nRelease type: Platform release\nPrice: TBA / 
+ not verified\nStatus: Confirmed\nLast verified: 2026-09-03\nIGDB release
+  status: Full Release\nNotes: Automatically added from IGDB. Release dat
+ e is synchronized\; price is not.\nSource: https://www.igdb.com/games/wh
+ ere-the-seeds-fall
+URL:https://www.igdb.com/games/where-the-seeds-fall
+CATEGORIES:GAME RELEASE,PS5
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dd6d4120565fd7426fc1@chatgpt-game-release-calendar
 DTSTAMP:20260811T120000Z
 LAST-MODIFIED:20260811T120000Z
@@ -84219,26 +84275,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/netherwake
 URL:https://www.igdb.com/games/netherwake
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260903T120000Z
-LAST-MODIFIED:20260903T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-03\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -86025,6 +86061,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/fallgrade
 URL:https://www.igdb.com/games/fallgrade
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adfe210399cb488908f020@game-release-calendar
+DTSTAMP:20260903T120000Z
+LAST-MODIFIED:20260903T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:🎮 Fate/Extra Record
+DESCRIPTION:Platforms: PC • PS5 • Switch\nRelease type: Game / remake
+ \nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-0
+ 3\nIGDB release status: Full Release\nNotes: Automatically added from IG
+ DB. Release date is synchronized\; price is not.\nSource: https://www.ig
+ db.com/games/fate-slash-extra-record
+URL:https://www.igdb.com/games/fate-slash-extra-record
+CATEGORIES:GAME RELEASE,PC,PS5,SWITCH
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
