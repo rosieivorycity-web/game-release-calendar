@@ -41898,7 +41898,7 @@ BEGIN:VEVENT
 UID:110e313292b4a986aa4bb4@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:11
+SEQUENCE:12
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:🚀 Project Neon — PC release
@@ -58952,7 +58952,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:11
+SEQUENCE:12
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -68556,6 +68556,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:475d8eb29103d1556aea34@game-release-calendar
+DTSTAMP:20260904T120000Z
+LAST-MODIFIED:20260904T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 G-Mode Archives+: Ridge Racer
+DESCRIPTION:Platforms: Switch\nRelease type: Game\nPrice: TBA / not verif
+ ied\nStatus: Confirmed\nLast verified: 2026-09-04\nIGDB release status: 
+ Full Release\nNotes: Automatically added from IGDB. Release date is sync
+ hronized\; price is not.\nSource: https://www.igdb.com/games/g-mode-arch
+ ives-plus-ridge-racer
+URL:https://www.igdb.com/games/g-mode-archives-plus-ridge-racer
+CATEGORIES:GAME RELEASE,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:5bc4272e722f58a5a0d0cc@game-release-calendar
 DTSTAMP:20260828T120000Z
 LAST-MODIFIED:20260828T120000Z
@@ -70200,6 +70218,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/reality-breach-
  -1
 URL:https://www.igdb.com/games/reality-breach--1
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0432e8a919b724b4500a@game-release-calendar
+DTSTAMP:20260904T120000Z
+LAST-MODIFIED:20260904T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🎮 Sigma World Online
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-04\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/sigma-world-onl
+ ine
+URL:https://www.igdb.com/games/sigma-world-online
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -73670,10 +73706,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:475d8eb29103d1556aea34@game-release-calendar
+UID:82b6ce4e5cb1117d7f7f5f@game-release-calendar
 DTSTAMP:20260904T120000Z
 LAST-MODIFIED:20260904T120000Z
-SEQUENCE:4
+SEQUENCE:0
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:🚀 G-Mode Archives+: Ridge Racer — PC release
@@ -80110,6 +80146,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260904T120000Z
+LAST-MODIFIED:20260904T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-04\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f8b5b2ddd11eb183445d@chatgpt-game-release-calendar
 DTSTAMP:20260811T120000Z
 LAST-MODIFIED:20260811T120000Z
@@ -85266,26 +85321,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/netherwake
 URL:https://www.igdb.com/games/netherwake
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260904T120000Z
-LAST-MODIFIED:20260904T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-04\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

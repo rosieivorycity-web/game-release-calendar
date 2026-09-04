@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5017,
+    "event_count": 5019,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59929,7 +59929,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 11,
+      "sequence": 12,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -84271,7 +84271,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 11,
+      "sequence": 12,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -97995,6 +97995,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "475d8eb29103d1556aea34@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "G-Mode Archives+: Ridge Racer",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A legendary 3D car racing masterpiece that earned its place in gaming history. Blast through corners with spectacular drifting!",
+      "cover_image_id": "coctnq",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctnq.jpg",
+      "source": "https://www.igdb.com/games/g-mode-archives-plus-ridge-racer",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-04",
+      "sequence": 8,
+      "igdb_game_id": 416050,
+      "igdb_release_date_ids": [
+        960672
+      ],
+      "igdb_updated_at": "2026-09-04T02:37:47+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5bc4272e722f58a5a0d0cc@game-release-calendar",
       "date": "2026-09-03",
       "title": "Gelatinous: Humanity Lost — Switch release",
@@ -100341,6 +100366,31 @@
         956478
       ],
       "igdb_updated_at": "2026-08-24T02:09:06+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "ac0432e8a919b724b4500a@game-release-calendar",
+      "date": "2026-09-04",
+      "title": "Sigma World Online",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Sigma World Online - is an online sandbox with a huge world from many star systems. Choose who to be: space explorer, miner, merchant, farmer, culinary specialist, scientist, builder or hunter, or build your empire.",
+      "cover_image_id": "co5l6u",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co5l6u.jpg",
+      "source": "https://www.igdb.com/games/sigma-world-online",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-04",
+      "sequence": 0,
+      "igdb_game_id": 167434,
+      "igdb_release_date_ids": [
+        961309
+      ],
+      "igdb_updated_at": "2026-09-04T15:02:37+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -105287,7 +105337,7 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9hcn.jpg"
     },
     {
-      "uid": "475d8eb29103d1556aea34@game-release-calendar",
+      "uid": "82b6ce4e5cb1117d7f7f5f@game-release-calendar",
       "date": "2026-09-16",
       "title": "G-Mode Archives+: Ridge Racer — PC release",
       "platforms": [
@@ -105303,7 +105353,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-09-04",
-      "sequence": 4,
+      "sequence": 0,
       "igdb_game_id": 416050,
       "igdb_release_date_ids": [
         960671
@@ -114526,6 +114576,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-04",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -121868,33 +121945,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-04",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
