@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5032,
+    "event_count": 5040,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59929,7 +59929,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 13,
+      "sequence": 14,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -78479,6 +78479,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3d59ebc4b42b34706c59c1@game-release-calendar",
+      "date": "2026-08-20",
+      "title": "Kingdom II: Shadoan — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Point and click adventure with cartoon animation and magical puzzles. Sequel of Kingdom: The Far Reaches aka Thayer's Quest",
+      "cover_image_id": "cobzku",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobzku.jpg",
+      "source": "https://www.igdb.com/games/kingdom-ii-shadoan",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 45920,
+      "igdb_release_date_ids": [
+        961333
+      ],
+      "igdb_updated_at": "2026-09-05T15:57:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "d12fb9a5d281b725ba3d1a@game-release-calendar",
       "date": "2026-08-20",
       "title": "Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000",
@@ -84271,7 +84296,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 13,
+      "sequence": 14,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -85299,6 +85324,31 @@
       "summary": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.",
       "cover_image_id": "cobjyc",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobjyc.jpg"
+    },
+    {
+      "uid": "6dabe32711673db4d8d541@game-release-calendar",
+      "date": "2026-08-25",
+      "title": "Slum Z",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Slum Z is a horror incremental roguelike featuring tower defense elements. Fight through relentless zombie hordes, a single-player in a dark survival shooter where every bullet counts. hunt for rare cursed blood, and upgrade your arsenal and prepare yourself.",
+      "cover_image_id": "coctw5",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctw5.jpg",
+      "source": "https://www.igdb.com/games/slum-z",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 416218,
+      "igdb_release_date_ids": [
+        961320
+      ],
+      "igdb_updated_at": "2026-09-05T16:12:39+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "d7f4e4ec0bd6bfcbcf2f4d@game-release-calendar",
@@ -91927,6 +91977,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocm77.jpg"
     },
     {
+      "uid": "ef73170546ff0ed4ca0482@game-release-calendar",
+      "date": "2026-08-28",
+      "title": "Once Alive — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A story-driven, first person adventure game with a cinematic experience. Set off for a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and unveil the mystery of how the last survivors vanished.",
+      "cover_image_id": "co8z6h",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8z6h.jpg",
+      "source": "https://www.igdb.com/games/once-alive",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 244287,
+      "igdb_release_date_ids": [
+        961330
+      ],
+      "igdb_updated_at": "2026-09-05T15:57:43+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "bc64a5a98200be3c71574c@game-release-calendar",
       "date": "2026-08-28",
       "title": "Oshikake Oku-sama to, Kimi no Uso",
@@ -94697,31 +94772,6 @@
       ],
       "igdb_updated_at": "2026-09-04T18:38:00+00:00",
       "igdb_release_status": "Next-Gen Optimization Patch Release"
-    },
-    {
-      "uid": "8b050bc7991c55effd6dac@game-release-calendar",
-      "date": "2026-08-31",
-      "title": "Pitchside Empire",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Pitchside Empire is a business management simulation in which the player runs a five-a-side football pitch rental facility. Customers phone in to book slots and the player quotes a price for each call, negotiating against a hidden customer budget, with regular clients and facility reputation affecting how much teams are willing to pay. Profits are reinvested into changing rooms, showers, a canteen, seating…",
-      "cover_image_id": "cocquk",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocquk.jpg",
-      "source": "https://www.igdb.com/games/pitchside-empire",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-23",
-      "sequence": 0,
-      "igdb_game_id": 414613,
-      "igdb_release_date_ids": [
-        956261
-      ],
-      "igdb_updated_at": "2026-08-23T06:07:55+00:00",
-      "igdb_release_status": null
     },
     {
       "uid": "e9a5b5a95c910a29435c45@game-release-calendar",
@@ -99456,6 +99506,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "68b106d2e0fa1ca075ec26@game-release-calendar",
+      "date": "2026-09-04",
+      "title": "Hex",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Dive into unknown dungeons and fight “HEX”. Use many items to survive in the underworld, Hack & slash action RPG to survive in the underworld! Don't wander around, just keep going!",
+      "cover_image_id": "co8z3k",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8z3k.jpg",
+      "source": "https://www.igdb.com/games/hex--5",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 320617,
+      "igdb_release_date_ids": [
+        961561
+      ],
+      "igdb_updated_at": "2026-09-05T14:45:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "17bc24fbac4f29fd8d46cd@game-release-calendar",
       "date": "2026-09-04",
       "title": "Isle of Reveries",
@@ -100719,6 +100794,56 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocte8.jpg"
     },
     {
+      "uid": "b0bdfd3729ae1f0e0e52b0@game-release-calendar",
+      "date": "2026-09-05",
+      "title": "Crustacean Station!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Work a day job at Crustacean Station checking identification and sending a vibrant cast of sea creatures to their desired destinations!",
+      "cover_image_id": "coc7yy",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc7yy.jpg",
+      "source": "https://www.igdb.com/games/crustacean-station",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 405788,
+      "igdb_release_date_ids": [
+        961636
+      ],
+      "igdb_updated_at": "2026-09-05T14:43:54+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "939d13b0cba654f1ecac32@game-release-calendar",
+      "date": "2026-09-05",
+      "title": "Exspelled",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Exspelled is a cozy fantasy life sim mixed with tower defense. Build and customize your village, gather resources, welcome outcast creatures, and prepare your defenses. Expand your settlement, strengthen your community, and protect your new home against increasingly dangerous waves of enemies.",
+      "cover_image_id": "cocr1h",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr1h.jpg",
+      "source": "https://www.igdb.com/games/exspelled",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 414723,
+      "igdb_release_date_ids": [
+        961641
+      ],
+      "igdb_updated_at": "2026-09-05T14:44:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5e2b29124718a87b1a700b@game-release-calendar",
       "date": "2026-09-05",
       "title": "FlyKnight — Switch release",
@@ -100819,6 +100944,56 @@
       "igdb_release_status": null
     },
     {
+      "uid": "8b050bc7991c55effd6dac@game-release-calendar",
+      "date": "2026-09-05",
+      "title": "Pitchside Empire",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Pitchside Empire is a business management simulation in which the player runs a five-a-side football pitch rental facility. Customers phone in to book slots and the player quotes a price for each call, negotiating against a hidden customer budget, with regular clients and facility reputation affecting how much teams are willing to pay. Profits are reinvested into changing rooms, showers, a canteen, seating…",
+      "cover_image_id": "cocquk",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocquk.jpg",
+      "source": "https://www.igdb.com/games/pitchside-empire",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 1,
+      "igdb_game_id": 414613,
+      "igdb_release_date_ids": [
+        961640
+      ],
+      "igdb_updated_at": "2026-09-05T14:44:29+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2dce21cc8f4255c4484f9b@game-release-calendar",
+      "date": "2026-09-05",
+      "title": "Racing Manager",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Manage your racing team: strategy, tires, staff, budget, and real-time decisions. Build the perfect crew and lead them to victory in this immersive motorsport management game.",
+      "cover_image_id": "cobjkn",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobjkn.jpg",
+      "source": "https://www.igdb.com/games/racing-manager--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 390198,
+      "igdb_release_date_ids": [
+        961634
+      ],
+      "igdb_updated_at": "2026-09-05T14:43:33+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "bf4ff31053dd81274bad38@game-release-calendar",
       "date": "2026-09-05",
       "title": "The Shadows Of Eldergroove",
@@ -100892,6 +101067,31 @@
       "summary": "Shalter 03 is an asymmetric first-person co-op puzzle-adventure game where three players take control of characters deprived of sight, hearing, and speech. Stranded in a hazardous facility, players must collaborate tightly to overcome their unique physical limitations, communicate through environmental cues, and balance real-time buffs and debuffs to solve complex puzzles before the clock runs out.",
       "cover_image_id": "cocq3f",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocq3f.jpg"
+    },
+    {
+      "uid": "def5cc52d4f0a0169d237a@game-release-calendar",
+      "date": "2026-09-06",
+      "title": "Vacation Wonders: Hidden Quest - Collector's Edition",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/vacation-wonders-hidden-quest-collectors-edition",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 0,
+      "igdb_game_id": 416411,
+      "igdb_release_date_ids": [
+        961569
+      ],
+      "igdb_updated_at": "2026-09-05T15:57:46+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "5b0eb2de08ead8af89dbea@game-release-calendar",
@@ -114801,6 +115001,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-05",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -122195,33 +122422,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-05",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
