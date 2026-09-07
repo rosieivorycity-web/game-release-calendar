@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5166,
+    "event_count": 5167,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59803,7 +59803,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 17,
+      "sequence": 18,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -83999,10 +83999,10 @@
       "sequence": 0,
       "igdb_game_id": 416522,
       "igdb_release_date_ids": [
-        961792
+        962325
       ],
-      "igdb_updated_at": "2026-09-07T01:19:38+00:00",
-      "igdb_release_status": null
+      "igdb_updated_at": "2026-09-07T15:46:40+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "d5bbc82afbf164159eb102@game-release-calendar",
@@ -84495,7 +84495,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 17,
+      "sequence": 18,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -92486,8 +92486,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Bomb down an endless, wraparound mountain in this arcade ski roguelike. Chain tricks into huge combos, stack 60+ power-ups across six rarity tiers, and outski a pack of hungry cryptids!",
-      "cover_image_id": "cocdt0",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocdt0.jpg",
+      "cover_image_id": "cocuhf",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocuhf.jpg",
       "source": "https://www.igdb.com/games/ski-yeet",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -92599,31 +92599,6 @@
       ],
       "igdb_updated_at": "2026-08-28T18:52:31+00:00",
       "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "c94e338c261b370eb529f3@game-release-calendar",
-      "date": "2026-08-28",
-      "title": "Starweaver Express: Per Aspera Ad Astra",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/starweaver-express-per-aspera-ad-astra",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 391752,
-      "igdb_release_date_ids": [
-        950865
-      ],
-      "igdb_updated_at": "2026-08-07T20:33:37+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "\"Starweaver Express \" is a unique visual novel that blends poetic storytelling with dreamlike visuals. As the mysterious transfer student Tsubaki Ueshima, you'll step into a cloistered academy and follow the paths of girls searching for starlight, love, and meaning.",
-      "cover_image_id": "cobol2",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobol2.jpg"
     },
     {
       "uid": "0e9a8fbb0eba1abf8d1a94@game-release-calendar",
@@ -98252,6 +98227,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc7ok.jpg"
     },
     {
+      "uid": "466a4ac724c272e86f3243@game-release-calendar",
+      "date": "2026-09-02",
+      "title": "Hashire Hebereke: EX",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
+      "cover_image_id": "coawx8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
+      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-07",
+      "sequence": 3,
+      "igdb_game_id": 325670,
+      "igdb_release_date_ids": [
+        961765,
+        961766
+      ],
+      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "e28cd6f8990ce399a0c8b3@game-release-calendar",
       "date": "2026-09-02",
       "title": "He Who Watches",
@@ -98630,6 +98632,35 @@
       "summary": "The spin-off of the acclaimed Super Woden saga, blending classic arcade essence with great depth and a genuine love for car culture. With a unique personality, Rally Edge takes you back to an era where fun goes beyond realism.",
       "cover_image_id": "coafu6",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coafu6.jpg"
+    },
+    {
+      "uid": "7831e39b230e975840f646@game-release-calendar",
+      "date": "2026-09-02",
+      "title": "Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "This DLC is playable in Taiko no Tatsujin: Rhythm Festival game modes like Taiko Mode and Great Drum Toy War.",
+      "cover_image_id": "cocuh4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocuh4.jpg",
+      "source": "https://www.igdb.com/games/taiko-no-tatsujin-rhythm-festival-90s-pops-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-07",
+      "sequence": 0,
+      "igdb_game_id": 416680,
+      "igdb_release_date_ids": [
+        962248,
+        962249,
+        962250
+      ],
+      "igdb_updated_at": "2026-09-07T16:48:18+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "02a7dd62aac6af20369c4b@game-release-calendar",
@@ -99466,33 +99497,6 @@
         961380
       ],
       "igdb_updated_at": "2026-09-05T07:00:12+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "466a4ac724c272e86f3243@game-release-calendar",
-      "date": "2026-09-03",
-      "title": "Hashire Hebereke: EX — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "Game / remake",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
-      "cover_image_id": "coawx8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
-      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-07",
-      "sequence": 0,
-      "igdb_game_id": 325670,
-      "igdb_release_date_ids": [
-        961765,
-        961766
-      ],
-      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -106108,6 +106112,31 @@
       ],
       "igdb_updated_at": "2026-09-07T05:40:24+00:00",
       "igdb_release_status": "Beta"
+    },
+    {
+      "uid": "c94e338c261b370eb529f3@game-release-calendar",
+      "date": "2026-09-11",
+      "title": "Starweaver Express: Per Aspera Ad Astra",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/starweaver-express-per-aspera-ad-astra",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-07",
+      "sequence": 1,
+      "igdb_game_id": 391752,
+      "igdb_release_date_ids": [
+        962233
+      ],
+      "igdb_updated_at": "2026-09-07T16:20:39+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "\"Starweaver Express \" is a unique visual novel that blends poetic storytelling with dreamlike visuals. As the mysterious transfer student Tsubaki Ueshima, you'll step into a cloistered academy and follow the paths of girls searching for starlight, love, and meaning.",
+      "cover_image_id": "cobol2",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobol2.jpg"
     },
     {
       "uid": "218c4f6a30a297f45bbf2a@game-release-calendar",
@@ -117641,6 +117670,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-07",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -123039,8 +123095,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Harvest Exit Plan is a first-person collect-a-thon set in an orchard the player has inherited from their grandparents. Fruit is picked up by hand at first, later with a grabber and a fruit vacuum; each tool can be upgraded for reach, speed, yield per grab and basket capacity, paid for from the proceeds of what was sold before. Six gardens open one after another, each with its own fruit type and an automated…",
-      "cover_image_id": "cocsx1",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocsx1.jpg",
+      "cover_image_id": "cocuge",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocuge.jpg",
       "source": "https://www.igdb.com/games/harvest-exit-plan--1",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -125449,33 +125505,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-07",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
