@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5400,
+    "event_count": 5403,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59778,7 +59778,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 25,
+      "sequence": 26,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -84620,7 +84620,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 25,
+      "sequence": 26,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -98655,6 +98655,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc7ok.jpg"
     },
     {
+      "uid": "466a4ac724c272e86f3243@game-release-calendar",
+      "date": "2026-09-02",
+      "title": "Hashire Hebereke: EX",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
+      "cover_image_id": "coawx8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
+      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-11",
+      "sequence": 3,
+      "igdb_game_id": 325670,
+      "igdb_release_date_ids": [
+        961765,
+        961766
+      ],
+      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "e28cd6f8990ce399a0c8b3@game-release-calendar",
       "date": "2026-09-02",
       "title": "He Who Watches",
@@ -99923,33 +99950,6 @@
         961380
       ],
       "igdb_updated_at": "2026-09-05T07:00:12+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "466a4ac724c272e86f3243@game-release-calendar",
-      "date": "2026-09-03",
-      "title": "Hashire Hebereke: EX — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "Game / remake",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
-      "cover_image_id": "coawx8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
-      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-11",
-      "sequence": 0,
-      "igdb_game_id": 325670,
-      "igdb_release_date_ids": [
-        961765,
-        961766
-      ],
-      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -109759,6 +109759,31 @@
         956359
       ],
       "igdb_updated_at": "2026-08-24T01:36:57+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "b5880265e3e534b811cb76@game-release-calendar",
+      "date": "2026-09-11",
+      "title": "Burger Shift: Team Rush",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Run the world's most chaotic fast food joint! Play solo or with up to 8 friends as you take orders, make burgers, and hustle to keep customers happy. Grow your business with every shift.",
+      "cover_image_id": "cobm4e",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobm4e.jpg",
+      "source": "https://www.igdb.com/games/burger-shift-team-rush",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-11",
+      "sequence": 0,
+      "igdb_game_id": 391583,
+      "igdb_release_date_ids": [
+        964221
+      ],
+      "igdb_updated_at": "2026-09-11T16:48:39+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -122048,6 +122073,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-11",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -124250,6 +124302,37 @@
       "summary": "Alien Archeologist is a chill incremental digging game. Use a variety of upgradeable tools to mine ore, blast through earth, and clean strange artifacts as you journey yet deeper toward the mystery hiding at the planet's core.",
       "cover_image_id": "cock36",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cock36.jpg"
+    },
+    {
+      "uid": "24c246cd4f76d0ac14118b@game-release-calendar",
+      "date": "2026-10-12",
+      "title": "Colorbound — PC / PS5 / Switch / Switch 2 release",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In Colorbound, color is more than just hue. As Anku, an Aymara boy with a unique gift, you’ll harness the power of color to shape the environment itself, uncovering hidden paths to navigate challenging and complex puzzles.",
+      "cover_image_id": "coc6fl",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc6fl.jpg",
+      "source": "https://www.igdb.com/games/colorbound",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-11",
+      "sequence": 0,
+      "igdb_game_id": 347850,
+      "igdb_release_date_ids": [
+        964197,
+        964198,
+        964199,
+        964200
+      ],
+      "igdb_updated_at": "2026-09-11T15:26:29+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "5fadc3c297c4ea655d9c36@game-release-calendar",
@@ -130200,6 +130283,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9dqo.jpg"
     },
     {
+      "uid": "c28ac4caa0ba35128cb9e9@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "Wetter",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Step into the paws of Luna and explore a rain-soaked archipelago. Uncover pieces of your forgotten past and decide which memories will shape who you become.",
+      "cover_image_id": "cocvvz",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocvvz.jpg",
+      "source": "https://www.igdb.com/games/wetter",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-11",
+      "sequence": 0,
+      "igdb_game_id": 371477,
+      "igdb_release_date_ids": [
+        964203
+      ],
+      "igdb_updated_at": "2026-09-11T15:34:42+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "0ab06dcd62dc852603eb91@game-release-calendar",
       "date": "2026-11-12",
       "title": "Ballzy: PvP Block Puzzle — PC release",
@@ -130697,33 +130805,6 @@
         958885
       ],
       "igdb_updated_at": "2026-08-29T12:13:28+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-11",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
