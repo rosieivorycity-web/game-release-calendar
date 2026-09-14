@@ -41813,7 +41813,7 @@ BEGIN:VEVENT
 UID:110e313292b4a986aa4bb4@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:31
+SEQUENCE:32
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:🚀 Project Neon — PC release
@@ -59459,7 +59459,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:31
+SEQUENCE:32
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -66006,6 +66006,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:43617ee3c8004ddb74c8fc@game-release-calendar
+DTSTAMP:20260914T120000Z
+LAST-MODIFIED:20260914T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:🎮 Heroes of Lust and Magic
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/heroes-of-lust-
+ and-magic
+URL:https://www.igdb.com/games/heroes-of-lust-and-magic
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9c3d7e3f1d2b9a3f6f8d1b@game-release-calendar
 DTSTAMP:20260906T120000Z
 LAST-MODIFIED:20260906T120000Z
@@ -69694,6 +69712,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:466a4ac724c272e86f3243@game-release-calendar
+DTSTAMP:20260914T120000Z
+LAST-MODIFIED:20260914T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Hashire Hebereke: EX
+DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
+  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB 
+ release status: Full Release\nNotes: Automatically added from IGDB. Rele
+ ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
+ ames/hashire-hebereke-ex
+URL:https://www.igdb.com/games/hashire-hebereke-ex
+CATEGORIES:GAME RELEASE,PC,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e28cd6f8990ce399a0c8b3@game-release-calendar
 DTSTAMP:20260904T120000Z
 LAST-MODIFIED:20260904T120000Z
@@ -70825,24 +70861,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/gradanix
 URL:https://www.igdb.com/games/gradanix
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:466a4ac724c272e86f3243@game-release-calendar
-DTSTAMP:20260914T120000Z
-LAST-MODIFIED:20260914T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:🎮 Hashire Hebereke: EX — Switch release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
-  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB 
- release status: Full Release\nNotes: Automatically added from IGDB. Rele
- ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
- ames/hashire-hebereke-ex
-URL:https://www.igdb.com/games/hashire-hebereke-ex
-CATEGORIES:GAME RELEASE,PC,SWITCH
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -84731,6 +84749,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:88724976e804baac04fab4@game-release-calendar
+DTSTAMP:20260914T120000Z
+LAST-MODIFIED:20260914T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 Bibi & Tina: Ready\, Set\, Ride!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/bibi-and-tina-r
+ eady-set-ride
+URL:https://www.igdb.com/games/bibi-and-tina-ready-set-ride
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:faf38875f11883c4bff753@game-release-calendar
 DTSTAMP:20260903T120000Z
 LAST-MODIFIED:20260903T120000Z
@@ -85271,10 +85307,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:88724976e804baac04fab4@game-release-calendar
+UID:5683fa0e9958f240c2988c@game-release-calendar
 DTSTAMP:20260914T120000Z
 LAST-MODIFIED:20260914T120000Z
-SEQUENCE:4
+SEQUENCE:0
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:🚀 Bibi & Tina: Ready\, Set\, Ride! — PS5 / Switch release
@@ -88682,6 +88718,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -1
 URL:https://www.igdb.com/games/tile-and-error--1
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260914T120000Z
+LAST-MODIFIED:20260914T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -95186,26 +95241,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/powerfuel
 URL:https://www.igdb.com/games/powerfuel
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260914T120000Z
-LAST-MODIFIED:20260914T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-14\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
