@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5656,
+    "event_count": 5657,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59804,7 +59804,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 33,
+      "sequence": 34,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -85120,7 +85120,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 33,
+      "sequence": 34,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -99857,6 +99857,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocwd9.jpg"
     },
     {
+      "uid": "466a4ac724c272e86f3243@game-release-calendar",
+      "date": "2026-09-02",
+      "title": "Hashire Hebereke: EX",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
+      "cover_image_id": "coawx8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
+      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-15",
+      "sequence": 3,
+      "igdb_game_id": 325670,
+      "igdb_release_date_ids": [
+        961765,
+        961766
+      ],
+      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "e28cd6f8990ce399a0c8b3@game-release-calendar",
       "date": "2026-09-02",
       "title": "He Who Watches",
@@ -101531,33 +101558,6 @@
         961380
       ],
       "igdb_updated_at": "2026-09-05T07:00:12+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "466a4ac724c272e86f3243@game-release-calendar",
-      "date": "2026-09-03",
-      "title": "Hashire Hebereke: EX — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "Game / remake",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
-      "cover_image_id": "coawx8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
-      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-15",
-      "sequence": 0,
-      "igdb_game_id": 325670,
-      "igdb_release_date_ids": [
-        961765,
-        961766
-      ],
-      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -127471,6 +127471,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-15",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f8b5b2ddd11eb183445d@chatgpt-game-release-calendar",
       "date": "2026-10-02",
       "title": "Ace Combat 8: Wings of Theve",
@@ -136939,33 +136966,6 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-15",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
       "uid": "a73f0e6f29e00eef6204e7@game-release-calendar",
       "date": "2026-11-16",
       "title": "Trees Hate You",
@@ -137819,6 +137819,31 @@
       "summary": "A tilt-based platformer game for everyone. Players control Marupoyo’s momentum as he rolls through 120 vibrant levels, avoiding obstacles, exploring, and rescuing his lost siblings.",
       "cover_image_id": "cocm1d",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocm1d.jpg"
+    },
+    {
+      "uid": "965a34b6851e974492f9b3@game-release-calendar",
+      "date": "2026-11-26",
+      "title": "Mix Dunk: King of Basketball",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A new project in collaboration between B.LEAGUE’s professional basketball club Kawasaki Brave Thunders, the idol group AKB48, and the otome game brand Otomate.",
+      "cover_image_id": "coctf4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctf4.jpg",
+      "source": "https://www.igdb.com/games/mix-dunk-king-of-basketball",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-15",
+      "sequence": 0,
+      "igdb_game_id": 274884,
+      "igdb_release_date_ids": [
+        960714
+      ],
+      "igdb_updated_at": "2026-09-15T19:23:38+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "e0f1c39231e3ddc789698e@game-release-calendar",
