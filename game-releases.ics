@@ -41831,7 +41831,7 @@ BEGIN:VEVENT
 UID:110e313292b4a986aa4bb4@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:41
+SEQUENCE:42
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:🚀 Project Neon — PC release
@@ -59328,6 +59328,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:5b1d0723ea2517d51ceef3@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:🎮 Smartphone
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/smartphone
+URL:https://www.igdb.com/games/smartphone
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:773f13ccb475a03be9c7d3@game-release-calendar
 DTSTAMP:20260825T120000Z
 LAST-MODIFIED:20260825T120000Z
@@ -59702,7 +59719,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:41
+SEQUENCE:42
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -63564,16 +63581,17 @@ BEGIN:VEVENT
 UID:89b1b8b4497f015184bf3a@game-release-calendar
 DTSTAMP:20260914T120000Z
 LAST-MODIFIED:20260914T120000Z
-SEQUENCE:0
+SEQUENCE:3
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:🎮 Retrobot: 2085
-DESCRIPTION:Platforms: Switch\nRelease type: Game\nPrice: TBA / not verif
- ied\nStatus: Confirmed\nLast verified: 2026-09-14\nNotes: Automatically 
- added from IGDB. Release date is synchronized\; price is not.\nSource: h
- ttps://www.igdb.com/games/retrobot-2085
+SUMMARY:🚀 Retrobot: 2085 — PC / Switch release
+DESCRIPTION:Platforms: PC • Switch\nRelease type: Platform release\nPri
+ ce: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-14\nIG
+ DB release status: Full Release\nNotes: Automatically added from IGDB. R
+ elease date is synchronized\; price is not.\nSource: https://www.igdb.co
+ m/games/retrobot-2085
 URL:https://www.igdb.com/games/retrobot-2085
-CATEGORIES:GAME RELEASE,SWITCH
+CATEGORIES:GAME RELEASE,PC,SWITCH
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -70134,6 +70152,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:466a4ac724c272e86f3243@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Hashire Hebereke: EX
+DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
+  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB 
+ release status: Full Release\nNotes: Automatically added from IGDB. Rele
+ ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
+ ames/hashire-hebereke-ex
+URL:https://www.igdb.com/games/hashire-hebereke-ex
+CATEGORIES:GAME RELEASE,PC,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e28cd6f8990ce399a0c8b3@game-release-calendar
 DTSTAMP:20260904T120000Z
 LAST-MODIFIED:20260904T120000Z
@@ -71301,24 +71337,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/gradanix
 URL:https://www.igdb.com/games/gradanix
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:466a4ac724c272e86f3243@game-release-calendar
-DTSTAMP:20260919T120000Z
-LAST-MODIFIED:20260919T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:🎮 Hashire Hebereke: EX — Switch release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
-  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB 
- release status: Full Release\nNotes: Automatically added from IGDB. Rele
- ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
- ames/hashire-hebereke-ex
-URL:https://www.igdb.com/games/hashire-hebereke-ex
-CATEGORIES:GAME RELEASE,PC,SWITCH
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -85039,6 +85057,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:04a22d801efcbdd3498589@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🎮 Toonsouls
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/toonsouls
+URL:https://www.igdb.com/games/toonsouls
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f12de0c689e416d5c73e76@game-release-calendar
 DTSTAMP:20260903T120000Z
 LAST-MODIFIED:20260903T120000Z
@@ -89766,6 +89801,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8a77007f89b16c031d7202@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🎮 Monster Museum: Tidy Up the Collection!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/monster-museum-
+ tidy-up-the-collection
+URL:https://www.igdb.com/games/monster-museum-tidy-up-the-collection
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:c7ad9989baf7a93f54a74d@game-release-calendar
 DTSTAMP:20260901T120000Z
 LAST-MODIFIED:20260901T120000Z
@@ -90589,6 +90642,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -1
 URL:https://www.igdb.com/games/tile-and-error--1
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -96859,6 +96931,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8254f97d281edbd5588247@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🎮 Pith
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-19\nNotes: Automatically adde
+ d from IGDB. Release date is synchronized\; price is not.\nSource: https
+ ://www.igdb.com/games/pith
+URL:https://www.igdb.com/games/pith
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ef5a0d62b070a2a137ed83@game-release-calendar
 DTSTAMP:20260908T120000Z
 LAST-MODIFIED:20260908T120000Z
@@ -97932,26 +98021,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20260919T120000Z
-LAST-MODIFIED:20260919T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a73f0e6f29e00eef6204e7@game-release-calendar
 DTSTAMP:20260828T120000Z
 LAST-MODIFIED:20260828T120000Z
@@ -97986,6 +98055,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1458defecf1ae2cc60f3cf@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🎮 AsterMaster
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/astermaster
+URL:https://www.igdb.com/games/astermaster
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:162780b69d8e5fd9292aaa@game-release-calendar
 DTSTAMP:20260905T120000Z
 LAST-MODIFIED:20260905T120000Z
@@ -97999,6 +98085,25 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/milki-delivery
 URL:https://www.igdb.com/games/milki-delivery
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c44e8f6cf68f44a1405c1d@game-release-calendar
+DTSTAMP:20260919T120000Z
+LAST-MODIFIED:20260919T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🚀 Ranger’s Path: National Park Simulator — PC / PS5 releas
+ e
+DESCRIPTION:Platforms: PC • PS5\nRelease type: Platform release\nPrice:
+  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB 
+ release status: Full Release\nNotes: Automatically added from IGDB. Rele
+ ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
+ ames/rangers-path-national-park-simulator
+URL:https://www.igdb.com/games/rangers-path-national-park-simulator
+CATEGORIES:GAME RELEASE,PC,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT

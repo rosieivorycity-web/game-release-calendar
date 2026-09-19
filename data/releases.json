@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5788,
+    "event_count": 5794,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -59829,7 +59829,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 41,
+      "sequence": 42,
       "igdb_game_id": 330134,
       "igdb_release_date_ids": [
         953428,
@@ -84781,6 +84781,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coclsr.jpg"
     },
     {
+      "uid": "5b1d0723ea2517d51ceef3@game-release-calendar",
+      "date": "2026-08-24",
+      "title": "Smartphone",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/smartphone",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 418818,
+      "igdb_release_date_ids": [
+        966944
+      ],
+      "igdb_updated_at": "2026-09-19T17:16:53+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "773f13ccb475a03be9c7d3@game-release-calendar",
       "date": "2026-08-24",
       "title": "Smashing Bottles",
@@ -85321,7 +85346,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 41,
+      "sequence": 42,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -90846,27 +90871,29 @@
     {
       "uid": "89b1b8b4497f015184bf3a@game-release-calendar",
       "date": "2026-08-27",
-      "title": "Retrobot: 2085",
+      "title": "Retrobot: 2085 — PC / Switch release",
       "platforms": [
+        "PC",
         "Switch"
       ],
-      "release_type": "Game",
+      "release_type": "Platform release",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "4-Player Classic Arcade Action",
-      "cover_image_id": "cocwhk",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocwhk.jpg",
+      "summary": "Retrobot: 2085 is a fast, frantic twin-stick arcade shooter with endless robot hordes, survivor rescues, high-score chasing, extra lives, and chaotic 4-player local multiplayer.",
+      "cover_image_id": "cocxz3",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocxz3.jpg",
       "source": "https://www.igdb.com/games/retrobot-2085",
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-09-14",
-      "sequence": 0,
+      "sequence": 3,
       "igdb_game_id": 417863,
       "igdb_release_date_ids": [
-        964979
+        967098,
+        967102
       ],
-      "igdb_updated_at": "2026-09-14T02:59:46+00:00",
-      "igdb_release_status": null
+      "igdb_updated_at": "2026-09-19T18:41:50+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "10f15c460afef8dbc75bd6@game-release-calendar",
@@ -100210,6 +100237,33 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocwd9.jpg"
     },
     {
+      "uid": "466a4ac724c272e86f3243@game-release-calendar",
+      "date": "2026-09-02",
+      "title": "Hashire Hebereke: EX",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
+      "cover_image_id": "coawx8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
+      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 3,
+      "igdb_game_id": 325670,
+      "igdb_release_date_ids": [
+        961765,
+        961766
+      ],
+      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "e28cd6f8990ce399a0c8b3@game-release-calendar",
       "date": "2026-09-02",
       "title": "He Who Watches",
@@ -101909,33 +101963,6 @@
         961380
       ],
       "igdb_updated_at": "2026-09-05T07:00:12+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "466a4ac724c272e86f3243@game-release-calendar",
-      "date": "2026-09-03",
-      "title": "Hashire Hebereke: EX — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "Game / remake",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
-      "cover_image_id": "coawx8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
-      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-19",
-      "sequence": 0,
-      "igdb_game_id": 325670,
-      "igdb_release_date_ids": [
-        961765,
-        961766
-      ],
-      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -121664,6 +121691,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "04a22d801efcbdd3498589@game-release-calendar",
+      "date": "2026-09-19",
+      "title": "Toonsouls",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Create, play, and share your own chaotic 2D platforming levels! Inspired by classic cartoons, powered by your creativity, and fueled by one simple truth: My game is good. The algorithm just ignores me.",
+      "cover_image_id": "co856b",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co856b.jpg",
+      "source": "https://www.igdb.com/games/toonsouls",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 288579,
+      "igdb_release_date_ids": [
+        966982
+      ],
+      "igdb_updated_at": "2026-09-19T17:18:56+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "f12de0c689e416d5c73e76@game-release-calendar",
       "date": "2026-09-20",
       "title": "Dear Journey...",
@@ -121724,8 +121776,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Backframes: Escape Together is a cooperative horror game for 1–4 players. Explore dark levels, solve dangerous puzzles, and escape from sinister entities. Use your voice to interact with objects, uncovering unexpected paths to survival.",
-      "cover_image_id": "coatji",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coatji.jpg",
+      "cover_image_id": "cocxwu",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocxwu.jpg",
       "source": "https://www.igdb.com/games/backframes-escape-together",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -128410,6 +128462,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "8a77007f89b16c031d7202@game-release-calendar",
+      "date": "2026-09-30",
+      "title": "Monster Museum: Tidy Up the Collection!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Step into the relaxing world of Monster Museum! Team up with your favorite creature companion and begin your journey to restore the museum by sorting 2614 monster figurines. Unlock new abilities, collect badges and uncover hidden secrets along the way. Cozy, single player, no timers.",
+      "cover_image_id": "cocorf",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocorf.jpg",
+      "source": "https://www.igdb.com/games/monster-museum-tidy-up-the-collection",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 413484,
+      "igdb_release_date_ids": [
+        966966
+      ],
+      "igdb_updated_at": "2026-09-19T17:20:04+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "c7ad9989baf7a93f54a74d@game-release-calendar",
       "date": "2026-09-30",
       "title": "Murder Castle",
@@ -129602,6 +129679,33 @@
         954242
       ],
       "igdb_updated_at": "2026-08-17T02:34:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -138086,7 +138190,7 @@
       "release_type": "Platform release",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hunt creatures of the night in this Action RPG set in the suburbs of Arizona in the iconic 1980's. Choose a class, and take to the streets to save your small town from Baphomet and his demon generals.",
+      "summary": "Kingdom of Night is an 80s-inspired isometric action RPG where coming-of-age drama meets cosmic horror. When a satanic cult unleashes the ancient evil Baphomet on the small town of Miami, Arizona, high school student John must fight through a night of demonic chaos to rescue his friends before the town is lost forever. Choose from five distinct classes—Barbarian, Knight, Rogue, Necromancer, or Sorcerer—and…",
       "cover_image_id": "co2sv0",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co2sv0.jpg",
       "source": "https://www.igdb.com/games/kingdom-of-night",
@@ -138582,6 +138686,31 @@
       "summary": "A found footage horror game where you need to piece together a timeline in chronological order of a Kaiju incident that occurred.",
       "cover_image_id": "cobzz5",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobzz5.jpg"
+    },
+    {
+      "uid": "8254f97d281edbd5588247@game-release-calendar",
+      "date": "2026-11-06",
+      "title": "Pith",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Traverse a wonderful and strange world, find playful tools, and uncover secrets in PITH, a metroidbrainia/puzzle-platforming adventure full of twists and surprises.",
+      "cover_image_id": "cocmnf",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocmnf.jpg",
+      "source": "https://www.igdb.com/games/pith",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 412176,
+      "igdb_release_date_ids": [
+        966209
+      ],
+      "igdb_updated_at": "2026-09-19T18:32:12+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "ef5a0d62b070a2a137ed83@game-release-calendar",
@@ -140090,33 +140219,6 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-19",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
       "uid": "a73f0e6f29e00eef6204e7@game-release-calendar",
       "date": "2026-11-16",
       "title": "Trees Hate You",
@@ -140167,6 +140269,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coaoea.jpg"
     },
     {
+      "uid": "1458defecf1ae2cc60f3cf@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "AsterMaster",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A beat-driven roguelite shooter on a hex grid. Every step, shot and dodge lands on the rhythm as you dig into a dead mining asteroid — stack weapon mods, chase synergies, break bosses, and haul your ore back out alive. Full controller support, Steam Deck friendly.",
+      "cover_image_id": "cocxym",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocxym.jpg",
+      "source": "https://www.igdb.com/games/astermaster",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 418795,
+      "igdb_release_date_ids": [
+        966899
+      ],
+      "igdb_updated_at": "2026-09-19T18:14:45+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "162780b69d8e5fd9292aaa@game-release-calendar",
       "date": "2026-11-17",
       "title": "Milki Delivery",
@@ -140189,6 +140316,33 @@
         961262
       ],
       "igdb_updated_at": "2026-09-05T04:57:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "c44e8f6cf68f44a1405c1d@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "Ranger’s Path: National Park Simulator — PC / PS5 release",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Begin your park ranger journey in Ranger’s Path: National Park Simulator. Maintain trails, assist visitors, check permits and respond to emergencies. Explore diverse biomes and observe varied animal behaviors across a wide range of species.",
+      "cover_image_id": "coafye",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coafye.jpg",
+      "source": "https://www.igdb.com/games/rangers-path-national-park-simulator",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-19",
+      "sequence": 0,
+      "igdb_game_id": 366709,
+      "igdb_release_date_ids": [
+        966346,
+        966347
+      ],
+      "igdb_updated_at": "2026-09-19T17:32:03+00:00",
       "igdb_release_status": "Full Release"
     },
     {
