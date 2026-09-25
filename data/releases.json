@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 5966,
+    "event_count": 5977,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-09-24",
-      "window_start": "2026-08-10",
-      "window_end": "2028-09-23",
+      "last_scan": "2026-09-25",
+      "window_start": "2026-08-11",
+      "window_end": "2028-09-24",
       "platforms": [
         "PC",
         "PS5",
@@ -85296,7 +85296,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-31",
-      "sequence": 52,
+      "sequence": 53,
       "igdb_game_id": 234411,
       "igdb_release_date_ids": [
         953397,
@@ -100212,33 +100212,6 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocwd9.jpg"
     },
     {
-      "uid": "466a4ac724c272e86f3243@game-release-calendar",
-      "date": "2026-09-02",
-      "title": "Hashire Hebereke: EX",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "Game / remake",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
-      "cover_image_id": "coawx8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
-      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-24",
-      "sequence": 3,
-      "igdb_game_id": 325670,
-      "igdb_release_date_ids": [
-        961765,
-        961766
-      ],
-      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
       "uid": "e28cd6f8990ce399a0c8b3@game-release-calendar",
       "date": "2026-09-02",
       "title": "He Who Watches",
@@ -101938,6 +101911,33 @@
         961380
       ],
       "igdb_updated_at": "2026-09-05T07:00:12+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "466a4ac724c272e86f3243@game-release-calendar",
+      "date": "2026-09-03",
+      "title": "Hashire Hebereke: EX — Switch release",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game / remake",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Hashire Hebereke: EX is a modern remake of the 1994-released Super Famicom racing action game Hashire Hebereke by SUNSOFT. Players can choose from comical and cute characters like series protagonist Hebe and partake in extreme races across unique stages. While carrying over elements from the original game, it will add a new Time Attack mode, new characters, and new stages, as well as four-person online multiplayer…",
+      "cover_image_id": "coawx8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx8.jpg",
+      "source": "https://www.igdb.com/games/hashire-hebereke-ex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 325670,
+      "igdb_release_date_ids": [
+        961765,
+        961766
+      ],
+      "igdb_updated_at": "2026-09-05T22:52:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -105146,7 +105146,8 @@
       "igdb_updated_at": "2026-07-02T11:56:44+00:00",
       "igdb_release_status": "Full Release",
       "cover_image_id": "cocch4",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocch4.jpg"
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocch4.jpg",
+      "summary": "A gallant outfit for Miyamoto Musashi! Striking red armor that can only be worn by an unparalleled warrior such as Musashi."
     },
     {
       "uid": "baeb6a8a0529bc2f7ff3d7@game-release-calendar",
@@ -114154,6 +114155,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "0962147159b82483677960@game-release-calendar",
+      "date": "2026-09-11",
+      "title": "Bob-omb Blitz",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Bob-omb Blitz is a remake/reimagining of the minigame Bob-omb Squad from Super Mario 64 DS and New Super Mario Bros. Bob-ombs are attacking Peach's flowers! The Toads are counting on you to hold them off as much as you can. Use the slingshot to attack the enemies and blast them out of the sky!",
+      "cover_image_id": "cocz5i",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz5i.jpg",
+      "source": "https://www.igdb.com/games/bob-omb-blitz",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419726,
+      "igdb_release_date_ids": [
+        969593
+      ],
+      "igdb_updated_at": "2026-09-25T06:32:14+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "b5880265e3e534b811cb76@game-release-calendar",
       "date": "2026-09-11",
       "title": "Burger Shift: Team Rush",
@@ -115954,6 +115980,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "1b15659f2d4641fb510d2f@game-release-calendar",
+      "date": "2026-09-14",
+      "title": "Astrosaurox",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Astrosaurox is a tribute to the videogames of the late 70s and early 80s. Pilot an Astrosaurox tank and battle the space mafia. Depending on your age, either discover or relive the challenge, fun, and addictive nature of those classic games. Beat your highscore in solo or co-op mode.",
+      "cover_image_id": "cocz21",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz21.jpg",
+      "source": "https://www.igdb.com/games/astrosaurox",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419603,
+      "igdb_release_date_ids": [
+        969469
+      ],
+      "igdb_updated_at": "2026-09-24T21:26:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "cf9e49d776aebf86906554@game-release-calendar",
       "date": "2026-09-14",
       "title": "Bar Darts Simulator",
@@ -117433,6 +117484,31 @@
       "summary": "Destroy All Humans! 2: Reprobed is a video game in the open-world action-adventure genre, serving as a remake of the original 2006 game. It is the sequel to the remade Destroy All Humans! and marks the sixth instalment in the franchise. In this game, players take on the role of Crypto, navigating through diverse global locations such as England, Russia, and the United States. The objective is to complete various…",
       "cover_image_id": "co3ub3",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co3ub3.jpg"
+    },
+    {
+      "uid": "f6c16fee0e8a38e690ef48@game-release-calendar",
+      "date": "2026-09-15",
+      "title": "Detstvo",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Relive the last day of school before summer break in a nostalgic Soviet neighborhood. Wander through faded apartment buildings, dusty playgrounds, and forbidden construction sites, playing hide-and-seek with friends, scoring goals, watching cartoons, and rediscovering old games on an ancient phone. The world comes alive through period details, dynamic lighting, and an atmospheric soundtrack capturing everyday…",
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/detstvo",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 418227,
+      "igdb_release_date_ids": [
+        965614
+      ],
+      "igdb_updated_at": "2026-09-25T10:54:35+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "e7206a8cf93ca469a69f42@game-release-calendar",
@@ -119296,8 +119372,8 @@
       "igdb_updated_at": "2026-09-21T23:01:58+00:00",
       "igdb_release_status": "Full Release",
       "summary": "Relive iconic scenes from \"Mobile Police Patlabor\" in this 3D console action game. Experience dual perspectives: Main Missions as the SV2, and Another Side Missions as their rivals. Hone your pilot skills in Simulator Mode, featuring shooting ranges and Labor duels.",
-      "cover_image_id": "cobteq",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobteq.jpg"
+      "cover_image_id": "cocz65",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz65.jpg"
     },
     {
       "uid": "4577939c16a77e7bac3240@game-release-calendar",
@@ -119940,6 +120016,33 @@
       "summary": "Embark on a time-traveling RPG adventure featuring command battles presented by Masato Kato, creator of numerous RPG classics. With New Game+, embark on a new adventure with your upgraded characters and discover more than 10 different endings.",
       "cover_image_id": "cobfte",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobfte.jpg"
+    },
+    {
+      "uid": "84514b59f33be63282b9cf@game-release-calendar",
+      "date": "2026-09-17",
+      "title": "Arcade Archives 2: Dacholer",
+      "platforms": [
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "\"Dacholer\" is an action game released by Nichibutsu in 1983. Kick a turtle with your powerful legs and take down enemy animals! Watch out for the kappa jumping out of the river! This title also includes a slightly modified version, Kick Boy, so you can enjoy the differences in visuals and gameplay.",
+      "cover_image_id": "cocza9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocza9.jpg",
+      "source": "https://www.igdb.com/games/arcade-archives-2-dacholer",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419602,
+      "igdb_release_date_ids": [
+        969687,
+        969689
+      ],
+      "igdb_updated_at": "2026-09-25T16:31:38+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "148f6e1ed76aedc421ba2f@game-release-calendar",
@@ -121118,8 +121221,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Relive iconic scenes from \"Mobile Police Patlabor\" in this 3D console action game. Experience dual perspectives: Main Missions as the SV2, and Another Side Missions as their rivals. Hone your pilot skills in Simulator Mode, featuring shooting ranges and Labor duels.",
-      "cover_image_id": "cobteq",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobteq.jpg",
+      "cover_image_id": "cocz65",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz65.jpg",
       "source": "https://www.igdb.com/games/patlabor-the-case-files",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -125538,6 +125641,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobo3f.jpg"
     },
     {
+      "uid": "a7f836a426caa44a9f0e2d@game-release-calendar",
+      "date": "2026-09-22",
+      "title": "CatstaC",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A puzzle game where the goal is to reunite two cats with symetric movement, in as few moves as possible, while you collect very green (and shiny) stars!",
+      "cover_image_id": "cocytz",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocytz.jpg",
+      "source": "https://www.igdb.com/games/catstac",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419442,
+      "igdb_release_date_ids": [
+        968963
+      ],
+      "igdb_updated_at": "2026-09-24T21:37:14+00:00",
+      "igdb_release_status": "Beta"
+    },
+    {
       "uid": "1554bd55c74933444716d5@game-release-calendar",
       "date": "2026-09-22",
       "title": "Crown of Hispania",
@@ -126783,6 +126911,31 @@
       ],
       "igdb_updated_at": "2026-09-23T18:32:18+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "cf81a082bced42f40ac5b7@game-release-calendar",
+      "date": "2026-09-23",
+      "title": "Foole's World",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An absurd personality testing experience with a whole lot of questions for you.",
+      "cover_image_id": "cocz2g",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz2g.jpg",
+      "source": "https://www.igdb.com/games/fooles-world",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419541,
+      "igdb_release_date_ids": [
+        969486
+      ],
+      "igdb_updated_at": "2026-09-25T09:52:21+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "a4ef1ea6503339ade234ad@game-release-calendar",
@@ -128227,6 +128380,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "c24b117a06c0f7e613aee3@game-release-calendar",
+      "date": "2026-09-24",
+      "title": "Nightmare Invasion",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Nightmare has set its sights on this world, and as the will of the world, you will rely on cards, tower defenses, and urban construction to destroy Nightmare's invasion in the dream",
+      "cover_image_id": "coa2u8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coa2u8.jpg",
+      "source": "https://www.igdb.com/games/nightmare-invasion",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 1,
+      "igdb_game_id": 352749,
+      "igdb_release_date_ids": [
+        969634
+      ],
+      "igdb_updated_at": "2026-09-25T12:23:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "48060627ad5fb64aff26b5@game-release-calendar",
       "date": "2026-09-24",
       "title": "Nocturne for Cyl-Hestia — Switch release",
@@ -129170,11 +129348,11 @@
     {
       "uid": "a39f38263c99b5e64e5fcd@game-release-calendar",
       "date": "2026-09-25",
-      "title": "Hostile Lands — PC release",
+      "title": "Hostile Lands",
       "platforms": [
         "PC"
       ],
-      "release_type": "Platform release",
+      "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "A skill-based bullet-hell shooter with a TON of colorful characters, crunchy gunplay, and a planet that holds a grudge. Rescue your crew, reach the escape pod, and get out. The catch: every escape cranks up the Hostility toward those left behind.",
@@ -129184,7 +129362,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-09-09",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 332920,
       "igdb_release_date_ids": [
         962716
@@ -129390,31 +129568,6 @@
         960405
       ],
       "igdb_updated_at": "2026-09-03T00:03:57+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "c24b117a06c0f7e613aee3@game-release-calendar",
-      "date": "2026-09-25",
-      "title": "Nightmare Invasion",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Nightmare has set its sights on this world, and as the will of the world, you will rely on cards, tower defenses, and urban construction to destroy Nightmare's invasion in the dream",
-      "cover_image_id": "coa2u8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coa2u8.jpg",
-      "source": "https://www.igdb.com/games/nightmare-invasion",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-22",
-      "sequence": 0,
-      "igdb_game_id": 352749,
-      "igdb_release_date_ids": [
-        968326
-      ],
-      "igdb_updated_at": "2026-09-21T23:49:35+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -131732,7 +131885,7 @@
       "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Raccoon Valley Tycoon is a cozy clicker tycoon game about rebuilding your village with help from a mysterious new friend. The King is missing, and it’s up to you to restore what was lost. Click, collect, upgrade, and delegate your hard work to cute raccoons.",
+      "summary": "Raccoon Valley is a cozy incremental game about restoring a forgotten raccoon village to its former glory. Dig for resources, collect everything in sight, and watch your little town come back to life.",
       "cover_image_id": "coayz5",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coayz5.jpg",
       "source": "https://www.igdb.com/games/raccoon-valley-tycoon",
@@ -132689,33 +132842,6 @@
         954242
       ],
       "igdb_updated_at": "2026-08-17T02:34:32+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-10-01",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-24",
-      "sequence": 3,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -140157,6 +140283,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocku1.jpg"
     },
     {
+      "uid": "9c711d6fcdea647aca4a3a@game-release-calendar",
+      "date": "2026-10-30",
+      "title": "Hypernet Explorer",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Roguelite immersive sim set in post Y2K Europe.",
+      "cover_image_id": "cocz2i",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz2i.jpg",
+      "source": "https://www.igdb.com/games/hypernet-explorer",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 381465,
+      "igdb_release_date_ids": [
+        969493
+      ],
+      "igdb_updated_at": "2026-09-24T22:25:28+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "fe56b1643402668e1feb00@game-release-calendar",
       "date": "2026-10-30",
       "title": "King in the Mountain",
@@ -143139,6 +143290,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "34501acb16fb47102d2374@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Rense",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A fast roguelite FPS. Make your build from level-up power choices and chest items, and fight through three maps of hostile drones. The longer a run goes, the stronger they get. Die, unlock more, come back stronger.",
+      "cover_image_id": "cocz24",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz24.jpg",
+      "source": "https://www.igdb.com/games/rense",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419535,
+      "igdb_release_date_ids": [
+        969246
+      ],
+      "igdb_updated_at": "2026-09-24T21:34:16+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "d9823e3d7a13438c1e6ab6@game-release-calendar",
       "date": "2026-11-10",
       "title": "Torawase: The Girl in the Mirror",
@@ -143492,6 +143668,31 @@
       "status": "confirmed",
       "last_verified": "2026-08-11",
       "sequence": 0
+    },
+    {
+      "uid": "e186cbcd9573d2a4621ba0@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Beyond The Blight",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A short first person, 2.5d incremental dungeon-crawler where you loot, upgrade, and grow stronger on the quest to find and defeat the source of the blight.",
+      "cover_image_id": "cocz3v",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz3v.jpg",
+      "source": "https://www.igdb.com/games/beyond-the-blight",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419636,
+      "igdb_release_date_ids": [
+        969544
+      ],
+      "igdb_updated_at": "2026-09-25T02:34:47+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "5f4418b90934d69ccd2169@game-release-calendar",
@@ -144248,6 +144449,33 @@
         964456
       ],
       "igdb_updated_at": "2026-09-12T17:07:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-11-15",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -148710,6 +148938,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "60858c886e100c7559e988@game-release-calendar",
+      "date": "2027-03-02",
+      "title": "Fox Arcana",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Delve into the mystical depths of the Forest in this captivating roguelike. You play as a courageous fox, wielder of powerful spells, the last bulwark against the growing corruption.",
+      "cover_image_id": "cocyyi",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocyyi.jpg",
+      "source": "https://www.igdb.com/games/fox-arcana",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 418443,
+      "igdb_release_date_ids": [
+        965997
+      ],
+      "igdb_updated_at": "2026-09-25T10:35:57+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "b720835522ead3c042d292@game-release-calendar",
       "date": "2027-03-04",
       "title": "Eternal Anima",
@@ -149342,6 +149595,31 @@
       ],
       "igdb_updated_at": "2026-08-25T20:39:57+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "897005fe07fc93ac79fcdd@game-release-calendar",
+      "date": "2027-04-28",
+      "title": "Air Raid 1: ReOvercharge",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Play multi-round PvE battles, choosing your skills and upgrades that will progress through the story. Spend time with your allies in a visual novel format and strengthen your relationships to unlock PvE combat improvements.",
+      "cover_image_id": "coczac",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coczac.jpg",
+      "source": "https://www.igdb.com/games/air-raid-1-reovercharge",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-09-25",
+      "sequence": 0,
+      "igdb_game_id": 419787,
+      "igdb_release_date_ids": [
+        969692
+      ],
+      "igdb_updated_at": "2026-09-25T16:37:12+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "592c96650184c1e15e72c8@game-release-calendar",
