@@ -59457,7 +59457,7 @@ BEGIN:VEVENT
 UID:fe2034a6e497453ec70e2b@game-release-calendar
 DTSTAMP:20260831T120000Z
 LAST-MODIFIED:20260831T120000Z
-SEQUENCE:75
+SEQUENCE:76
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:🚀 A Tower Full of Cats — PS5 release
@@ -70069,6 +70069,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:466a4ac724c272e86f3243@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Hashire Hebereke: EX
+DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
+  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB 
+ release status: Full Release\nNotes: Automatically added from IGDB. Rele
+ ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
+ ames/hashire-hebereke-ex
+URL:https://www.igdb.com/games/hashire-hebereke-ex
+CATEGORIES:GAME RELEASE,PC,SWITCH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e28cd6f8990ce399a0c8b3@game-release-calendar
 DTSTAMP:20260904T120000Z
 LAST-MODIFIED:20260904T120000Z
@@ -71271,24 +71289,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/gradanix
 URL:https://www.igdb.com/games/gradanix
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:466a4ac724c272e86f3243@game-release-calendar
-DTSTAMP:20261006T120000Z
-LAST-MODIFIED:20261006T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:🎮 Hashire Hebereke: EX — Switch release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: Game / remake\nPrice:
-  TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB 
- release status: Full Release\nNotes: Automatically added from IGDB. Rele
- ase date is synchronized\; price is not.\nSource: https://www.igdb.com/g
- ames/hashire-hebereke-ex
-URL:https://www.igdb.com/games/hashire-hebereke-ex
-CATEGORIES:GAME RELEASE,PC,SWITCH
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -80552,6 +80552,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/exitrance
 URL:https://www.igdb.com/games/exitrance
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09478ba5ec4bec70572bf6@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🎮 Garbage Incident
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/garbage-inciden
+ t
+URL:https://www.igdb.com/games/garbage-incident
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -95950,6 +95968,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f9c3667aaea35eab0a19bf@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🎮 Dust Rapture
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/dust-rapture
+URL:https://www.igdb.com/games/dust-rapture
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9c142a67b3500da25a31f0@game-release-calendar
 DTSTAMP:20260928T120000Z
 LAST-MODIFIED:20260928T120000Z
@@ -97929,9 +97964,10 @@ DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:🎮 Deleted Wiki: Clean Up the Lost Files
 DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-10-06\nNotes: Automatically adde
- d from IGDB. Release date is synchronized\; price is not.\nSource: https
- ://www.igdb.com/games/deleted-wiki-clean-up-the-lost-files
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/deleted-wiki-cl
+ ean-up-the-lost-files
 URL:https://www.igdb.com/games/deleted-wiki-clean-up-the-lost-files
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
@@ -98540,6 +98576,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/princess-maker-
  children-of-revelation
 URL:https://www.igdb.com/games/princess-maker-children-of-revelation
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:387eb3541157078d7e93f3@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🎮 Project Sakura
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/project-sakura
+URL:https://www.igdb.com/games/project-sakura
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -100231,6 +100284,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3c285d86b8da88d4ad4f5d@game-release-calendar
 DTSTAMP:20261005T120000Z
 LAST-MODIFIED:20261005T120000Z
@@ -100730,7 +100802,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:14
+SEQUENCE:15
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -103420,6 +103492,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  -committee-members-dream-of-succubi
 URL:https://www.igdb.com/games/do-disciplinary-committee-members-dream-of
  -succubi
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b35cad50c3a66797317360@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🎮 Doamari
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/doamari
+URL:https://www.igdb.com/games/doamari
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -112268,6 +112357,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:eeab3ca27ac4eb4bbdd227@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎮 Your Way Out
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/your-way-out--1
+URL:https://www.igdb.com/games/your-way-out--1
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:94f14c15cdb3a22b1d140e@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -117119,26 +117225,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20261006T120000Z
-LAST-MODIFIED:20261006T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a1d180fd202cbdd0aea80e@game-release-calendar
 DTSTAMP:20261003T120000Z
 LAST-MODIFIED:20261003T120000Z
@@ -117429,6 +117515,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/zero-sum
 URL:https://www.igdb.com/games/zero-sum
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac254136731278f4e9663@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎮 Frog is Crime
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/frog-is-crime
+URL:https://www.igdb.com/games/frog-is-crime
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -117851,6 +117954,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/zombie-police-m
  idsummer-unhappy-new-year
 URL:https://www.igdb.com/games/zombie-police-midsummer-unhappy-new-year
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb6144375dd0fbc152457@game-release-calendar
+DTSTAMP:20261006T120000Z
+LAST-MODIFIED:20261006T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🎮 Blackout Route
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-06\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/blackout-route
+URL:https://www.igdb.com/games/blackout-route
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
