@@ -18162,23 +18162,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7f97e51d1f960b7d410458@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:🎮 Ghost Algorithm
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/ghost-algorithm
-URL:https://www.igdb.com/games/ghost-algorithm
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:7b8215508df7be00ede248@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -103100,6 +103083,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3c285d86b8da88d4ad4f5d@game-release-calendar
 DTSTAMP:20261005T120000Z
 LAST-MODIFIED:20261005T120000Z
@@ -103687,7 +103689,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:48
+SEQUENCE:49
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -111225,6 +111227,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d7525ff341f6dc46ceee5f@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Cyber Breaker ’95
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/cyber-breaker-9
+ 5
+URL:https://www.igdb.com/games/cyber-breaker-95
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7ce5e5a8ed0db5e166cdf6@game-release-calendar
 DTSTAMP:20260927T120000Z
 LAST-MODIFIED:20260927T120000Z
@@ -116989,6 +117009,42 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a4a91b8d5a68707e280449@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🧩 For Honor: Liana the Pale
+DESCRIPTION:Platforms: PC\nRelease type: Add-on pack\nPrice: TBA / not ve
+ rified\nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release statu
+ s: Full Release\nNotes: Automatically added from IGDB. Release date is s
+ ynchronized\; price is not.\nSource: https://www.igdb.com/games/for-hono
+ r-liana-the-pale
+URL:https://www.igdb.com/games/for-honor-liana-the-pale
+CATEGORIES:GAME RELEASE,PC,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:559c8222625f0272075318@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🧩 For Honor: The Nightstalker
+DESCRIPTION:Platforms: PC\nRelease type: Add-on pack\nPrice: TBA / not ve
+ rified\nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release statu
+ s: Full Release\nNotes: Automatically added from IGDB. Release date is s
+ ynchronized\; price is not.\nSource: https://www.igdb.com/games/for-hono
+ r-the-nightstalker
+URL:https://www.igdb.com/games/for-honor-the-nightstalker
+CATEGORIES:GAME RELEASE,PC,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:16829c0c7e433b3f6f0003@game-release-calendar
 DTSTAMP:20261023T120000Z
 LAST-MODIFIED:20261023T120000Z
@@ -117538,6 +117594,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7f97e51d1f960b7d410458@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🎮 Ghost Algorithm
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/ghost-algorithm
+URL:https://www.igdb.com/games/ghost-algorithm
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9846af6a7a737c4015e8c6@game-release-calendar
 DTSTAMP:20261010T120000Z
 LAST-MODIFIED:20261010T120000Z
@@ -118047,6 +118120,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/everburning-dar
  k
 URL:https://www.igdb.com/games/everburning-dark
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:db28d8578e02e8088797e3@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:🎮 Night Crew
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/night-crew
+URL:https://www.igdb.com/games/night-crew
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -128190,6 +128280,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f31a9c06c2e2e1f73a0f6b@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🎮 Pokémon GS Vitro
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-23\nNotes: Automatically adde
+ d from IGDB. Release date is synchronized\; price is not.\nSource: https
+ ://www.igdb.com/games/pokemon-gs-vitro
+URL:https://www.igdb.com/games/pokemon-gs-vitro
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:40d10ddca3f3ffb0e55d96@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -134797,6 +134904,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:70131edc4d8dd104a27efd@game-release-calendar
+DTSTAMP:20261023T120000Z
+LAST-MODIFIED:20261023T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎮 Reality Drift
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/reality-drift
+URL:https://www.igdb.com/games/reality-drift
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:66c7971d235587fae0bf7f@game-release-calendar
 DTSTAMP:20261007T120000Z
 LAST-MODIFIED:20261007T120000Z
@@ -136196,26 +136320,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/overspray
 URL:https://www.igdb.com/games/overspray
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20261023T120000Z
-LAST-MODIFIED:20261023T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-23\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
