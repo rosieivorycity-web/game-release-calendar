@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 8360,
+    "event_count": 8364,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -147773,6 +147773,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-10-27",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3c285d86b8da88d4ad4f5d@game-release-calendar",
       "date": "2026-10-01",
       "title": "Zero Parades: Director's Cut",
@@ -148622,7 +148649,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-01",
-      "sequence": 56,
+      "sequence": 57,
       "igdb_game_id": 411821,
       "igdb_release_date_ids": [
         950819,
@@ -154185,7 +154212,8 @@
       "platforms": [
         "PC",
         "PS5",
-        "Switch"
+        "Switch",
+        "Switch 2"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -154193,14 +154221,15 @@
       "source": "https://dayone-app.com/en/releases/2026/october/",
       "status": "confirmed",
       "last_verified": "2026-08-11",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 313597,
       "igdb_release_date_ids": [
-        920380,
         920381,
-        920382
+        920382,
+        983284,
+        983285
       ],
-      "igdb_updated_at": "2026-06-02T15:49:02+00:00",
+      "igdb_updated_at": "2026-10-27T20:39:06+00:00",
       "igdb_release_status": "Full Release",
       "summary": "Silver Pines is a Survival Horror set in small town America. Fight nightmarish terrors and solve puzzles, while carefully managing your scarce resources as you uncover the mysteries that could hold the key to redemption.",
       "cover_image_id": "coaxvl",
@@ -157905,6 +157934,56 @@
         972655
       ],
       "igdb_updated_at": "2026-10-02T22:22:01+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "e10a6cfeac76799696f160@game-release-calendar",
+      "date": "2026-10-12",
+      "title": "Swords of Valdgir",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A classic action-adventure game for Atari in which the player journeys through a fantasy world, battling enemies to find the titular swords. Simple design, retro atmosphere, and challenging gameplay create an adventure tailored for fans of classic gaming.",
+      "cover_image_id": "cod8e1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod8e1.jpg",
+      "source": "https://www.igdb.com/games/swords-of-valdgir",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-10-27",
+      "sequence": 0,
+      "igdb_game_id": 425863,
+      "igdb_release_date_ids": [
+        983271
+      ],
+      "igdb_updated_at": "2026-10-27T20:40:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "77939816c47eadb0646d98@game-release-calendar",
+      "date": "2026-10-12",
+      "title": "Swords of Valdgir II",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Swords of Valdgir II is an action-adventure game. This time king Aldir must defeat Bloody Zenon, that uses Cyclops eye to terrorize the surrounding area.",
+      "cover_image_id": "cod8e2",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod8e2.jpg",
+      "source": "https://www.igdb.com/games/swords-of-valdgir-ii",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-10-27",
+      "sequence": 0,
+      "igdb_game_id": 425865,
+      "igdb_release_date_ids": [
+        983272
+      ],
+      "igdb_updated_at": "2026-10-27T20:40:10+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -173337,6 +173416,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "859448a0fe31b01fe7d2c0@game-release-calendar",
+      "date": "2026-10-27",
+      "title": "Burggeist — Switch 2 release",
+      "platforms": [
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Burggeist is a real-time action strategy that features the use of height differences and the terrains as part of your tactics. Move around the field, quickly analyze the situation, choose the effective move to create and defend your Tower.",
+      "cover_image_id": "co89ee",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co89ee.jpg",
+      "source": "https://www.igdb.com/games/burggeist",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-10-27",
+      "sequence": 0,
+      "igdb_game_id": 302962,
+      "igdb_release_date_ids": [
+        982639
+      ],
+      "igdb_updated_at": "2026-10-27T19:25:52+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "6d527240ac5735d06bc0ff@game-release-calendar",
       "date": "2026-10-27",
       "title": "Capsule Arcade",
@@ -177931,6 +178035,31 @@
       ],
       "igdb_updated_at": "2026-09-25T22:24:18+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "7d7e4133ebe95553ae6266@game-release-calendar",
+      "date": "2026-10-28",
+      "title": "Fables of the Kingdom Remastered: Collector's Edition",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/fables-of-the-kingdom-remastered-collectors-edition",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-10-27",
+      "sequence": 0,
+      "igdb_game_id": 425961,
+      "igdb_release_date_ids": [
+        983142
+      ],
+      "igdb_updated_at": "2026-10-27T20:38:11+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "f28690189464c8235c77e6@game-release-calendar",
@@ -197991,33 +198120,6 @@
       ],
       "igdb_updated_at": "2026-10-23T08:32:19+00:00",
       "igdb_release_status": "Early Access"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-27",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
-      "igdb_release_status": "Full Release"
     },
     {
       "uid": "f25831cba042903311785c@game-release-calendar",
