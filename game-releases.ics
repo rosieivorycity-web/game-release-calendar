@@ -103279,6 +103279,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3c285d86b8da88d4ad4f5d@game-release-calendar
 DTSTAMP:20261005T120000Z
 LAST-MODIFIED:20261005T120000Z
@@ -103866,7 +103885,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:60
+SEQUENCE:61
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -124781,6 +124800,42 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d9c2d2d070f61e5576c624@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🚀 Arcade Archives 2: Prehistoric Isle
+DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
+ ot verified\nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB release 
+ status: Full Release\nNotes: Automatically added from IGDB. Release date
+  is synchronized\; price is not.\nSource: https://www.igdb.com/games/arc
+ ade-archives-2-prehistoric-isle
+URL:https://www.igdb.com/games/arcade-archives-2-prehistoric-isle
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5990c7687a3052912220@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🚀 Arcade Archives 2: Swimmer
+DESCRIPTION:Platforms: PC • Switch 2\nRelease type: Platform release\nP
+ rice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-29\n
+ IGDB release status: Full Release\nNotes: Automatically added from IGDB.
+  Release date is synchronized\; price is not.\nSource: https://www.igdb.
+ com/games/arcade-archives-2-swimmer
+URL:https://www.igdb.com/games/arcade-archives-2-swimmer
+CATEGORIES:GAME RELEASE,PC,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7a4b1982e60e626a3224ce@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -126947,10 +127002,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d9c2d2d070f61e5576c624@game-release-calendar
+UID:d640a4b85f05fa7931b6ac@game-release-calendar
 DTSTAMP:20261029T120000Z
 LAST-MODIFIED:20261029T120000Z
-SEQUENCE:3
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🚀 Arcade Archives 2: Prehistoric Isle — PS5 / Switch 2 relea
@@ -126966,10 +127021,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3a5990c7687a3052912220@game-release-calendar
+UID:1213e00ef51ab1489594a4@game-release-calendar
 DTSTAMP:20261029T120000Z
 LAST-MODIFIED:20261029T120000Z
-SEQUENCE:3
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🚀 Arcade Archives 2: Swimmer — PS5 release
@@ -128411,6 +128466,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  y Access\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/music-maniaz
 URL:https://www.igdb.com/games/music-maniaz
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d4912f00695509e0f7840@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎮 Never a Penalty
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/never-a-penalty
+URL:https://www.igdb.com/games/never-a-penalty
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -131882,6 +131954,23 @@ DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game\nPrice
  games/baptiste
 URL:https://www.igdb.com/games/baptiste
 CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:51ddc14dfe138df1836bbd@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🎮 Beyond the Mist
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/beyond-the-mist
+URL:https://www.igdb.com/games/beyond-the-mist
+CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -135952,6 +136041,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8e48caed88fef34f7a77ff@game-release-calendar
+DTSTAMP:20261029T120000Z
+LAST-MODIFIED:20261029T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🎮 Ammo Dump
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/ammo-dump
+URL:https://www.igdb.com/games/ammo-dump
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:4dc3493d82e54506a17319@game-release-calendar
 DTSTAMP:20261021T120000Z
 LAST-MODIFIED:20261021T120000Z
@@ -139997,26 +140103,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20261029T120000Z
-LAST-MODIFIED:20261029T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-10-29\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f25831cba042903311785c@game-release-calendar
 DTSTAMP:20261022T120000Z
 LAST-MODIFIED:20261022T120000Z
@@ -141014,10 +141100,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:51ddc14dfe138df1836bbd@game-release-calendar
+UID:092253e0addacbdcd29a5c@game-release-calendar
 DTSTAMP:20261029T120000Z
 LAST-MODIFIED:20261029T120000Z
-SEQUENCE:4
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🚀 Beyond the Mist — Switch release
@@ -147552,17 +147638,17 @@ BEGIN:VEVENT
 UID:aa0b1f373384d666f46c40@game-release-calendar
 DTSTAMP:20261028T120000Z
 LAST-MODIFIED:20261028T120000Z
-SEQUENCE:0
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
-SUMMARY:🚀 Petal Runner — Switch 2 release
-DESCRIPTION:Platforms: Switch 2\nRelease type: Platform release\nPrice: T
- BA / not verified\nStatus: Confirmed\nLast verified: 2026-10-28\nIGDB re
- lease status: Full Release\nNotes: Automatically added from IGDB. Releas
- e date is synchronized\; price is not.\nSource: https://www.igdb.com/gam
- es/petal-runner
+SUMMARY:🎮 Petal Runner
+DESCRIPTION:Platforms: PC • Switch 2\nRelease type: Game\nPrice: TBA / 
+ not verified\nStatus: Confirmed\nLast verified: 2026-10-28\nIGDB release
+  status: Full Release\nNotes: Automatically added from IGDB. Release dat
+ e is synchronized\; price is not.\nSource: https://www.igdb.com/games/pe
+ tal-runner
 URL:https://www.igdb.com/games/petal-runner
-CATEGORIES:GAME RELEASE,SWITCH_2
+CATEGORIES:GAME RELEASE,PC,SWITCH_2
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
