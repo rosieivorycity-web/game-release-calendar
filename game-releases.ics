@@ -75089,23 +75089,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4c677459829ef9e5ba6b9b@game-release-calendar
-DTSTAMP:20260908T120000Z
-LAST-MODIFIED:20260908T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:🎮 Deadzoned
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-09-08\nIGDB release status: Earl
- y Access\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/deadzoned
-URL:https://www.igdb.com/games/deadzoned
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:52bc497250af0d0152f5dc@game-release-calendar
 DTSTAMP:20260909T120000Z
 LAST-MODIFIED:20260909T120000Z
@@ -103190,7 +103173,7 @@ BEGIN:VEVENT
 UID:81d76a94c97979d0cdf623@game-release-calendar
 DTSTAMP:20261103T120000Z
 LAST-MODIFIED:20261103T120000Z
-SEQUENCE:4
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
@@ -103810,7 +103793,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:70
+SEQUENCE:71
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -134673,6 +134656,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:4c677459829ef9e5ba6b9b@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🎮 Deadzoned
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/deadzoned
+URL:https://www.igdb.com/games/deadzoned
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:5933b8b4cb1d08e1d1bf58@game-release-calendar
 DTSTAMP:20261010T120000Z
 LAST-MODIFIED:20261010T120000Z
@@ -135229,6 +135229,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/spaceshooter--1
 URL:https://www.igdb.com/games/spaceshooter--1
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba6730a898fb3f016653a@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🎮 Storage Anomaly
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/storage-anomaly
+URL:https://www.igdb.com/games/storage-anomaly
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -149545,6 +149562,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/carpet-daddy
 URL:https://www.igdb.com/games/carpet-daddy
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:186dc7126c9d7571102170@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🎮 Minigolf Brake!
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/minigolf-brake
+URL:https://www.igdb.com/games/minigolf-brake
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
