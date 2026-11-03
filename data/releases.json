@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 8717,
+    "event_count": 8786,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -9174,35 +9174,6 @@
       "summary": "First‑person psychological horror card game with 900 dynamic scares, real‑time voice multiplayer, a final boss, and progression aboard a cursed spaceship.",
       "cover_image_id": "coc0wo",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc0wo.jpg"
-    },
-    {
-      "uid": "09e58290fb3918d55a3afd@game-release-calendar",
-      "date": "2026-07-07",
-      "title": "Moonlight Peaks",
-      "platforms": [
-        "PC",
-        "Switch",
-        "Switch 2"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/moonlight-peaks",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 237123,
-      "igdb_release_date_ids": [
-        885053,
-        885055,
-        885056
-      ],
-      "igdb_updated_at": "2026-03-23T19:23:27+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Live the vampire life in the magical town of Moonlight Peaks! Master the art of potions and spells, manage your supernatural farm, and leave your mark on the magical town. Make friends with the local werewolves, witches, and mermaids, and find your eternal love in the supernatural dating scene.",
-      "cover_image_id": "co9vvs",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9vvs.jpg"
     },
     {
       "uid": "d7a694ca3217fdc451b692@game-release-calendar",
@@ -109327,35 +109298,6 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "144e9b38c316eec3b46e10@game-release-calendar",
-      "date": "2026-09-08",
-      "title": "Ova Magica — PS5 / Switch / Switch 2 release",
-      "platforms": [
-        "PS5",
-        "Switch",
-        "Switch 2"
-      ],
-      "release_type": "Platform release",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/ova-magica",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 138211,
-      "igdb_release_date_ids": [
-        944506,
-        944507,
-        944509
-      ],
-      "igdb_updated_at": "2026-07-21T21:18:42+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Experience a colorful farm game inspired by the classics! Train cute blob creatures, take care of your farm and make friends with the people of Clover Town.",
-      "cover_image_id": "co2k81",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co2k81.jpg"
-    },
-    {
       "uid": "f1269f733f98822cce88af@game-release-calendar",
       "date": "2026-09-08",
       "title": "Permaban",
@@ -143054,7 +142996,7 @@
       "release_type": "Add-on pack",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": null,
+      "summary": "The Heirloom Pack brings visual variety to your arsenal and adds a nice touch to your lodge. It includes a masterfully engraved .243 Win rifle, a visually matching scope, a modern-looking .270 Win rifle, and a large bronze elk statue.",
       "cover_image_id": "cod19c",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod19c.jpg",
       "source": "https://www.igdb.com/games/way-of-the-hunter-2-heirloom-pack",
@@ -147526,6 +147468,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "c2b5668c855217544fac08@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "The Dream Office: Office Decor Pack",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Give your office a makeover! The Dream Office - Office Decor Pack brings a bunch of new furniture, lights, office stuff, plants, clocks, and fresh wall and floor materials to your workplace. Because if you're going to spend all day at the office, it might as well look good. Right?",
+      "cover_image_id": "cod9t5",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9t5.jpg",
+      "source": "https://www.igdb.com/games/the-dream-office-office-decor-pack",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426968,
+      "igdb_release_date_ids": [
+        984726
+      ],
+      "igdb_updated_at": "2026-11-03T07:13:17+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "25db5c3af3385f39957dda@game-release-calendar",
       "date": "2026-10-01",
       "title": "Tile & Error",
@@ -147693,7 +147660,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-11-03",
-      "sequence": 3,
+      "sequence": 4,
       "igdb_game_id": 411174,
       "igdb_release_date_ids": [
         956580,
@@ -148577,7 +148544,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-01",
-      "sequence": 69,
+      "sequence": 70,
       "igdb_game_id": 411821,
       "igdb_release_date_ids": [
         950819,
@@ -151630,6 +151597,31 @@
       ],
       "igdb_updated_at": "2026-10-12T13:23:00+00:00",
       "igdb_release_status": "Alpha"
+    },
+    {
+      "uid": "c58fbb3c79a9fabd5cb4f1@game-release-calendar",
+      "date": "2026-10-07",
+      "title": "KZ.LAB",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cod6uh",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6uh.jpg",
+      "source": "https://www.igdb.com/games/kz-dot-lab",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424795,
+      "igdb_release_date_ids": [
+        980554
+      ],
+      "igdb_updated_at": "2026-11-03T05:36:52+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "a042bebb5b7e327c46bfdf@game-release-calendar",
@@ -157005,6 +156997,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3bd5e00ba76f89ed32d11f@game-release-calendar",
+      "date": "2026-10-11",
+      "title": "Inspector Sommers in: Ouroborian Madness",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Inspector Sommers in: Ouroborian Madness: The escape room that breaks the laws of physics and time. Investigation, time travel, and a warping mansion await in this Cold War-era mystery adventure.",
+      "cover_image_id": "codad9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codad9.jpg",
+      "source": "https://www.igdb.com/games/inspector-sommers-in-ouroborian-madness",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427415,
+      "igdb_release_date_ids": [
+        985692
+      ],
+      "igdb_updated_at": "2026-11-03T07:46:14+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "9ad8f55bdd4fe34f584436@game-release-calendar",
       "date": "2026-10-11",
       "title": "Mebula Legends — PC release",
@@ -157686,33 +157703,6 @@
       ],
       "igdb_updated_at": "2026-10-30T01:18:30+00:00",
       "igdb_release_status": "Early Access"
-    },
-    {
-      "uid": "f1dc54d61a116032b5ae50@game-release-calendar",
-      "date": "2026-10-12",
-      "title": "Hubert",
-      "platforms": [
-        "PC",
-        "PS5"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Step into the paws of a loyal shepherd dog in this atmospheric third-person adventure. Track scents, herd sheep, and navigate the rugged northern wilderness. Face rough weather, natural predators and not so obedient sheeps.",
-      "cover_image_id": "cocu2t",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocu2t.jpg",
-      "source": "https://www.igdb.com/games/hubert",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-07",
-      "sequence": 0,
-      "igdb_game_id": 346482,
-      "igdb_release_date_ids": [
-        962234,
-        962235
-      ],
-      "igdb_updated_at": "2026-09-07T09:33:03+00:00",
-      "igdb_release_status": "Full Release"
     },
     {
       "uid": "379d6cf6cb60f75df512df@game-release-calendar",
@@ -158965,6 +158955,31 @@
       ],
       "igdb_updated_at": "2026-10-13T11:36:10+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "4b2d11a5a20d08ff28e7ee@game-release-calendar",
+      "date": "2026-10-13",
+      "title": "Hyperballin'",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "High-octane precision platforming unlike anything you've ever seen. Find the Dominus. Be the fastest. Run through multiple marble racing tracks where the floor is the enemy. Chain together wall-jumps, floor-surfs, air-dashes, teleports and perfect momentum redirects to increase your speed without limits. One misstep means shattering your Diamond rank.",
+      "cover_image_id": "cod94m",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod94m.jpg",
+      "source": "https://www.igdb.com/games/hyperballin",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424454,
+      "igdb_release_date_ids": [
+        984408
+      ],
+      "igdb_updated_at": "2026-11-03T10:31:23+00:00",
+      "igdb_release_status": "Alpha"
     },
     {
       "uid": "fafc78daeb65b68e5d8c9b@game-release-calendar",
@@ -160336,6 +160351,31 @@
         978315
       ],
       "igdb_updated_at": "2026-10-15T08:50:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f1dc54d61a116032b5ae50@game-release-calendar",
+      "date": "2026-10-14",
+      "title": "Hubert",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Step into the paws of a loyal shepherd dog in this atmospheric third-person adventure. Track scents, herd sheep, and navigate the rugged northern wilderness. Face rough weather, natural predators and not so obedient sheeps.",
+      "cover_image_id": "cocu2t",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocu2t.jpg",
+      "source": "https://www.igdb.com/games/hubert",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 2,
+      "igdb_game_id": 346482,
+      "igdb_release_date_ids": [
+        978312
+      ],
+      "igdb_updated_at": "2026-11-03T05:23:27+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -162410,6 +162450,31 @@
         966761
       ],
       "igdb_updated_at": "2026-09-21T13:46:41+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "906af3db9aca50da9df010@game-release-calendar",
+      "date": "2026-10-15",
+      "title": "Moto Warper",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Beyond the edge of mapped space lies the Warp: twenty roads suspended in a void where gravity is part of the track. They twist through glass bridges, foundry conveyors, frozen spans, storm-lashed stations and wells of crushing gravity. You are a lone rider on a warp motorcycle, racing the clock and chasing the gravity shards hidden on the riskiest lines. Collect enough and a sealed road opens. Master every world to…",
+      "cover_image_id": "cod54d",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod54d.jpg",
+      "source": "https://www.igdb.com/games/moto-warper",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 423645,
+      "igdb_release_date_ids": [
+        978000
+      ],
+      "igdb_updated_at": "2026-11-03T05:22:42+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -165348,6 +165413,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7fa5c9037c6a04029fc8c6@game-release-calendar",
+      "date": "2026-10-17",
+      "title": "Yatai 8",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An endless loop in a dark Japanese corridor. Observe every detail carefully: if everything looks normal, keep walking. If you notice even the slightest anomaly, turn back immediately. Escape the loop before it's too late.",
+      "cover_image_id": "cocpp4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocpp4.jpg",
+      "source": "https://www.igdb.com/games/yatai-8",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 414075,
+      "igdb_release_date_ids": [
+        983310
+      ],
+      "igdb_updated_at": "2026-11-03T06:20:53+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3358ca2836473743315bdb@game-release-calendar",
       "date": "2026-10-18",
       "title": "AI Olympius",
@@ -165571,6 +165661,56 @@
       ],
       "igdb_updated_at": "2026-10-20T03:24:45+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2858bfd8c60ff26e7d6cde@game-release-calendar",
+      "date": "2026-10-18",
+      "title": "Scribble Tanks",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Scribble Tanks is a single-player survival roguelite on a sketch-styled 3D battlefield on graph paper. Fight zombie hordes, tanks and bosses, build your arsenal, reclaim besieged regions, and face the final boss—or keep fighting in Endless Mode.",
+      "cover_image_id": "coda8l",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coda8l.jpg",
+      "source": "https://www.igdb.com/games/scribble-tanks",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427335,
+      "igdb_release_date_ids": [
+        985632
+      ],
+      "igdb_updated_at": "2026-11-03T03:28:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "d02d9b539ea80cdefeef1b@game-release-calendar",
+      "date": "2026-10-18",
+      "title": "Starcorp Tycoon",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Starcorp Tycoon is a single and multi-player business tycoon set in the year 2246. You run StarCorp, maker of the drink Gulst, in a sector of 26 star systems and compete with up to seven AI corporations for the market. Chart new systems, found stations, mine steel and ice, research a better product, run marketing campaigns, sign sponsors and grow across the sector, then hold the market at a year-end to win. Pick…",
+      "cover_image_id": "cod675",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod675.jpg",
+      "source": "https://www.igdb.com/games/starcorp-tycoon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424306,
+      "igdb_release_date_ids": [
+        979764
+      ],
+      "igdb_updated_at": "2026-11-03T05:29:36+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "6868c2a122e9a7d580536a@game-release-calendar",
@@ -166201,7 +166341,7 @@
       "release_type": "Platform release",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "After a bad night and an argument you weren't ready to finish, you drove six hours north into the Hollow County backcountry with a camera and a roll of 28 exposures. The plan was simple: hike the winter loop and clear your head before dark. Then you developed the third frame. You see something tall standing in the tree line. When you lower the camera, the snow between the pines is empty - but every time you take a…",
+      "summary": "MT. HOLLOW - DECEMBER 14, 1998 After a bad night and an argument you weren't ready to finish, you drove six hours north into the Hollow County backcountry with a camera and a roll of 28 exposures. The plan was simple: hike the winter loop and clear your head before dark. Then you developed the third frame. You see something tall standing in the tree line. When you lower the camera, the snow between the pines is…",
       "cover_image_id": "cod6jk",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6jk.jpg",
       "source": "https://www.igdb.com/games/long-exposure",
@@ -166314,6 +166454,31 @@
         980821
       ],
       "igdb_updated_at": "2026-10-22T07:13:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "04731df703b729250985fb@game-release-calendar",
+      "date": "2026-10-19",
+      "title": "Quartermark",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Your party fights on its own. Who stands in it and what they carry is your call — and that is the whole game. 16 heroes, 9 keywords that chain into gold combos, 100 maps, 440 grotesque 3D monsters, 100 bosses and an upgrade ladder that can destroy your best item.",
+      "cover_image_id": "cod3of",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod3of.jpg",
+      "source": "https://www.igdb.com/games/quartermark",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 420322,
+      "igdb_release_date_ids": [
+        985079
+      ],
+      "igdb_updated_at": "2026-11-03T07:48:33+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -167411,7 +167576,7 @@
       "release_type": "Season / add-on",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": null,
+      "summary": "The Season 12 of The Finals includes: - Break New Ground | Upgraded Dynamism - New Light Playstyle | The Infiltrator - New Mode | Solo Showdown - Remastered Arenas | Maps - A Fresh New Look | Hud & Ui Rework - Steal The Show | Dynamic Commentary - Your Story. Your Rewards | Sponsor Journey - Prime Time Ultimate Battle Pass",
       "cover_image_id": "cod6ur",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6ur.jpg",
       "source": "https://www.igdb.com/games/the-finals-season-12-prime-time",
@@ -168433,6 +168598,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc8br.jpg"
     },
     {
+      "uid": "832fffc0b2bfdaaa3fe142@game-release-calendar",
+      "date": "2026-10-21",
+      "title": "Team Liars",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cod9q3",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9q3.jpg",
+      "source": "https://www.igdb.com/games/team-liars",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426983,
+      "igdb_release_date_ids": [
+        984752
+      ],
+      "igdb_updated_at": "2026-11-03T15:00:02+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "35fd89748a548a003134a2@game-release-calendar",
       "date": "2026-10-21",
       "title": "The House in the Hollow",
@@ -168796,8 +168986,7 @@
       "title": "Becastled: Traits and Some Magic",
       "platforms": [
         "PS5",
-        "Switch",
-        "Switch 2"
+        "Switch"
       ],
       "release_type": "DLC / add-on",
       "price": "TBA / not verified",
@@ -168809,12 +168998,11 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-27",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 425893,
       "igdb_release_date_ids": [
         982967,
-        982968,
-        982969
+        982968
       ],
       "igdb_updated_at": "2026-10-27T18:54:13+00:00",
       "igdb_release_status": "Full Release"
@@ -168842,31 +169030,6 @@
         975451
       ],
       "igdb_updated_at": "2026-10-08T21:23:18+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "6a91427d751e452d96749e@game-release-calendar",
-      "date": "2026-10-22",
-      "title": "Bigger Bang",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "3 a.m. The neighbor is thudding again, so you pick up a hammer. Every run deals new relics that change how your hammer hits: echoes, chains, fire. The holes stay between runs. Break through, and the noise comes from farther away: apartment, city, mountain, planet, spacetime.",
-      "cover_image_id": "cod6jr",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6jr.jpg",
-      "source": "https://www.igdb.com/games/bigger-bang",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-20",
-      "sequence": 0,
-      "igdb_game_id": 424367,
-      "igdb_release_date_ids": [
-        979872
-      ],
-      "igdb_updated_at": "2026-10-20T02:56:56+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -169436,6 +169599,31 @@
         972219
       ],
       "igdb_updated_at": "2026-10-01T22:46:15+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "27d8e536e26a6e98ba343b@game-release-calendar",
+      "date": "2026-10-22",
+      "title": "Marshall Palabritas",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Marshall Palabritas is a word game made to be played live with your Twitch chat. The streamer puts the game on screen and the chat plays by typing words: each round gives a set of letters, and viewers race to find words with them. It includes multiple modes, from classic rounds to boss fights, castle sieges, robot battles and retro arcade stages. Free to play in the browser, no download needed.",
+      "cover_image_id": "cod7jc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7jc.jpg",
+      "source": "https://www.igdb.com/games/marshall-palabritas",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 425257,
+      "igdb_release_date_ids": [
+        981419
+      ],
+      "igdb_updated_at": "2026-11-03T05:41:00+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -172627,6 +172815,32 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3565277d6f77005de9388f@game-release-calendar",
+      "date": "2026-10-26",
+      "title": "Fragments",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Explore the LeBlanc hotel and reveal hidden illusions through Eugene’s camera, an archivist. Follow in Laura’s footsteps, an investigator working on the disappearance of Eugene's sister, 20 years ago. Armed with a camera and discretion, can you discover the hotel’s heart and its mysteries?",
+      "cover_image_id": "codacy",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codacy.jpg",
+      "source": "https://www.igdb.com/games/fragments--5",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 1,
+      "igdb_game_id": 427413,
+      "igdb_release_date_ids": [
+        956072,
+        985689
+      ],
+      "igdb_updated_at": "2026-11-03T06:48:15+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "bdc172cb6ea7c3a442d456@game-release-calendar",
       "date": "2026-10-26",
       "title": "Gacha Chaos: Tidy Up Together",
@@ -175802,6 +176016,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "033891c34f08917ad99d88@game-release-calendar",
+      "date": "2026-10-27",
+      "title": "Drive Thru Fast Food Simulator — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Drive Thru Fast Food Simulator throws you into the fast-paced world of a high-poly, first-person drive-thru restaurant, where you are both a worker and the manager. From prepping ingredients to handing out orders through the service window, every task is in your hands. Can you serve every customer quickly, keep the kitchen running smoothly, and turn your restaurant into the city’s favorite spot?",
+      "cover_image_id": "cobohi",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobohi.jpg",
+      "source": "https://www.igdb.com/games/drive-thru-fast-food-simulator",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 393301,
+      "igdb_release_date_ids": [
+        985202
+      ],
+      "igdb_updated_at": "2026-11-03T07:56:13+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "2e5ae67c76285cf047feee@game-release-calendar",
       "date": "2026-10-27",
       "title": "Drive Up: Together",
@@ -177890,7 +178129,7 @@
       "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": null,
+      "summary": "A relaxed deduction adventure set in a Chilean neighborhood during the winter of 1996. Over five nights, examine undelivered letters and envelopes, cross-reference clues using a notebook, map, and telephone directory, and call residents to discover who each letter belongs to. Play at your own pace, without time limits.",
       "cover_image_id": "cod8rf",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod8rf.jpg",
       "source": "https://www.igdb.com/games/rezago",
@@ -178015,7 +178254,7 @@
       "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Rushmark is a 2D speedrunning platformer set in a cyberpunk underworld, built around short, fixed courses that a practiced player clears in under thirty seconds. There is no health bar: touching a hazard ends the attempt, and a restart is instant. The move set is small: run, jump, an eight-way dash, a wall kick and an area burst. The dash doubles as the main attack. On the ground it recharges after a short…",
+      "summary": "Rushmark is a competitive 2D speedrunning platformer in which every course, every Marathon and Survival has its own online leaderboard. Every personal best goes on the board, and players can pull any entry off it to race that player's recorded run as a ghost, or watch it to see how the course was beaten. A season ranking scores players across every board, so losing a single course to another player costs season…",
       "cover_image_id": "coda9f",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coda9f.jpg",
       "source": "https://www.igdb.com/games/rushmark",
@@ -178704,6 +178943,31 @@
       ],
       "igdb_updated_at": "2026-10-29T03:33:20+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "9e33becf3dfc41c648c50b@game-release-calendar",
+      "date": "2026-10-27",
+      "title": "The Outlast Trials — Switch 2 release",
+      "platforms": [
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The Outlast Trials is a survival horror game you can play by yourself or with other players online. You'll have to survive the twisted, sadistic and bizarre experiments of the Murkoff Corporation, alone or in a group up to 4 players.",
+      "cover_image_id": "coce2f",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coce2f.jpg",
+      "source": "https://www.igdb.com/games/the-outlast-trials",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 127165,
+      "igdb_release_date_ids": [
+        985027
+      ],
+      "igdb_updated_at": "2026-11-03T07:47:03+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "a1c99e1ef0e9c6ca78d785@game-release-calendar",
@@ -182216,6 +182480,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "bd3a0b5faf108c5f00329f@game-release-calendar",
+      "date": "2026-10-28",
+      "title": "Switch Shapes — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A rhythm and reflex game where thinking means death. Switch shapes, dodge obstacles, and immerse yourself in a cyberpunk audiovisual experience powered by dynamic music that evolves with your performance.",
+      "cover_image_id": "coc9b1",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc9b1.jpg",
+      "source": "https://www.igdb.com/games/switch-shapes",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 406772,
+      "igdb_release_date_ids": [
+        983731
+      ],
+      "igdb_updated_at": "2026-11-03T07:09:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "9cecc77c3b7a8263163290@game-release-calendar",
       "date": "2026-10-28",
       "title": "Synapse Grid",
@@ -183323,6 +183612,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "49f71ba4eb99ea71af272a@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Boarding Denied — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A document-inspection game at the end of the world. A meteorite hits in 12 days. At Boarding Window 7 you check tickets, IDs and medical papers, then stamp BOARD or DENIED. Seats are few, the rules change daily, and your family waits at home for a place.",
+      "cover_image_id": "cod2t4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod2t4.jpg",
+      "source": "https://www.igdb.com/games/boarding-denied",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 422118,
+      "igdb_release_date_ids": [
+        983981
+      ],
+      "igdb_updated_at": "2026-11-03T02:51:49+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "536db97bf6fd6ae680a68b@game-release-calendar",
       "date": "2026-10-29",
       "title": "Bombacon!",
@@ -183534,7 +183848,7 @@
       "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "A narrative experience designed to be played without sight. Navigate using 3D audio, solve musical puzzles and discover a world where listening becomes your way forward.",
+      "summary": "Coloratura is a narrative adventure where music and sound guide your path. Designed to be played without visuals, it relies on immersive 3D audio and musical puzzles that accompany the story of Alex, a talented musician facing the loss of her sight. Each challenge reflects key moments in her life and becomes part of a unique symphony. Both sighted and blind players can enjoy the game on equal terms, with a fully…",
       "cover_image_id": "coce36",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coce36.jpg",
       "source": "https://www.igdb.com/games/coloratura--1",
@@ -184261,6 +184575,56 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "8a6d33bb8b87b8d6a69d43@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Fox Flare Night",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Shape-shifting Kitsune Mio battles the mischievous Tanuki army in this fast-paced, comedic side-scrolling shooter! Unleash powerful yōjutsu and transformations to dodge bullet barrages. Packed with modes for both casual and hardcore players, offering plenty of content to master!",
+      "cover_image_id": "coai6v",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coai6v.jpg",
+      "source": "https://www.igdb.com/games/fox-flare-night",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 361674,
+      "igdb_release_date_ids": [
+        984161
+      ],
+      "igdb_updated_at": "2026-11-03T05:19:58+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "912bb4d8afa249a442a796@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Ghost in the SQL Data",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Somebody reported the fire fourteen minutes before it started. Prove it in real SQL. Learn the language from your first line, question a live evidence database, and let the records name the culprit for you.",
+      "cover_image_id": "cocrfi",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocrfi.jpg",
+      "source": "https://www.igdb.com/games/ghost-in-the-sql-data",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 414822,
+      "igdb_release_date_ids": [
+        984171
+      ],
+      "igdb_updated_at": "2026-11-03T05:20:33+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "9c397ef8501df932c1c6a6@game-release-calendar",
       "date": "2026-10-29",
       "title": "Ghost Master: Resurrection - Relics of the Past",
@@ -184331,31 +184695,6 @@
       ],
       "igdb_updated_at": "2026-10-23T15:09:48+00:00",
       "igdb_release_status": "Early Access"
-    },
-    {
-      "uid": "8cdb7605fdc65a8a44fa5b@game-release-calendar",
-      "date": "2026-10-29",
-      "title": "Go Dub Yourself!",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Go Dub Yourself! is an interactive party game where players re-voice video clips using on-screen timing markers. Players can play straight, go off-script, or improvise, with flexible scoring options including auto-scoring, player judging, and chat voting. Key features include an integrated voice changer with 18 choices, party tournaments, a dedicated Studio mode, dark mode, and Steam achievements. Using the Clip…",
-      "cover_image_id": "cod1bh",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod1bh.jpg",
-      "source": "https://www.igdb.com/games/go-dub-yourself",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-25",
-      "sequence": 2,
-      "igdb_game_id": 421039,
-      "igdb_release_date_ids": [
-        982519
-      ],
-      "igdb_updated_at": "2026-10-25T15:09:00+00:00",
-      "igdb_release_status": "Full Release"
     },
     {
       "uid": "c1f55f07a9b5ff93117205@game-release-calendar",
@@ -185366,8 +185705,7 @@
       "title": "Pardon My French Toast",
       "platforms": [
         "PC",
-        "Switch",
-        "Switch 2"
+        "Switch"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -185379,11 +185717,10 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-09-21",
-      "sequence": 2,
+      "sequence": 3,
       "igdb_game_id": 206041,
       "igdb_release_date_ids": [
         966638,
-        966639,
         967601
       ],
       "igdb_updated_at": "2026-09-20T20:20:12+00:00",
@@ -187655,6 +187992,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "bca4079535a1843303d5ac@game-release-calendar",
+      "date": "2026-10-30",
+      "title": "Danganronpa Another: Another Despair Academy Remaster",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game / remaster",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A fan made remaster of Danganronpa Another: Another Despair Academy with a brand new translation, improved graphics, brand new post game content and more.",
+      "cover_image_id": "cod7ur",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7ur.jpg",
+      "source": "https://www.igdb.com/games/danganronpa-another-another-despair-academy-remaster",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 425491,
+      "igdb_release_date_ids": [
+        984691
+      ],
+      "igdb_updated_at": "2026-11-03T07:12:27+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "1468043149c8dea493a19a@game-release-calendar",
       "date": "2026-10-30",
       "title": "Dark Thoughts",
@@ -187877,6 +188239,31 @@
         976732
       ],
       "igdb_updated_at": "2026-10-11T21:02:35+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "cb938c579ee24ad78a0ed3@game-release-calendar",
+      "date": "2026-10-30",
+      "title": "E-Files",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "E-FILES — a psychological horror game in the style of the PS1 era, centered around a secret investigation, rituals, and the mysterious “Lists.” Explore dark locations, search for clues, solve puzzles, and avoid deadly traps. Fixed camera angles, retro graphics, and limited saves.",
+      "cover_image_id": "cod97k",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod97k.jpg",
+      "source": "https://www.igdb.com/games/e-files",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426578,
+      "igdb_release_date_ids": [
+        985654
+      ],
+      "igdb_updated_at": "2026-11-03T05:15:12+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -189461,6 +189848,31 @@
       "igdb_release_status": null
     },
     {
+      "uid": "26c32ca75dba91ae473cc7@game-release-calendar",
+      "date": "2026-10-30",
+      "title": "Prismhold",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A card-driven tower defense: draft towers from your deck every wave, merge three copies to evolve them without limit and mix 14 elements to survive endless waves, crowned bosses and flyers. Play solo, co-op on one map, or side by side with up to 6 players.",
+      "cover_image_id": "cod61k",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod61k.jpg",
+      "source": "https://www.igdb.com/games/prismhold",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424143,
+      "igdb_release_date_ids": [
+        985078
+      ],
+      "igdb_updated_at": "2026-11-03T07:48:14+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "40d10ddca3f3ffb0e55d96@game-release-calendar",
       "date": "2026-10-30",
       "title": "Prison Legacy",
@@ -189775,8 +190187,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Join the fight for Caelum in this co-op action RPG for up to 4 players. Control legendary heroes in real-time combat as you explore an epic world based on the original novel by Satarichi. Enjoy the adventure with friends locally or via Remote Play Together!",
-      "cover_image_id": null,
-      "cover_url": null,
+      "cover_image_id": "codact",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codact.jpg",
       "source": "https://www.igdb.com/games/satarichi-heroes-de-caelum",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -190125,8 +190537,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Relive that nostalgic Y2K excitement! Sticker Deco is a cozy scrapbook game packed with kawaii vibes. Collect 2000+ cute stickers, freely decorate pages, and trade with 50+ quirky animal friends! No time limits—just relax at your own pace",
-      "cover_image_id": "cod9qt",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9qt.jpg",
+      "cover_image_id": "codacs",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codacs.jpg",
       "source": "https://www.igdb.com/games/sticker-deco",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -190771,6 +191183,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "324e0880e115e9a6556b95@game-release-calendar",
+      "date": "2026-10-30",
+      "title": "Totally Safe Moon Project",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Breaking news! A giant asteroid is about to destroy the Earth! The Moon is your last hope. Work together with friends to build a fragile tower from everyday objects.",
+      "cover_image_id": "coc4pc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc4pc.jpg",
+      "source": "https://www.igdb.com/games/totally-safe-moon-project",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 403360,
+      "igdb_release_date_ids": [
+        984432
+      ],
+      "igdb_updated_at": "2026-11-03T07:13:49+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5492da0cbf0a1a8cd0f598@game-release-calendar",
       "date": "2026-10-30",
       "title": "Towermouth",
@@ -191150,6 +191587,56 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "eda183a18a473fe81c5001@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Cradle of Ash",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Survival horror in a quarantined company town. You wake alone at the edge of Ashbrook, where the dead get back up from anything you do to them - unless what is left of them burns. Play solo or in co-op for up to four players.",
+      "cover_image_id": "cocz11",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocz11.jpg",
+      "source": "https://www.igdb.com/games/cradle-of-ash",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 419628,
+      "igdb_release_date_ids": [
+        985037
+      ],
+      "igdb_updated_at": "2026-11-03T07:47:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "d991c8db9ba432a3e0d68b@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Criminal Archives: Symphony of Death - Collector's Edition",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A staged accident. A stolen symphony. A killer keeping perfect time. Uncover the truth behind the opera house's deadliest performance in this gripping Hidden Object mystery.",
+      "cover_image_id": "cod5zt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod5zt.jpg",
+      "source": "https://www.igdb.com/games/criminal-archives-symphony-of-death-collectors-edition",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 416772,
+      "igdb_release_date_ids": [
+        984474
+      ],
+      "igdb_updated_at": "2026-11-03T07:13:35+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "de5a7ab036e7f9b2c93e00@game-release-calendar",
       "date": "2026-10-31",
       "title": "Cult of the Red Heifer",
@@ -191197,6 +191684,31 @@
         985022
       ],
       "igdb_updated_at": "2026-11-02T17:43:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "253630b33fd1c0754a7219@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Dice in Wonderland",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Roll dice into poker hands in this roguelike deckbuilder. Forge every die yourself and stack chips × mult until the Queen's own scorekeeper gives up counting. A cruel, twisted Wonderland under the Cheshire Cat's watchful grin — one more run, all the way down.",
+      "cover_image_id": "codaf9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codaf9.jpg",
+      "source": "https://www.igdb.com/games/dice-in-wonderland",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427448,
+      "igdb_release_date_ids": [
+        985769
+      ],
+      "igdb_updated_at": "2026-11-03T16:38:03+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -191300,6 +191812,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "cb1a4bc7ebf01bd84efb02@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Iron & Oil",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A WW2 real-time strategy game inspired by the RTS classics of the '90s, on maps of every size. Run supply lines of metal and fuel, build an army, a navy and an air force, and fight on land and at sea as one of six nations, each with its own special weapons. Cut the enemy's oil, and his army stops.",
+      "cover_image_id": "cod7kn",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7kn.jpg",
+      "source": "https://www.igdb.com/games/iron-and-oil",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 425267,
+      "igdb_release_date_ids": [
+        981454
+      ],
+      "igdb_updated_at": "2026-11-03T05:42:06+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "eb5b5b1e8e8b8564ea1983@game-release-calendar",
       "date": "2026-10-31",
       "title": "Lacey's Flash Games",
@@ -191398,6 +191935,31 @@
       ],
       "igdb_updated_at": "2026-11-02T17:26:06+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "c2c49e5b105c00396543cc@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Neki’s Asylum",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Neki’s Asylum is a first-person horror game. Misha wakes up in an abandoned hospital where Neki, a girl with cat ears and a knife, is hunting him. He has to hide, solve puzzles and escape before seven days run out.",
+      "cover_image_id": "cod815",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod815.jpg",
+      "source": "https://www.igdb.com/games/nekis-asylum",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 425535,
+      "igdb_release_date_ids": [
+        982288
+      ],
+      "igdb_updated_at": "2026-11-03T06:01:05+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "27c2c3395f1cb1dc62c973@game-release-calendar",
@@ -191773,6 +192335,31 @@
       ],
       "igdb_updated_at": "2026-10-21T23:56:49+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2e1366db78ffdbe77e1cfa@game-release-calendar",
+      "date": "2026-11-01",
+      "title": "Morvex",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Morvex is a free-to-play, round-based first-person zombie survival game developed by Bario Studio. Players face increasingly challenging waves of undead enemies, earn Vexium, craft weapons, and upgrade their equipment through weapon rarity and tier systems. The game features multiple enemy types, boss encounters, player upgrades, and global leaderboards. Morvex includes Runestone Vale as a free playable map, with…",
+      "cover_image_id": "codaa7",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codaa7.jpg",
+      "source": "https://www.igdb.com/games/morvex",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427363,
+      "igdb_release_date_ids": [
+        985578
+      ],
+      "igdb_updated_at": "2026-11-03T05:16:49+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "b99952a18330a65f63a0a7@game-release-calendar",
@@ -192200,6 +192787,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "27509052abfaa5d5dc1549@game-release-calendar",
+      "date": "2026-11-02",
+      "title": "Dark Pray",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Dark Pray is an RPG that features an ATB (Active Time Battle) combat system with a variety of skill combinations. You can adjust the difficulty to your preference at any time during the game. The game includes multiple NPCs. You can also choose to kill everyone and venture through the world completely alone.",
+      "cover_image_id": "codabc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codabc.jpg",
+      "source": "https://www.igdb.com/games/dark-pray",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427383,
+      "igdb_release_date_ids": [
+        985611
+      ],
+      "igdb_updated_at": "2026-11-03T05:17:32+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5933b8b4cb1d08e1d1bf58@game-release-calendar",
       "date": "2026-11-02",
       "title": "Deal Flipper",
@@ -192222,6 +192834,31 @@
         972355
       ],
       "igdb_updated_at": "2026-10-09T21:40:23+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "a56ec797309ee1f6a14326@game-release-calendar",
+      "date": "2026-11-02",
+      "title": "Deus Mantle",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Craft, build, fight monsters, discover new technologies and explore an infinite procedurally generated world! Delve into unknown worlds to uncover ancient secrets and return home.",
+      "cover_image_id": "coawx7",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawx7.jpg",
+      "source": "https://www.igdb.com/games/deus-mantle",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 342306,
+      "igdb_release_date_ids": [
+        985869
+      ],
+      "igdb_updated_at": "2026-11-03T19:41:54+00:00",
       "igdb_release_status": "Early Access"
     },
     {
@@ -192779,6 +193416,31 @@
       "summary": "Run a second-hand game store from scratch! A Job Simulator where you buy and sell used games, negotiate with colorful customers, make profit and upgrade your shop! Clean up retro finds, and stack your shelves with the most popular game with replay value!",
       "cover_image_id": "coaea3",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coaea3.jpg"
+    },
+    {
+      "uid": "a8fb92cc3b63dcbc255dff@game-release-calendar",
+      "date": "2026-11-02",
+      "title": "Sabado",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Reunite with your favorite classmate, but you can never really graduate from the past... Wander through a nostalgic, shifting maze of old high school memories with a cheerful friend named Chesa. But the exits are vanishing, the hallways are warping, and a silent observer is tracking your every step.",
+      "cover_image_id": "coda6i",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coda6i.jpg",
+      "source": "https://www.igdb.com/games/sabado",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427290,
+      "igdb_release_date_ids": [
+        985639
+      ],
+      "igdb_updated_at": "2026-11-03T05:15:36+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "9f3681df594d30ab70e347@game-release-calendar",
@@ -193456,6 +194118,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "219600429f5471e405a096@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Demon Source",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Demon Source is a soulslike roguelike game with procedural generated dungeons. Try new builds each run. Gather the Source to unlock new items and abilities. Solve the mystery of seven inhabitants of the Church. Try the Ultimate Challenge with great classical music. It is made by one person!",
+      "cover_image_id": "co5g5g",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co5g5g.jpg",
+      "source": "https://www.igdb.com/games/demon-source",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 168586,
+      "igdb_release_date_ids": [
+        985820
+      ],
+      "igdb_updated_at": "2026-11-03T17:45:21+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "4f61b322e4551ea12c945c@game-release-calendar",
       "date": "2026-11-03",
       "title": "Desert Echo",
@@ -193479,6 +194166,31 @@
       ],
       "igdb_updated_at": "2026-10-14T18:12:01+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "e52f3a7c5660dde1f6ae3e@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Diecast",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Welcome to the dice roguelite. Stuff your bag with wild dice and pins, chain ridiculous scoring combos, and build a point engine to conquer ever-escalating targets. This ain't your Grandma's dice game!",
+      "cover_image_id": "coc5ss",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc5ss.jpg",
+      "source": "https://www.igdb.com/games/diecast",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 355401,
+      "igdb_release_date_ids": [
+        985803
+      ],
+      "igdb_updated_at": "2026-11-03T15:59:47+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "b78766134633593584fdfe@game-release-calendar",
@@ -193528,6 +194240,31 @@
         972354
       ],
       "igdb_updated_at": "2026-10-02T10:14:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "8cdb7605fdc65a8a44fa5b@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Go Dub Yourself!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Go Dub Yourself! is an interactive party game where players re-voice video clips using on-screen timing markers. Players can play straight, go off-script, or improvise, with flexible scoring options including auto-scoring, player judging, and chat voting. Key features include an integrated voice changer with 18 choices, party tournaments, a dedicated Studio mode, dark mode, and Steam achievements. Using the Clip…",
+      "cover_image_id": "cod1bh",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod1bh.jpg",
+      "source": "https://www.igdb.com/games/go-dub-yourself",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 3,
+      "igdb_game_id": 421039,
+      "igdb_release_date_ids": [
+        985766
+      ],
+      "igdb_updated_at": "2026-11-03T15:01:35+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -194016,6 +194753,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "2abe2566cf167eedb6a507@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Make Me Whole",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A letter with no sender, a photo of the doll you lost as a child, and an address: a shuttered doll workshop where the same room keeps repeating. Something off? Sewing machine. Nothing? Take the exit. First-person anomaly-spotting horror about finishing a doll, and what moves when you look away.",
+      "cover_image_id": "codajx",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codajx.jpg",
+      "source": "https://www.igdb.com/games/make-me-whole",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427433,
+      "igdb_release_date_ids": [
+        985736
+      ],
+      "igdb_updated_at": "2026-11-03T16:37:21+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "a09467a18282c95ba26bbc@game-release-calendar",
       "date": "2026-11-03",
       "title": "Moon-Oriented Autonomous Biological Model",
@@ -194116,6 +194878,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7510db9d19e668089fc10c@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Pit of Goblin",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In this online horror co-op, you play as a scrappy goblin, scavenging dungeons, dodging traps, and fleeing monsters to feed the Goblin King. Team up with goblin pals, or go rogue, as you dive deep and cause chaos! Fail to feed him, and you might be the next meal!",
+      "cover_image_id": "co9111",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9111.jpg",
+      "source": "https://www.igdb.com/games/pit-of-goblin",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 321166,
+      "igdb_release_date_ids": [
+        985799
+      ],
+      "igdb_updated_at": "2026-11-03T15:56:01+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f77b77e1fd78035bd70d98@game-release-calendar",
       "date": "2026-11-03",
       "title": "Pocket Adventurer",
@@ -194141,13 +194928,38 @@
       "igdb_release_status": null
     },
     {
-      "uid": "f8866155d538825989b6a6@game-release-calendar",
+      "uid": "51c158160f9af013c9104c@game-release-calendar",
       "date": "2026-11-03",
-      "title": "Project Afterfall — PC release",
+      "title": "Possessions — PC release",
       "platforms": [
         "PC"
       ],
       "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In Possessions, perspective changes everything. Solve mesmerizing puzzles by shifting your view and bending reality to your will. Explore a minimalist 3D world filled with illusionary surprises, and uncover a quiet story of connection and family as you progress.",
+      "cover_image_id": "co9ari",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9ari.jpg",
+      "source": "https://www.igdb.com/games/possessions",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 121932,
+      "igdb_release_date_ids": [
+        984892
+      ],
+      "igdb_updated_at": "2026-11-03T07:19:37+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f8866155d538825989b6a6@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Project Afterfall",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "A dark, strategy-survival RPG blending retro-futuristic urban fantasy with Slavic folklore. Set in the wolrd of Thea, but thrust 1000 years into an urban future. Rebuild your colony, explore the post-apocalyptic wasteland, and engage in tactical card-based combat. Immerse yourself in a story-rich adventure with branching narratives.",
@@ -194157,7 +194969,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-08",
-      "sequence": 0,
+      "sequence": 2,
       "igdb_game_id": 330350,
       "igdb_release_date_ids": [
         974689
@@ -194345,6 +195157,31 @@
       ],
       "igdb_updated_at": "2026-11-01T19:34:27+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "9fd37a81a88d68026a0b43@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Swappy World",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Simply two mechanics: swipe to move and tap to interact in an open-world survival crafting experience made through cards. Handle your energy tactically to survive as long as possible. Craft weapons, build your base and be prepared to explore a world full of secrets.",
+      "cover_image_id": "co7dor",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co7dor.jpg",
+      "source": "https://www.igdb.com/games/swappy-world",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 276973,
+      "igdb_release_date_ids": [
+        985825
+      ],
+      "igdb_updated_at": "2026-11-03T17:57:12+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "37f6c12458d08724f6da77@game-release-calendar",
@@ -194572,6 +195409,31 @@
       ],
       "igdb_updated_at": "2026-10-05T09:57:52+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "6101a1f992788db2c20451@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Undead Development 2",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Your resources are your surroundings. Break down, drag, and nail together furniture to safeguard your home. Explore other regions to restock supplies and weapons. Construct wild defenses by nailing together unlikely objects. Fight against the hordes with online co-op in or out of VR.",
+      "cover_image_id": "co3pqm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co3pqm.jpg",
+      "source": "https://www.igdb.com/games/undead-development-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 150396,
+      "igdb_release_date_ids": [
+        985801
+      ],
+      "igdb_updated_at": "2026-11-03T15:58:16+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "ac75df67a8ee2b5287e87c@game-release-calendar",
@@ -195982,6 +196844,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "6a91427d751e452d96749e@game-release-calendar",
+      "date": "2026-11-05",
+      "title": "Bigger Bang",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "3 a.m. The neighbor is thudding again, so you pick up a hammer. Every run deals new relics that change how your hammer hits: echoes, chains, fire. The holes stay between runs. Break through, and the noise comes from farther away: apartment, city, mountain, planet, spacetime.",
+      "cover_image_id": "cod6jr",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6jr.jpg",
+      "source": "https://www.igdb.com/games/bigger-bang",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 1,
+      "igdb_game_id": 424367,
+      "igdb_release_date_ids": [
+        981386
+      ],
+      "igdb_updated_at": "2026-11-03T05:40:19+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "1380ea37d139a1e18e5d8d@game-release-calendar",
       "date": "2026-11-05",
       "title": "Blood of Rations",
@@ -196540,31 +197427,6 @@
       ],
       "igdb_updated_at": "2026-09-27T04:45:20+00:00",
       "igdb_release_status": "Early Access"
-    },
-    {
-      "uid": "6d52b270a8ccce958497f5@game-release-calendar",
-      "date": "2026-11-05",
-      "title": "Emery Hearts",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "source": "https://www.igdb.com/games/emery-hearts",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-12",
-      "sequence": 0,
-      "igdb_game_id": 286226,
-      "igdb_release_date_ids": [
-        949521
-      ],
-      "igdb_updated_at": "2026-08-04T07:14:17+00:00",
-      "igdb_release_status": "Full Release",
-      "summary": "Immerse yourself in this thrilling action JRPG and uncover the secrets of Emery crystals as you face challenging enemies that will demand all your skill and ingenuity to defeat them.",
-      "cover_image_id": "coc4q9",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc4q9.jpg"
     },
     {
       "uid": "f509d1990cd1e3beb86e0b@game-release-calendar",
@@ -198004,10 +198866,10 @@
       "sequence": 0,
       "igdb_game_id": 417689,
       "igdb_release_date_ids": [
-        964584
+        985627
       ],
-      "igdb_updated_at": "2026-09-14T03:09:27+00:00",
-      "igdb_release_status": "Full Release"
+      "igdb_updated_at": "2026-11-03T05:12:11+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "8e48caed88fef34f7a77ff@game-release-calendar",
@@ -199166,6 +200028,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "657a4075cfb229c215cd12@game-release-calendar",
+      "date": "2026-11-09",
+      "title": "Dreadmoor",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "DREADMOOR is a dark first-person fishing adventure game set in a submerged world, rotting from a past catastrophe. Fish in murky waters, upgrade your boat, craft survival gear, and fight monstrous creatures that lurk under the water and on the land.",
+      "cover_image_id": "cod2dx",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod2dx.jpg",
+      "source": "https://www.igdb.com/games/dreadmoor",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 340334,
+      "igdb_release_date_ids": [
+        985719
+      ],
+      "igdb_updated_at": "2026-11-03T15:44:06+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "7858060ee5153d126397ca@game-release-calendar",
       "date": "2026-11-09",
       "title": "Evenicle: Next Fragment Medica",
@@ -199916,6 +200803,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "ec73c4fc83ff9bb499a3b9@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Brew & Dash",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Jump, duck, accelerate, and run to test your reflexes by dodging obstacles and enemies, collecting ingredients along the way to brew potions, gaining new powers, and going even further. Face challenges on randomly selected maps.",
+      "cover_image_id": "cob0pv",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob0pv.jpg",
+      "source": "https://www.igdb.com/games/brew-and-dash",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 381282,
+      "igdb_release_date_ids": [
+        983124
+      ],
+      "igdb_updated_at": "2026-11-03T06:18:37+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "48e03f70807d6b79f14bff@game-release-calendar",
       "date": "2026-11-10",
       "title": "Calmaria: Wild Growth",
@@ -200220,7 +201132,8 @@
       "date": "2026-11-10",
       "title": "Football Manager 27",
       "platforms": [
-        "PC"
+        "PC",
+        "PS5"
       ],
       "release_type": "Game",
       "price": "TBA / not verified",
@@ -200232,12 +201145,13 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-13",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 420884,
       "igdb_release_date_ids": [
-        971422
+        971422,
+        981890
       ],
-      "igdb_updated_at": "2026-10-13T06:28:57+00:00",
+      "igdb_updated_at": "2026-11-03T05:59:26+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -200265,31 +201179,6 @@
         971716
       ],
       "igdb_updated_at": "2026-10-16T21:41:05+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "3565277d6f77005de9388f@game-release-calendar",
-      "date": "2026-11-10",
-      "title": "Fragments",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Your mind is shattered. Step into a first-person psychological horror where you must relive your deepest trauma, uncover fragments of your past, piece them back together and face the tormentors that haunt your mind.",
-      "cover_image_id": "coazv8",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coazv8.jpg",
-      "source": "https://www.igdb.com/games/fragments--4",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-22",
-      "sequence": 0,
-      "igdb_game_id": 381037,
-      "igdb_release_date_ids": [
-        956072
-      ],
-      "igdb_updated_at": "2026-08-21T20:02:57+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -200622,6 +201511,31 @@
       ],
       "igdb_updated_at": "2026-10-15T19:20:42+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "144e9b38c316eec3b46e10@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Ova Magica — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/ova-magica",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 3,
+      "igdb_game_id": 138211,
+      "igdb_release_date_ids": [
+        985723
+      ],
+      "igdb_updated_at": "2026-11-03T15:45:37+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Experience a colorful farm game inspired by the classics! Train cute blob creatures, take care of your farm and make friends with the people of Clover Town.",
+      "cover_image_id": "co2k81",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co2k81.jpg"
     },
     {
       "uid": "d89eda27c055f8bbd2bf46@game-release-calendar",
@@ -201161,6 +202075,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "c9027e4d0ce4fa1694f3fb@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "The House Dreams Along With Them",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A first person horror puzzle adventure with an emphasis on interactivity. Solve cryptic puzzles with logic and careful observation while dreaming in different rooms of a mysterious house in the woods. Completing a dream-puzzle makes the dream real in the house. The game is inspired by Myst, Blue Prince, The Witness, The House of Leaves, Twin Peaks Season 3, liminal space games such as Pools and Limscape, anomaly…",
+      "cover_image_id": "cobojt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobojt.jpg",
+      "source": "https://www.igdb.com/games/the-house-dreams-along-with-them",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 373283,
+      "igdb_release_date_ids": [
+        985375
+      ],
+      "igdb_updated_at": "2026-11-03T08:02:16+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f738e0f8a76c0d8ec78996@game-release-calendar",
       "date": "2026-11-10",
       "title": "The Sea Is Our Stage",
@@ -201261,6 +202200,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "8ec5284a2c220961b25a64@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Vampire: The Masquerade - Oaths and Ashes",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Two vampires — an ambitious Kindred and a wretched Thinblood. Their fates clash in this Visual Novel set in the World of Darkness, where your arsenal extends beyond just words — from political machinations to forbidden Alchemy. Claw your way to power and leave your bitemarks on Berlin's underworld.",
+      "cover_image_id": "coc03u",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc03u.jpg",
+      "source": "https://www.igdb.com/games/vampire-the-masquerade-oaths-and-ashes",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 400121,
+      "igdb_release_date_ids": [
+        985376
+      ],
+      "igdb_updated_at": "2026-11-03T08:02:18+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "337069bf41ebf11900a542@game-release-calendar",
       "date": "2026-11-10",
       "title": "Warhammer Survivors",
@@ -201342,6 +202306,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "0a66db8683f3ed835b3b9f@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Yuha's Nightmares",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "This is a simulation game about the nightmares that our main character Yuha suffers from. You will explore the surrealistic world that is full of unexpected events. The deeper part of Yuha's consciousness is depicted through the flip side of the 3D world.",
+      "cover_image_id": "co3l6s",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co3l6s.jpg",
+      "source": "https://www.igdb.com/games/yuhas-nightmares",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 155987,
+      "igdb_release_date_ids": [
+        985377
+      ],
+      "igdb_updated_at": "2026-11-03T08:02:20+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "b4e8db15ac4bb1c338536a@game-release-calendar",
       "date": "2026-11-11",
       "title": "A Snail's Tale",
@@ -201414,6 +202403,31 @@
         968486
       ],
       "igdb_updated_at": "2026-09-22T19:16:19+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "c53f69fc8fa3855fed8ce9@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "Castillon",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Defend your Kingdom As a renoun wizard you lay claim to a new land and build your castle! But beware, for demon invaders roam the wilds. Grow your kingdom during the day then fight off waves of enemies at night! Castillon is a bite sized strategy game about building and defending your growing castle realm.",
+      "cover_image_id": "coac46",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coac46.jpg",
+      "source": "https://www.igdb.com/games/castillon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 332247,
+      "igdb_release_date_ids": [
+        985888
+      ],
+      "igdb_updated_at": "2026-11-03T20:21:38+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -203945,6 +204959,31 @@
       "igdb_release_status": null
     },
     {
+      "uid": "15e76ef83a6802e42e9308@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Whiskers of Yesterday",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "You're a cat, and the whole house is yours. Bring up to 7 friends: knock plates off the table, play cat football in the garden, swim in the pool, or curl up together in a sunbeam. No timers, no fail states. Just a warm place to be.",
+      "cover_image_id": "cod755",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod755.jpg",
+      "source": "https://www.igdb.com/games/whiskers-of-yesterday",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424984,
+      "igdb_release_date_ids": [
+        984429
+      ],
+      "igdb_updated_at": "2026-11-03T07:13:53+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "f6dbf9b67d03566872da6b@game-release-calendar",
       "date": "2026-11-12",
       "title": "Wizzy the Wood",
@@ -204218,6 +205257,31 @@
       ],
       "igdb_updated_at": "2026-10-19T23:15:40+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "1f2910637b4c0b8ee3d15c@game-release-calendar",
+      "date": "2026-11-13",
+      "title": "Drawquarium",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Draw your own fish and unlock new ways to decorate your aquarium. If you feed them well, they will gain a metallic shimmer as they age. Will you be the one to raise a golden fish in this relaxing sandbox experience?",
+      "cover_image_id": "coar9n",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coar9n.jpg",
+      "source": "https://www.igdb.com/games/drawquarium",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 374055,
+      "igdb_release_date_ids": [
+        984622
+      ],
+      "igdb_updated_at": "2026-11-03T07:13:04+00:00",
+      "igdb_release_status": null
     },
     {
       "uid": "98b3fbcf96abc518256984@game-release-calendar",
@@ -204843,6 +205907,56 @@
       ],
       "igdb_updated_at": "2026-10-11T21:47:12+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "4ac4fb9ba9ff69f97583c2@game-release-calendar",
+      "date": "2026-11-14",
+      "title": "Pool of Madness",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A retro-styled Lovecraftian pool game with roguelite elements. Shoot some balls. Unleash horrors from beyond. Go insane. Try again.",
+      "cover_image_id": "co9bq4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9bq4.jpg",
+      "source": "https://www.igdb.com/games/pool-of-madness",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 295749,
+      "igdb_release_date_ids": [
+        983959
+      ],
+      "igdb_updated_at": "2026-11-03T00:45:29+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "7213567db6c08aa9c0e6ce@game-release-calendar",
+      "date": "2026-11-15",
+      "title": "How Many Tickets Does It Take To Win The Lottery?",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Have you ever wondered, how many tickets does it take to win the lottery? Scratch tickets, match the numbers and spend your winnings on more tickets, until you are scratching millions at a time. The jackpot odds are realistic, 1 in 290,472,336, and nothing you buy changes it.",
+      "cover_image_id": "codam4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codam4.jpg",
+      "source": "https://www.igdb.com/games/how-many-tickets-does-it-take-to-win-the-lottery",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427656,
+      "igdb_release_date_ids": [
+        985893
+      ],
+      "igdb_updated_at": "2026-11-03T20:44:49+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "5fa701eb2fcb37ba6c6096@game-release-calendar",
@@ -205724,6 +206838,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "38d4b2320b2ce125b998c7@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "Duck Side of the Moon — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Waddle and fly as a duck in space! Explore every corner of the galaxy and find curious creatures and materials along the way. Craft gadgets, upgrade your spaceship, and get cozy in this relaxing adventure.",
+      "cover_image_id": "cobybd",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobybd.jpg",
+      "source": "https://www.igdb.com/games/duck-side-of-the-moon",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 318167,
+      "igdb_release_date_ids": [
+        985459
+      ],
+      "igdb_updated_at": "2026-11-03T15:00:16+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "f5ca1d352126658b0fb16a@game-release-calendar",
       "date": "2026-11-17",
       "title": "Futa: Beer & Sex",
@@ -205822,6 +206961,31 @@
       ],
       "igdb_updated_at": "2026-10-07T20:23:33+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "09e58290fb3918d55a3afd@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "Moonlight Peaks — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/moonlight-peaks",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 4,
+      "igdb_game_id": 237123,
+      "igdb_release_date_ids": [
+        983213
+      ],
+      "igdb_updated_at": "2026-11-03T06:19:52+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Live the vampire life in the magical town of Moonlight Peaks! Master the art of potions and spells, manage your supernatural farm, and leave your mark on the magical town. Make friends with the local werewolves, witches, and mermaids, and find your eternal love in the supernatural dating scene.",
+      "cover_image_id": "co9vvs",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9vvs.jpg"
     },
     {
       "uid": "0e9d077f1c1d3270ac5239@game-release-calendar",
@@ -205951,6 +207115,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "84e4c618cadad91f3c86d5@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "Ratchet & Clank",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A port of Ratchet & Clank, originally released on PS2, enhanced with up-rendering, rewind, quick save, and custom video filters.",
+      "cover_image_id": "coctk4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coctk4.jpg",
+      "source": "https://www.igdb.com/games/ratchet-and-clank--3",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 416114,
+      "igdb_release_date_ids": [
+        985004
+      ],
+      "igdb_updated_at": "2026-11-03T07:46:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "d5c6d5fd7b0a37405256c1@game-release-calendar",
       "date": "2026-11-17",
       "title": "Spell Death",
@@ -206074,6 +207263,31 @@
       ],
       "igdb_updated_at": "2026-10-26T13:27:58+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "b70b6a924c7166d25e5e72@game-release-calendar",
+      "date": "2026-11-17",
+      "title": "Uncosy",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An uncomfortable game about collecting plushies.",
+      "cover_image_id": "codaex",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codaex.jpg",
+      "source": "https://www.igdb.com/games/uncosy",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 414076,
+      "igdb_release_date_ids": [
+        985752
+      ],
+      "igdb_updated_at": "2026-11-03T11:44:37+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "b7187d7c376f86eac235ec@game-release-calendar",
@@ -207755,8 +208969,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Shape Minds, Rule the Stars. In a galaxy defined by borders, belief knows no limits. In Stellaris: Willpower, your Ethics evolve into powerful ideologies that can reshape entire civilizations.",
-      "cover_image_id": "coc00l",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc00l.jpg",
+      "cover_image_id": "codaeb",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codaeb.jpg",
       "source": "https://www.igdb.com/games/stellaris-willpower",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -207867,6 +209081,31 @@
         984968
       ],
       "igdb_updated_at": "2026-10-31T16:23:42+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2bb7a217dea3311a4099c6@game-release-calendar",
+      "date": "2026-11-24",
+      "title": "No Asteroids",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An asteroid of 5,000,000 m³ will hit Earth in 90 days. The government already spent 90 days arguing about who pays. Then one miner came to the tender with his own pickaxe. He asked for no money and said the asteroid would pay for itself. The vote was unanimous, for the first time in history. Every day the miner flies down to the rock and digs while his air lasts. Back on the ship he sells the ore and buys bigger…",
+      "cover_image_id": "codadu",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codadu.jpg",
+      "source": "https://www.igdb.com/games/no-asteroids",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427422,
+      "igdb_release_date_ids": [
+        985706
+      ],
+      "igdb_updated_at": "2026-11-03T15:01:11+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -208144,6 +209383,56 @@
         978526
       ],
       "igdb_updated_at": "2026-10-15T19:21:08+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "ef3c8bbbbd620763d38d6c@game-release-calendar",
+      "date": "2026-11-26",
+      "title": "Ashen Testament",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Ashen Testament is a first-person action roguelite with pixel-art visuals. Players guide successive Bearers carrying a living book toward the Black Gate, following branching paths and fighting with melee and ranged weapons. Each death introduces a Decree that changes the rules of the next run, while a new Bearer inherits the journey. Reaching the Black Gate allows a Bearer to become the ruler, creating an opponent…",
+      "cover_image_id": "codaco",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codaco.jpg",
+      "source": "https://www.igdb.com/games/ashen-testament",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 427408,
+      "igdb_release_date_ids": [
+        985679
+      ],
+      "igdb_updated_at": "2026-11-03T05:17:37+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "1e0b3093267a5dd85b2bbc@game-release-calendar",
+      "date": "2026-11-26",
+      "title": "Azur Promilia",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Azur Promilia is a fantasy world RPG with creature companionship. Step into a fantasy world, utterly different from the world you know. The world of various civilizations, magic and incredible fantasy creatures, together with tales echoing in the starry sky. Take a daring leap from the sky into the ocean, to once again encounter and bond with new life. Guided by shooting stars, amid the sparkling constellations…",
+      "cover_image_id": "co9pfv",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9pfv.jpg",
+      "source": "https://www.igdb.com/games/azur-promilia",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 292809,
+      "igdb_release_date_ids": [
+        984873
+      ],
+      "igdb_updated_at": "2026-11-03T07:16:23+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -208854,6 +210143,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "0ace969b300114b895084a@game-release-calendar",
+      "date": "2026-11-28",
+      "title": "Love is Undead",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In this adventure game, play as a scientist immune to a deadly virus. Scavenge for resources, develop a vaccine, and test it on Amber, a recently infected girl. Manage supplies, explore dangerous areas, and build a bond that could save humanity. Enjoy post-apocalyptic life with a zombie girl!",
+      "cover_image_id": "cod7vt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7vt.jpg",
+      "source": "https://www.igdb.com/games/love-is-undead",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 425505,
+      "igdb_release_date_ids": [
+        982224
+      ],
+      "igdb_updated_at": "2026-11-03T05:59:53+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "376a6ad5cf00e99ed92912@game-release-calendar",
       "date": "2026-11-30",
       "title": "Collapsle",
@@ -209205,6 +210519,31 @@
       ],
       "igdb_updated_at": "2026-10-01T19:30:44+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "802f0454fcc3ebac96a86b@game-release-calendar",
+      "date": "2026-12-01",
+      "title": "Feed the World",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Start with a handful of seeds. Build a farm that feeds the world. Feed the World is a single-player 3D farming and automation game where a small forest clearing grows into a thriving food empire. Plant seasonal crops, raise livestock, hire workers and automate your fields and kitchens. Balance wages, power and profit as you turn each harvest into bigger possibilities—all towards one extraordinary goal: produce one…",
+      "cover_image_id": "cod6hj",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod6hj.jpg",
+      "source": "https://www.igdb.com/games/feed-the-world",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 424502,
+      "igdb_release_date_ids": [
+        980057
+      ],
+      "igdb_updated_at": "2026-11-03T05:35:21+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "5cfa448b18f0063b1eb7cc@game-release-calendar",
@@ -209636,6 +210975,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coclxf.jpg"
     },
     {
+      "uid": "6d52b270a8ccce958497f5@game-release-calendar",
+      "date": "2026-12-02",
+      "title": "Emery Hearts — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "source": "https://www.igdb.com/games/emery-hearts",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 3,
+      "igdb_game_id": 286226,
+      "igdb_release_date_ids": [
+        983960
+      ],
+      "igdb_updated_at": "2026-11-03T01:47:08+00:00",
+      "igdb_release_status": "Full Release",
+      "summary": "Immerse yourself in this thrilling action JRPG and uncover the secrets of Emery crystals as you face challenging enemies that will demand all your skill and ingenuity to defeat them.",
+      "cover_image_id": "coc4q9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc4q9.jpg"
+    },
+    {
       "uid": "7caed6c49373323582f4c0@game-release-calendar",
       "date": "2026-12-02",
       "title": "Fieldmade",
@@ -209683,6 +211047,31 @@
         981393
       ],
       "igdb_updated_at": "2026-10-30T11:56:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "db485ac0a43276d542ba81@game-release-calendar",
+      "date": "2026-12-02",
+      "title": "Manifesto",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Manifesto is a new management sim about burnout, layoffs, and making shitloads of money. You’ve climbed the ranks, left countless competitors in your wake, and proven you have what it takes to survive in this cut-throat business. With this latest venture, you’ll have to put any human feelings you’ve ever experienced aside, and attempt to satisfy shareholders who can never truly be satisfied.",
+      "cover_image_id": "cobftp",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobftp.jpg",
+      "source": "https://www.igdb.com/games/manifesto",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 388347,
+      "igdb_release_date_ids": [
+        985842
+      ],
+      "igdb_updated_at": "2026-11-03T18:21:51+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -210478,6 +211867,37 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "ee9414662aedb8c938ad2c@game-release-calendar",
+      "date": "2026-12-03",
+      "title": "Thief: The Dark Project Remastered",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Switch 2"
+      ],
+      "release_type": "Game / remaster",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The shadows are your ally. Return to the city as Garrett, master thief, in this remastered classic by Nightdive Studios. Pickpocket, prowl, and outsmart in a world where trust is a luxury and every stolen secret comes at a price.",
+      "cover_image_id": "coc78b",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc78b.jpg",
+      "source": "https://www.igdb.com/games/thief-the-dark-project-remastered",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 405156,
+      "igdb_release_date_ids": [
+        985711,
+        985712,
+        985713,
+        985715
+      ],
+      "igdb_updated_at": "2026-11-03T16:36:59+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "fce874218c16be234d00a5@game-release-calendar",
       "date": "2026-12-03",
       "title": "Vanguard Valiants",
@@ -210529,6 +211949,31 @@
         975188
       ],
       "igdb_updated_at": "2026-10-09T00:45:49+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "902896d3e5cbb6864394c4@game-release-calendar",
+      "date": "2026-12-03",
+      "title": "Xenoblade Chronicles 3: Future Redeemed — Switch 2 release",
+      "platforms": [
+        "Switch 2"
+      ],
+      "release_type": "DLC / expansion",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Set before the events of Xenoblade Chronicles 3, join a cast of new and familiar characters in this original story scenario that connects the three numbered installments in the Xenoblade Chronicles series. Future Redeemed also features new battle mechanics, such as Unity Combo, where two characters can attack in unison.",
+      "cover_image_id": "cob8r0",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob8r0.jpg",
+      "source": "https://www.igdb.com/games/xenoblade-chronicles-3-future-redeemed",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 236669,
+      "igdb_release_date_ids": [
+        929944
+      ],
+      "igdb_updated_at": "2026-11-03T02:52:57+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -211665,6 +213110,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "e3150668bda5ce0b7fac35@game-release-calendar",
+      "date": "2026-12-08",
+      "title": "Modified Girl Eurie!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Modified Girl Eurie is dispatched to Tengetsu Town. Her mission is to rescue those who are powerless to fight and wipe out the monsters near the town.",
+      "cover_image_id": "cocn86",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocn86.jpg",
+      "source": "https://www.igdb.com/games/modified-girl-eurie",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 412711,
+      "igdb_release_date_ids": [
+        984671
+      ],
+      "igdb_updated_at": "2026-11-03T13:36:24+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "1549350641816ed46122c5@game-release-calendar",
       "date": "2026-12-08",
       "title": "Pond Thing",
@@ -212636,6 +214106,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "b2765e0544e8185cd09fe3@game-release-calendar",
+      "date": "2026-12-10",
+      "title": "Saimin Gakuen: Intrusion Edition",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A classic title from Japan’s renowned visual novel developer, Fudegaki Soft! What kind of unexpected encounters await the seemingly ordinary protagonist in his professional journey...?",
+      "cover_image_id": "cocn7u",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocn7u.jpg",
+      "source": "https://www.igdb.com/games/saimin-gakuen-intrusion-edition",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 412706,
+      "igdb_release_date_ids": [
+        984673
+      ],
+      "igdb_updated_at": "2026-11-03T13:33:46+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "362f46539d9b5c912b95ab@game-release-calendar",
       "date": "2026-12-10",
       "title": "Stage Tour",
@@ -212989,6 +214484,33 @@
         985515
       ],
       "igdb_updated_at": "2026-11-02T18:24:31+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "70e9b1b71dab7ec5d72fa2@game-release-calendar",
+      "date": "2026-12-14",
+      "title": "Silver Palace",
+      "platforms": [
+        "PC",
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Silver Palace is an upcoming open‑world detective action‑adventure RPG developed by Silver Studio and published by Elementa worldwide. It is set in the sprawling Victorian‑style metropolis of Sylvanea, built upon the revolutionary element known as Silver Liquid that has fueled its industrial and social transformation. Players assume the role of a detective tasked with unraveling complex criminal conspiracies and…",
+      "cover_image_id": "cocikv",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocikv.jpg",
+      "source": "https://www.igdb.com/games/silver-palace",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 343335,
+      "igdb_release_date_ids": [
+        984865,
+        984866
+      ],
+      "igdb_updated_at": "2026-11-03T16:44:08+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -213506,6 +215028,31 @@
       ],
       "igdb_updated_at": "2026-10-30T18:19:37+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "4127b7436e467b14c8d818@game-release-calendar",
+      "date": "2026-12-24",
+      "title": "Love D3ath Love",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In 2222, your AI secretly sends over 3,000 job applications worldwide without you knowing. Soon after, three powerful women appear, each insisting you belong with her. You’re thrown into a growing crisis, their ambitions colliding endlessly. What do they actually want from you?",
+      "cover_image_id": "cocmd4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocmd4.jpg",
+      "source": "https://www.igdb.com/games/love-d3ath-love",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 412296,
+      "igdb_release_date_ids": [
+        985099
+      ],
+      "igdb_updated_at": "2026-11-03T07:49:04+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "fea90e14c94433ac5243dc@game-release-calendar",
@@ -215779,6 +217326,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "f3e5075a0fa54c20de7be1@game-release-calendar",
+      "date": "2027-01-28",
+      "title": "Virtual Encore",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cocs1w",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocs1w.jpg",
+      "source": "https://www.igdb.com/games/virtual-encore",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 415363,
+      "igdb_release_date_ids": [
+        984298,
+        984299
+      ],
+      "igdb_updated_at": "2026-11-03T07:35:52+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "af414c19f5e37fc84ff0ae@game-release-calendar",
       "date": "2027-01-28",
       "title": "Witchbrook",
@@ -216724,6 +218298,35 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobc6d.jpg"
     },
     {
+      "uid": "2bb7867d50672fdae3681f@game-release-calendar",
+      "date": "2027-02-23",
+      "title": "Final Fantasy XIV: Evercold",
+      "platforms": [
+        "PC",
+        "PS5",
+        "Switch 2"
+      ],
+      "release_type": "DLC / expansion",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Prepare for Evercold, the sixth expansion pack in the ever‑expanding world of Final Fantasy XIV Online.",
+      "cover_image_id": "cockjo",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cockjo.jpg",
+      "source": "https://www.igdb.com/games/final-fantasy-xiv-evercold",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 399337,
+      "igdb_release_date_ids": [
+        984802,
+        984803,
+        984805
+      ],
+      "igdb_updated_at": "2026-11-03T16:05:21+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "9e1040fd02c58971859d85@game-release-calendar",
       "date": "2027-02-25",
       "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
@@ -216750,6 +218353,58 @@
         962615
       ],
       "igdb_updated_at": "2026-09-08T12:21:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "53b2da9fea547b46100eb4@game-release-calendar",
+      "date": "2027-02-25",
+      "title": "Azure Memoria",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/azure-memoria",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426573,
+      "igdb_release_date_ids": [
+        983967,
+        983968
+      ],
+      "igdb_updated_at": "2026-11-03T02:54:03+00:00",
+      "igdb_release_status": null
+    },
+    {
+      "uid": "581a13a6bdcb008cfed17c@game-release-calendar",
+      "date": "2027-02-25",
+      "title": "D.C.5: Da Capo 5 Future Link — Switch release",
+      "platforms": [
+        "Switch"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cod9be",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9be.jpg",
+      "source": "https://www.igdb.com/games/d-dot-c-5-da-capo-5-future-link",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 283543,
+      "igdb_release_date_ids": [
+        984092
+      ],
+      "igdb_updated_at": "2026-11-03T04:37:44+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -217684,6 +219339,31 @@
       "summary": "Build! Craft! Destroy! Jump on clouds and fight cute monsters in skill-based battles of steel, magic and spirit in this online sandbox adventure set in a fantastical world of sky islands!",
       "cover_image_id": "cobo90",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobo90.jpg"
+    },
+    {
+      "uid": "f6419e47dcedc58cefe180@game-release-calendar",
+      "date": "2027-03-15",
+      "title": "ClusterForce",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": null,
+      "cover_image_id": "cod9ql",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9ql.jpg",
+      "source": "https://www.igdb.com/games/clusterforce",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426992,
+      "igdb_release_date_ids": [
+        984780
+      ],
+      "igdb_updated_at": "2026-11-03T15:07:24+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "80e64d39edf02508ccacfe@game-release-calendar",
@@ -219250,6 +220930,31 @@
       "summary": "Includes 3 additional Beys! Contents: METEOROID DRAGOON 3-70J CURSE MUMMY 7-55W GILL SHARK 5-60FB"
     },
     {
+      "uid": "ab1957d5dfcf56d0093bbb@game-release-calendar",
+      "date": "2027-10-31",
+      "title": "Mago's Empire",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Mago's Empire is a retro ARPG with a vast world to explore and a thrilling story. Let the adventure begin!",
+      "cover_image_id": "cod9gm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9gm.jpg",
+      "source": "https://www.igdb.com/games/magos-empire",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426747,
+      "igdb_release_date_ids": [
+        984301
+      ],
+      "igdb_updated_at": "2026-11-03T07:58:34+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "51920540bd84f82a514ff9@game-release-calendar",
       "date": "2027-11-29",
       "title": "The Shackles Holder #735",
@@ -219348,6 +221053,31 @@
       "summary": "You will lead a squad—formed solely for the sake of survival—as you continuously push forward across a vast hexagonal map. Recruit companions, adjust your formation, devise tactics, and carve your way out of the Bone-strewn Continent through a series of automatically unfolding battles.",
       "cover_image_id": "cod9a5",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9a5.jpg"
+    },
+    {
+      "uid": "f6779ab376b352a97181fd@game-release-calendar",
+      "date": "2027-12-20",
+      "title": "Call of Blood",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The game takes place in 2009-2011. Call of Blood is a cinematic single-player first-person shooter that immerses you in a gritty survival experience. The world is engulfed in a zombie outbreak, but the walking dead are far from your only problem. You became the most wanted target after eliminating an influential politician who launched three dangerous reactors that could kill half of humanity. Now, regular groups…",
+      "cover_image_id": "cod0ih",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod0ih.jpg",
+      "source": "https://www.igdb.com/games/call-of-blood--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 418084,
+      "igdb_release_date_ids": [
+        985695
+      ],
+      "igdb_updated_at": "2026-11-03T15:00:30+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "478ecb667c75c525849533@game-release-calendar",
