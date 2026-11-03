@@ -87726,23 +87726,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c47e6fbaae2e635c55534@game-release-calendar
-DTSTAMP:20260919T120000Z
-LAST-MODIFIED:20260919T120000Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:🚀 Aion 2 — PC release
-DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
- ot verified\nStatus: Confirmed\nLast verified: 2026-09-19\nIGDB release 
- status: Beta\nNotes: Automatically added from IGDB. Release date is sync
- hronized\; price is not.\nSource: https://www.igdb.com/games/aion-2
-URL:https://www.igdb.com/games/aion-2
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:667daa7dcf4758e866738a@game-release-calendar
 DTSTAMP:20261007T120000Z
 LAST-MODIFIED:20261007T120000Z
@@ -88069,23 +88052,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/death-simulator
 URL:https://www.igdb.com/games/death-simulator
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:721e8a26dbc60ee75650ff@game-release-calendar
-DTSTAMP:20261002T120000Z
-LAST-MODIFIED:20261002T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:🎮 Debt of Life
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-10-02\nIGDB release status: Adva
- nced Access\nNotes: Automatically added from IGDB. Release date is synch
- ronized\; price is not.\nSource: https://www.igdb.com/games/debt-of-life
-URL:https://www.igdb.com/games/debt-of-life
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -96278,17 +96244,17 @@ BEGIN:VEVENT
 UID:dd2664c13296a682af0d0d@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:🎮 EA Sports FC 27
-DESCRIPTION:Platforms: Switch • Switch 2\nRelease type: Game\nPrice: TB
- A / not verified\nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB rel
- ease status: Full Release\nNotes: Automatically added from IGDB. Release
-  date is synchronized\; price is not.\nSource: https://www.igdb.com/game
- s/ea-sports-fc-27
+DESCRIPTION:Platforms: PC • PS5 • Switch • Switch 2\nRelease type: 
+ Game\nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-
+ 08-12\nIGDB release status: Full Release\nNotes: Automatically added fro
+ m IGDB. Release date is synchronized\; price is not.\nSource: https://ww
+ w.igdb.com/games/ea-sports-fc-27
 URL:https://www.igdb.com/games/ea-sports-fc-27
-CATEGORIES:GAME RELEASE,SWITCH,SWITCH_2
+CATEGORIES:GAME RELEASE,PC,PS5,SWITCH,SWITCH_2
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -98353,6 +98319,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:721e8a26dbc60ee75650ff@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Debt of Life
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/debt-of-life
+URL:https://www.igdb.com/games/debt-of-life
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:750374eee80b4b928a5467@game-release-calendar
 DTSTAMP:20260928T120000Z
 LAST-MODIFIED:20260928T120000Z
@@ -99854,17 +99837,17 @@ BEGIN:VEVENT
 UID:3b5b14184c031c1f3779c4@game-release-calendar
 DTSTAMP:20260826T120000Z
 LAST-MODIFIED:20260826T120000Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:✨ The Witcher 3: Wild Hunt Remastered
-DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Major updat
- e\nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-08-
- 26\nIGDB release status: Full Release\nNotes: Automatically added from I
- GDB. Release date is synchronized\; price is not.\nSource: https://www.i
- gdb.com/games/the-witcher-3-wild-hunt-remastered
+SUMMARY:🎮 The Witcher 3: Wild Hunt Remastered
+DESCRIPTION:Platforms: PC • PS5 • Switch 2\nRelease type: Game / rema
+ ster\nPrice: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-
+ 08-26\nIGDB release status: Full Release\nNotes: Automatically added fro
+ m IGDB. Release date is synchronized\; price is not.\nSource: https://ww
+ w.igdb.com/games/the-witcher-3-wild-hunt-remastered
 URL:https://www.igdb.com/games/the-witcher-3-wild-hunt-remastered
-CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2,UPDATE
+CATEGORIES:GAME RELEASE,PC,PS5,SWITCH_2
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -100096,6 +100079,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  y Access\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/9-dystricts
 URL:https://www.igdb.com/games/9-dystricts
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1c47e6fbaae2e635c55534@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🚀 Aion 2 — PC release
+DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
+ ot verified\nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release 
+ status: Advanced Access\nNotes: Automatically added from IGDB. Release d
+ ate is synchronized\; price is not.\nSource: https://www.igdb.com/games/
+ aion-2
+URL:https://www.igdb.com/games/aion-2
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -103204,6 +103205,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3c285d86b8da88d4ad4f5d@game-release-calendar
 DTSTAMP:20261005T120000Z
 LAST-MODIFIED:20261005T120000Z
@@ -103808,7 +103828,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:68
+SEQUENCE:69
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -127086,6 +127106,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7cafcac14d44e20fd57270@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎮 SimsalaGrimm: The Chaos Crystal
+DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
+ \nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Ful
+ l Release\nNotes: Automatically added from IGDB. Release date is synchro
+ nized\; price is not.\nSource: https://www.igdb.com/games/simsalagrimm-t
+ he-chaos-crystal
+URL:https://www.igdb.com/games/simsalagrimm-the-chaos-crystal
+CATEGORIES:GAME RELEASE,PS5
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:49da81f687bfb1100539eb@game-release-calendar
 DTSTAMP:20261022T120000Z
 LAST-MODIFIED:20261022T120000Z
@@ -129523,23 +129561,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:38133d6a2181726f95ac8a@game-release-calendar
-DTSTAMP:20260831T120000Z
-LAST-MODIFIED:20260831T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:🎮 Pionero Capital
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-31\nIGDB release status: Earl
- y Access\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/pionero-capital
-URL:https://www.igdb.com/games/pionero-capital
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:3c10e0c3d005c30da66765@game-release-calendar
 DTSTAMP:20261022T120000Z
 LAST-MODIFIED:20261022T120000Z
@@ -129874,15 +129895,15 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7cafcac14d44e20fd57270@game-release-calendar
-DTSTAMP:20261102T120000Z
-LAST-MODIFIED:20261102T120000Z
-SEQUENCE:4
+UID:456d57de4274d96a0f7177@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🚀 SimsalaGrimm: The Chaos Crystal — PC / Switch release
 DESCRIPTION:Platforms: PC • Switch\nRelease type: Platform release\nPri
- ce: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-02\nIG
+ ce: TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-03\nIG
  DB release status: Full Release\nNotes: Automatically added from IGDB. R
  elease date is synchronized\; price is not.\nSource: https://www.igdb.co
  m/games/simsalagrimm-the-chaos-crystal
@@ -136419,6 +136440,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Platform release\nPrice: TBA / n
   is synchronized\; price is not.\nSource: https://www.igdb.com/games/out
  break-dead-city
 URL:https://www.igdb.com/games/outbreak-dead-city
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38133d6a2181726f95ac8a@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 Pionero Capital
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/pionero-capital
+URL:https://www.igdb.com/games/pionero-capital
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -143036,26 +143074,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20261102T120000Z
-LAST-MODIFIED:20261102T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-02\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f25831cba042903311785c@game-release-calendar
 DTSTAMP:20261022T120000Z
 LAST-MODIFIED:20261022T120000Z
@@ -149011,6 +149029,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  d from IGDB. Release date is synchronized\; price is not.\nSource: https
  ://www.igdb.com/games/kitchen-tidy
 URL:https://www.igdb.com/games/kitchen-tidy
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fea90e14c94433ac5243dc@game-release-calendar
+DTSTAMP:20261103T120000Z
+LAST-MODIFIED:20261103T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:🎮 Rose Guns Days: Season 3
+DESCRIPTION:Platforms: PC\nRelease type: Game / remaster\nPrice: TBA / no
+ t verified\nStatus: Confirmed\nLast verified: 2026-11-03\nIGDB release s
+ tatus: Full Release\nNotes: Automatically added from IGDB. Release date 
+ is synchronized\; price is not.\nSource: https://www.igdb.com/games/rose
+ -guns-days-season-3--1
+URL:https://www.igdb.com/games/rose-guns-days-season-3--1
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

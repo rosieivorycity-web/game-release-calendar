@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 8715,
+    "event_count": 8717,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-11-02",
-      "window_start": "2026-09-18",
-      "window_end": "2028-11-01",
+      "last_scan": "2026-11-03",
+      "window_start": "2026-09-19",
+      "window_end": "2028-11-02",
       "platforms": [
         "PC",
         "PS5",
@@ -125487,31 +125487,6 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobyz0.jpg"
     },
     {
-      "uid": "1c47e6fbaae2e635c55534@game-release-calendar",
-      "date": "2026-09-18",
-      "title": "Aion 2 — PC release",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Platform release",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Aion 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original.",
-      "cover_image_id": "cod0sw",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod0sw.jpg",
-      "source": "https://www.igdb.com/games/aion-2",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-09-19",
-      "sequence": 1,
-      "igdb_game_id": 117297,
-      "igdb_release_date_ids": [
-        966902
-      ],
-      "igdb_updated_at": "2026-09-19T05:03:24+00:00",
-      "igdb_release_status": "Beta"
-    },
-    {
       "uid": "667daa7dcf4758e866738a@game-release-calendar",
       "date": "2026-09-18",
       "title": "Air Race Assault",
@@ -125985,31 +125960,6 @@
       ],
       "igdb_updated_at": "2026-10-07T05:18:02+00:00",
       "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "721e8a26dbc60ee75650ff@game-release-calendar",
-      "date": "2026-09-18",
-      "title": "Debt of Life",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "You have money. You have a home. You have a family. And you're dying. You have very little time left. Make impossible choices and decide what you're willing to sacrifice for one more week of life.",
-      "cover_image_id": "cod39h",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod39h.jpg",
-      "source": "https://www.igdb.com/games/debt-of-life",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-02",
-      "sequence": 0,
-      "igdb_game_id": 419903,
-      "igdb_release_date_ids": [
-        972287
-      ],
-      "igdb_updated_at": "2026-10-02T00:52:29+00:00",
-      "igdb_release_status": "Advanced Access"
     },
     {
       "uid": "e7ad1e850ea3c31f2a728d@game-release-calendar",
@@ -137772,6 +137722,8 @@
       "date": "2026-09-25",
       "title": "EA Sports FC 27",
       "platforms": [
+        "PC",
+        "PS5",
         "Switch",
         "Switch 2"
       ],
@@ -137782,9 +137734,11 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-12",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 408819,
       "igdb_release_date_ids": [
+        945290,
+        945294,
         945300,
         945301
       ],
@@ -140745,6 +140699,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "721e8a26dbc60ee75650ff@game-release-calendar",
+      "date": "2026-09-28",
+      "title": "Debt of Life",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "You have money. You have a home. You have a family. And you're dying. You have very little time left. Make impossible choices and decide what you're willing to sacrifice for one more week of life.",
+      "cover_image_id": "cod39h",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod39h.jpg",
+      "source": "https://www.igdb.com/games/debt-of-life",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 1,
+      "igdb_game_id": 419903,
+      "igdb_release_date_ids": [
+        969946
+      ],
+      "igdb_updated_at": "2026-10-02T00:52:29+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "750374eee80b4b928a5467@game-release-calendar",
       "date": "2026-09-28",
       "title": "Deskrawl: Idle ARPG",
@@ -142910,7 +142889,7 @@
         "PS5",
         "Switch 2"
       ],
-      "release_type": "Major update",
+      "release_type": "Game / remaster",
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri. The Remastered update is free for players who own The Witcher 3 and includes both Hearts of Stone and Blood and Wine expansions.",
@@ -142920,7 +142899,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-08-26",
-      "sequence": 1,
+      "sequence": 2,
       "igdb_game_id": 415005,
       "igdb_release_date_ids": [
         957238,
@@ -143271,6 +143250,31 @@
       ],
       "igdb_updated_at": "2026-08-31T21:53:11+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "1c47e6fbaae2e635c55534@game-release-calendar",
+      "date": "2026-09-30",
+      "title": "Aion 2 — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Aion 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original.",
+      "cover_image_id": "cod0sw",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod0sw.jpg",
+      "source": "https://www.igdb.com/games/aion-2",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 2,
+      "igdb_game_id": 117297,
+      "igdb_release_date_ids": [
+        966901
+      ],
+      "igdb_updated_at": "2026-09-19T05:03:24+00:00",
+      "igdb_release_status": "Advanced Access"
     },
     {
       "uid": "78c6d112723918ef4b6f33@game-release-calendar",
@@ -147672,6 +147676,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3c285d86b8da88d4ad4f5d@game-release-calendar",
       "date": "2026-10-01",
       "title": "Zero Parades: Director's Cut",
@@ -148546,7 +148577,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-01",
-      "sequence": 68,
+      "sequence": 69,
       "igdb_game_id": 411821,
       "igdb_release_date_ids": [
         950819,
@@ -181929,6 +181960,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7cafcac14d44e20fd57270@game-release-calendar",
+      "date": "2026-10-28",
+      "title": "SimsalaGrimm: The Chaos Crystal",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Dive into the fairy-tale world of Simsala! Join Yoyo and Doc Croc on a magical hidden-object adventure packed with puzzles and mini-games, restore order to the chaos and experience an exciting new story for the whole family!",
+      "cover_image_id": "cod9pm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9pm.jpg",
+      "source": "https://www.igdb.com/games/simsalagrimm-the-chaos-crystal",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 8,
+      "igdb_game_id": 426977,
+      "igdb_release_date_ids": [
+        984747
+      ],
+      "igdb_updated_at": "2026-11-02T01:13:17+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "49da81f687bfb1100539eb@game-release-calendar",
       "date": "2026-10-28",
       "title": "Sketch Kingdom",
@@ -185427,31 +185483,6 @@
       "igdb_release_status": "Early Access"
     },
     {
-      "uid": "38133d6a2181726f95ac8a@game-release-calendar",
-      "date": "2026-10-29",
-      "title": "Pionero Capital",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Pionero Capital is a sandbox business simulator where you build your company from zero to millionaire. Drive around an open world, manage employees, expand into different businesses, and become the richest in the city.",
-      "cover_image_id": "cocvnr",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocvnr.jpg",
-      "source": "https://www.igdb.com/games/pionero-capital",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-08-31",
-      "sequence": 0,
-      "igdb_game_id": 365498,
-      "igdb_release_date_ids": [
-        959424
-      ],
-      "igdb_updated_at": "2026-08-31T07:17:11+00:00",
-      "igdb_release_status": "Early Access"
-    },
-    {
       "uid": "3c10e0c3d005c30da66765@game-release-calendar",
       "date": "2026-10-29",
       "title": "Planet Coaster 2: Spooktacular Pack",
@@ -185929,7 +185960,7 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "7cafcac14d44e20fd57270@game-release-calendar",
+      "uid": "456d57de4274d96a0f7177@game-release-calendar",
       "date": "2026-10-29",
       "title": "SimsalaGrimm: The Chaos Crystal — PC / Switch release",
       "platforms": [
@@ -185945,8 +185976,8 @@
       "source": "https://www.igdb.com/games/simsalagrimm-the-chaos-crystal",
       "source_kind": "igdb",
       "status": "confirmed",
-      "last_verified": "2026-11-02",
-      "sequence": 4,
+      "last_verified": "2026-11-03",
+      "sequence": 0,
       "igdb_game_id": 426977,
       "igdb_release_date_ids": [
         984732,
@@ -195347,6 +195378,31 @@
       ],
       "igdb_updated_at": "2026-10-14T07:21:49+00:00",
       "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "38133d6a2181726f95ac8a@game-release-calendar",
+      "date": "2026-11-04",
+      "title": "Pionero Capital",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Pionero Capital is a sandbox business simulator where you build your company from zero to millionaire. Drive around an open world, manage employees, expand into different businesses, and become the richest in the city.",
+      "cover_image_id": "cocvnr",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocvnr.jpg",
+      "source": "https://www.igdb.com/games/pionero-capital",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 1,
+      "igdb_game_id": 365498,
+      "igdb_release_date_ids": [
+        983948
+      ],
+      "igdb_updated_at": "2026-11-02T23:46:50+00:00",
+      "igdb_release_status": "Early Access"
     },
     {
       "uid": "c120c9993bf7b80eaceb34@game-release-calendar",
@@ -204839,33 +204895,6 @@
       "igdb_release_status": "Early Access"
     },
     {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-11-02",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
       "uid": "f25831cba042903311785c@game-release-calendar",
       "date": "2026-11-16",
       "title": "Alderun — PC release",
@@ -213477,6 +213506,31 @@
       ],
       "igdb_updated_at": "2026-10-30T18:19:37+00:00",
       "igdb_release_status": null
+    },
+    {
+      "uid": "fea90e14c94433ac5243dc@game-release-calendar",
+      "date": "2026-12-24",
+      "title": "Rose Guns Days: Season 3",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game / remaster",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "In 1944, unprecedented disaster struck Japan, forcing it to accept an unconditional ceasefire from its enemy nations in World War 2. As a result, the Japanese have become a people without a nation, but they still come together and do whatever it takes to live without giving up...",
+      "cover_image_id": "cod967",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod967.jpg",
+      "source": "https://www.igdb.com/games/rose-guns-days-season-3--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-03",
+      "sequence": 0,
+      "igdb_game_id": 426554,
+      "igdb_release_date_ids": [
+        983950
+      ],
+      "igdb_updated_at": "2026-11-02T23:45:11+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "05480726fbe9a6dbfa605f@game-release-calendar",
