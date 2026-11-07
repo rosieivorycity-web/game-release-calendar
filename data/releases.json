@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 9085,
+    "event_count": 9102,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -147644,6 +147644,33 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
+      "date": "2026-10-01",
+      "title": "Wingspan: Bird Pack - Birds of Continental Europe",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "release_type": "DLC / add-on",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
+      "cover_image_id": "cocr41",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
+      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 3,
+      "igdb_game_id": 411174,
+      "igdb_release_date_ids": [
+        956580,
+        956581
+      ],
+      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3c285d86b8da88d4ad4f5d@game-release-calendar",
       "date": "2026-10-01",
       "title": "Zero Parades: Director's Cut",
@@ -148518,7 +148545,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-01",
-      "sequence": 78,
+      "sequence": 79,
       "igdb_game_id": 411821,
       "igdb_release_date_ids": [
         950819,
@@ -169557,6 +169584,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "0dc91bed755ed7eea829f5@game-release-calendar",
+      "date": "2026-10-22",
+      "title": "Beyond Dawn",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Scavenge a dying city before sunrise in a first-person world rendered in 3D ASCII. Follow hidden routes, build a home beneath the streets, and descend toward Liminal Corp. Explore a possible future in Wasteland, where repairs made in the past can change what survives.",
+      "cover_image_id": "codbm8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbm8.jpg",
+      "source": "https://www.igdb.com/games/beyond-dawn--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428585,
+      "igdb_release_date_ids": [
+        987291
+      ],
+      "igdb_updated_at": "2026-11-07T19:41:10+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "0111c9345cbcf4cb7430d0@game-release-calendar",
       "date": "2026-10-22",
       "title": "Beyond the Dark: Nightwatch",
@@ -170580,6 +170632,31 @@
         975838
       ],
       "igdb_updated_at": "2026-10-13T04:07:22+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "7ebc689fc3737243a9c16a@game-release-calendar",
+      "date": "2026-10-22",
+      "title": "Storebot: Tidy Up PC Parts",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Organize thousands of PC parts, complete shelves, unlock powerful upgrades, and work together with friends to tidy up a chaotic computer store. Carry, throw, and sort boxes across two unique maps while building your perfect store.",
+      "cover_image_id": "codbmf",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbmf.jpg",
+      "source": "https://www.igdb.com/games/storebot-tidy-up-pc-parts",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428574,
+      "igdb_release_date_ids": [
+        987296
+      ],
+      "igdb_updated_at": "2026-11-07T19:39:21+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -171710,6 +171787,31 @@
         975662
       ],
       "igdb_updated_at": "2026-10-13T04:07:18+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "c7ec6bc42729bd7146e429@game-release-calendar",
+      "date": "2026-10-23",
+      "title": "Realize in Peace",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "If we were to bring a loved one back to life as an AI, and then, for whatever reason, we had to let them go or part ways, would we be able to turn them off?",
+      "cover_image_id": "codbtu",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbtu.jpg",
+      "source": "https://www.igdb.com/games/realize-in-peace",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428553,
+      "igdb_release_date_ids": [
+        987226
+      ],
+      "igdb_updated_at": "2026-11-07T19:38:20+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -187123,6 +187225,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "4e623525389af18824dfe9@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Shadow Gangs Zero",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Shadow Gangs Zero is an explosive 2D ninja action platformer with hand-drawn pixel art. Play as Dan or Monika, fight solo or together in 2-player local co-op, battle across 43 levels, unleash ninja powers, transform into powerful warriors, and face 6 challenging bosses and 6 massive mini-bosses.",
+      "cover_image_id": "codbts",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbts.jpg",
+      "source": "https://www.igdb.com/games/shadow-gangs-zero--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428508,
+      "igdb_release_date_ids": [
+        987133
+      ],
+      "igdb_updated_at": "2026-11-07T19:33:49+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "8fbdd13b71e3ff82cfa092@game-release-calendar",
       "date": "2026-10-29",
       "title": "Ship Busters",
@@ -191463,8 +191590,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Thousands of cats, each with a place! Collect, match, and sort over 5,000 cat figurines in this relaxing organizing game. Unlock helpful abilities, discover hidden surprises, and turn a messy shop into a colorful collection at your own pace.",
-      "cover_image_id": "codbrl",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbrl.jpg",
+      "cover_image_id": "codbu9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbu9.jpg",
       "source": "https://www.igdb.com/games/sort-them-cats",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -193260,6 +193387,31 @@
         971824
       ],
       "igdb_updated_at": "2026-10-01T14:45:38+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "0a8b744d7a8ccbc9160906@game-release-calendar",
+      "date": "2026-10-31",
+      "title": "Sort Sort Yokai",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A cozy sorting puzzle game set in a little Japanese shop full of spirits. 640 yokai figurines, and every one has a place on the shelves. It should be simple, but the yokai have other plans!",
+      "cover_image_id": "codbmn",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbmn.jpg",
+      "source": "https://www.igdb.com/games/sort-sort-yokai",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428579,
+      "igdb_release_date_ids": [
+        987304
+      ],
+      "igdb_updated_at": "2026-11-07T19:29:39+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -207221,6 +207373,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "2e00e3bb122137c784d534@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "Animal Zone",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Animal zone is a fast and furious one-shot one-kill 2D shooter game. Make headshots, tear your opponents to pieces, and stay alive to take your place in the food chain! Face off against your friends and other players in this brutal animal world.",
+      "cover_image_id": "co57wo",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co57wo.jpg",
+      "source": "https://www.igdb.com/games/animal-zone",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 211078,
+      "igdb_release_date_ids": [
+        987996
+      ],
+      "igdb_updated_at": "2026-11-07T19:41:50+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "a66fabff398eae92aa5ee7@game-release-calendar",
       "date": "2026-11-11",
       "title": "Apotheosis Engine",
@@ -207368,6 +207545,31 @@
         980269
       ],
       "igdb_updated_at": "2026-10-19T19:30:27+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "828e0c483d898c93f9812f@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "Doomed Crew",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Co-op Horror for 1-4 players. Dive into a brutal corporate environment, complete deadly objectives for your promised freedom. Trust nothing.",
+      "cover_image_id": "coav34",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coav34.jpg",
+      "source": "https://www.igdb.com/games/doomed-crew",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 378113,
+      "igdb_release_date_ids": [
+        988007
+      ],
+      "igdb_updated_at": "2026-11-07T20:00:37+00:00",
       "igdb_release_status": "Early Access"
     },
     {
@@ -207598,6 +207800,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "c3a9525042c3ab860820d9@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "Limit Shoot",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The vertical scroll type Shoot em Ups Game. The player-controlled fighter jet have the durable and can't be shot down in one hit. You will fight through the total of 5 stages, attacking enemies with missiles and lasers, blocking enemy bullets with shields.",
+      "cover_image_id": "cob5ak",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob5ak.jpg",
+      "source": "https://www.igdb.com/games/limit-shoot",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 383321,
+      "igdb_release_date_ids": [
+        987988
+      ],
+      "igdb_updated_at": "2026-11-07T19:27:48+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "bebd2ecf2359a32af77388@game-release-calendar",
       "date": "2026-11-11",
       "title": "Lost Hope",
@@ -207692,10 +207919,10 @@
       "sequence": 0,
       "igdb_game_id": 360260,
       "igdb_release_date_ids": [
-        966205
+        987987
       ],
-      "igdb_updated_at": "2026-09-17T13:56:08+00:00",
-      "igdb_release_status": null
+      "igdb_updated_at": "2026-11-07T19:26:24+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "e048dd0831aaf80a51dcb4@game-release-calendar",
@@ -207981,6 +208208,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "1a233665cc19e30903f389@game-release-calendar",
+      "date": "2026-11-11",
+      "title": "The Vast White",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Explore an old mountain at your pace in this openworld snowboarding adventure. Uncover hidden paths, experience dynamic weather, and explore stunning landscapes as you ride. Every path holds new secrets.",
+      "cover_image_id": "co95a9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co95a9.jpg",
+      "source": "https://www.igdb.com/games/the-vast-white",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 325511,
+      "igdb_release_date_ids": [
+        988001
+      ],
+      "igdb_updated_at": "2026-11-07T19:45:42+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "dd37464cca1f6ef606e701@game-release-calendar",
       "date": "2026-11-11",
       "title": "There's Always a Madman: V.I.C.T.O.R.",
@@ -207997,10 +208249,10 @@
       "sequence": 0,
       "igdb_game_id": 330969,
       "igdb_release_date_ids": [
-        921022
+        988005
       ],
-      "igdb_updated_at": "2026-06-03T02:38:30+00:00",
-      "igdb_release_status": null,
+      "igdb_updated_at": "2026-11-07T19:50:16+00:00",
+      "igdb_release_status": "Full Release",
       "summary": "Secret agent Franklin Benjamin will stop at nothing to save the world. In the single-player interactive novel villain team-up game \"There's Always a Madman: V.I.C.T.O.R.,\" you play as his greatest adversaries. Can the criminal enterprise known as V.I.C.T.O.R. (short for a \"Very Important Collective of Terrorists, Operatives, and Rogues\") defeat the only man standing between them and world domination? To the…",
       "cover_image_id": "co9dqo",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co9dqo.jpg"
@@ -208256,6 +208508,31 @@
         969544
       ],
       "igdb_updated_at": "2026-09-25T02:34:47+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "2ac6aab598189042a5314f@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Bottle Flip Inc",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An incremental game about flipping bottles, unlocking and upgrading unique abilities, and turning simple bottle flips into increasingly satisfying moments.",
+      "cover_image_id": "cod4zt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod4zt.jpg",
+      "source": "https://www.igdb.com/games/bottle-flip-inc",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 423554,
+      "igdb_release_date_ids": [
+        988006
+      ],
+      "igdb_updated_at": "2026-11-07T19:50:49+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -208609,6 +208886,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "6497776e67cda16ab512e5@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Flexible Frosty",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A short and icy GameBoy-style puzzle platformer featuring Frosty, a cute little penguin who can not jump like other penguins.",
+      "cover_image_id": "co956s",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co956s.jpg",
+      "source": "https://www.igdb.com/games/flexible-frosty",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 325332,
+      "igdb_release_date_ids": [
+        988012
+      ],
+      "igdb_updated_at": "2026-11-07T20:02:44+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "4d4c83f08eb710425ea30d@game-release-calendar",
       "date": "2026-11-12",
       "title": "Franchise Hockey Manager 13",
@@ -208808,6 +209110,31 @@
         955858
       ],
       "igdb_updated_at": "2026-08-21T07:55:09+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "cf0923278fe00ab967b3d7@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Love in Summer",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Summer nears. A campus photo job brings you to caring beauty Liu Shilin, aloof yet warm artist Li Feier, mischievous model Xia Wei, and childhood friend Le Tong. Together, you plan graduation shoots, each lending your talents, as your own summer romance with four unique girls quietly begins.",
+      "cover_image_id": "codais",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codais.jpg",
+      "source": "https://www.igdb.com/games/love-in-summer",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 427569,
+      "igdb_release_date_ids": [
+        987997
+      ],
+      "igdb_updated_at": "2026-11-07T19:42:25+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -209572,6 +209899,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "bc8d36d9b638bd98cca8f0@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Splatchinko",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Play as a lovestruck alien in this chaotic roguelike pachinko in pixel art! Launch your EYES across hostile planets, unlock bizarre mutations and build devastating combos as you tear through the galaxy to rescue your beloved.",
+      "cover_image_id": "cod7lg",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7lg.jpg",
+      "source": "https://www.igdb.com/games/splatchinko",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 414085,
+      "igdb_release_date_ids": [
+        987999
+      ],
+      "igdb_updated_at": "2026-11-07T19:43:51+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "99ffe0dc704de919f5f572@game-release-calendar",
       "date": "2026-11-12",
       "title": "Square Colosseum: Cell B201",
@@ -209773,6 +210125,31 @@
         981557
       ],
       "igdb_updated_at": "2026-10-23T21:10:37+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "69e68725b5e072c1fa6909@game-release-calendar",
+      "date": "2026-11-12",
+      "title": "Toll Idle",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Build the busiest toll plaza on the road. Start with one cash booth and collect every fare by hand, then grow to ten lanes of automated Tollpass traffic. A relaxing idle game you can finish in about four hours, from quiet mornings to a glowing plaza at night.",
+      "cover_image_id": "cod9hk",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod9hk.jpg",
+      "source": "https://www.igdb.com/games/toll-idle",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 426782,
+      "igdb_release_date_ids": [
+        988000
+      ],
+      "igdb_updated_at": "2026-11-07T19:45:21+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -211205,6 +211582,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "6c99fd21165c5261a0b902@game-release-calendar",
+      "date": "2026-11-14",
+      "title": "Badass Brigade",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Throw a dude at another dude! Badass Brigade is a light-hearted 2D action game where you shoot, punch, grab, and throw your foes. Take on missions where you can explore the world and uncover a wide variety of weapons and gear for new ways to fight.",
+      "cover_image_id": "coasw4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coasw4.jpg",
+      "source": "https://www.igdb.com/games/badass-brigade",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 376209,
+      "igdb_release_date_ids": [
+        988023
+      ],
+      "igdb_updated_at": "2026-11-07T20:17:03+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "14e022b391d17b4ad16489@game-release-calendar",
       "date": "2026-11-14",
       "title": "Fate/Empire of Dirt: Stella Splendens",
@@ -211452,33 +211854,6 @@
         987775
       ],
       "igdb_updated_at": "2026-11-07T14:50:11+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "81d76a94c97979d0cdf623@game-release-calendar",
-      "date": "2026-11-15",
-      "title": "Wingspan: Bird Pack - Birds of Continental Europe — Switch release",
-      "platforms": [
-        "PC",
-        "Switch"
-      ],
-      "release_type": "DLC / add-on",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Expand your bird sanctuary with Wingspan Bird Pack: Birds of Continental Europe, featuring species from across mainland Europe! Enhance your wildlife preserve with the 25 fan-designed, distinctive European bird cards with unique powers, and listen to their songs with this digital Bird Pack. Add new favorites to your collection with bird species from diverse European habitats never before seen in Wingspan Digital…",
-      "cover_image_id": "cocr41",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocr41.jpg",
-      "source": "https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-europe",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-11-07",
-      "sequence": 0,
-      "igdb_game_id": 411174,
-      "igdb_release_date_ids": [
-        956580,
-        956581
-      ],
-      "igdb_updated_at": "2026-08-24T00:54:05+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -213297,6 +213672,31 @@
         985334
       ],
       "igdb_updated_at": "2026-11-04T03:51:51+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f533d4e21fa81853b44b47@game-release-calendar",
+      "date": "2026-11-18",
+      "title": "Frog Collector",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Bring order to a shop overflowing with collectible frogs. Pick up and sort colorful figures, fill themed shelves, unlock helpful upgrades, and search for hidden eggs. Build your collection one frog at a time.",
+      "cover_image_id": "codbmk",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbmk.jpg",
+      "source": "https://www.igdb.com/games/frog-collector",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428580,
+      "igdb_release_date_ids": [
+        987302
+      ],
+      "igdb_updated_at": "2026-11-07T19:29:46+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -215457,6 +215857,31 @@
       "summary": "In a universe where everything is falling into chaos, one person and their new found companion are out to save the universe from total destruction. Experience heart pounding battle action, animal handling skills, survival skills, and even some fishing along the way. Includes solo story mode, multiplayer 6v6 team death match, and a battle royale. Set in the near future where humans battle resource deprivation, and…",
       "cover_image_id": "cobdmc",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobdmc.jpg"
+    },
+    {
+      "uid": "c76563f08c4cfcaced4605@game-release-calendar",
+      "date": "2026-11-25",
+      "title": "Sort On The Ball",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A cozy game about opening tons of capsules to sort and collect cute toy balls. Sort like you're on the ball!",
+      "cover_image_id": "codbmp",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbmp.jpg",
+      "source": "https://www.igdb.com/games/sort-on-the-ball",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-07",
+      "sequence": 0,
+      "igdb_game_id": 428578,
+      "igdb_release_date_ids": [
+        987309
+      ],
+      "igdb_updated_at": "2026-11-07T19:29:31+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "49da803f79abd536e71be3@game-release-calendar",
