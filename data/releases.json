@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 9577,
+    "event_count": 9584,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -147486,7 +147486,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-11-10",
-      "sequence": 4,
+      "sequence": 5,
       "igdb_game_id": 411174,
       "igdb_release_date_ids": [
         956580,
@@ -148395,7 +148395,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-10-01",
-      "sequence": 84,
+      "sequence": 85,
       "igdb_game_id": 411821,
       "igdb_release_date_ids": [
         950819,
@@ -154582,6 +154582,31 @@
       ],
       "igdb_updated_at": "2026-10-20T03:00:49+00:00",
       "igdb_release_status": "Beta"
+    },
+    {
+      "uid": "d3991de5f598cf3c3f6992@game-release-calendar",
+      "date": "2026-10-08",
+      "title": "Tingus Goose — PS5 release",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Tingus Goose is an idle game where you control a goose named Tingus that automatically moves and attacks. The goal is to collect treasure, defeat enemies, and upgrade Tingus' abilities. The game features automatic gameplay with occasional manual interventions, allowing you to let Tingus run on its own while you do other things. You can upgrade Tingus' abilities and equipment, collect treasure and resources, battle…",
+      "cover_image_id": "coawkc",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coawkc.jpg",
+      "source": "https://www.igdb.com/games/tingus-goose--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 6,
+      "igdb_game_id": 285342,
+      "igdb_release_date_ids": [
+        989664
+      ],
+      "igdb_updated_at": "2026-11-10T01:10:34+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "89be605f289f19d877b63a@game-release-calendar",
@@ -171545,7 +171570,7 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "d3991de5f598cf3c3f6992@game-release-calendar",
+      "uid": "53f6b193c9f0da10505b88@game-release-calendar",
       "date": "2026-10-22",
       "title": "Tingus Goose — Switch release",
       "platforms": [
@@ -171561,7 +171586,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-11-10",
-      "sequence": 3,
+      "sequence": 0,
       "igdb_game_id": 285342,
       "igdb_release_date_ids": [
         989665
@@ -177899,31 +177924,6 @@
         980810
       ],
       "igdb_updated_at": "2026-10-20T22:56:26+00:00",
-      "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "1c6c6387190e565188dab4@game-release-calendar",
-      "date": "2026-10-27",
-      "title": "Dying Patience",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "For years, you cared for your mother until her illness began to destroy your life. Her weak voice, her exhausted appearance, her fading consciousness... Are you willing to keep enduring this?",
-      "cover_image_id": "cod75g",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod75g.jpg",
-      "source": "https://www.igdb.com/games/dying-patience",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-21",
-      "sequence": 0,
-      "igdb_game_id": 425003,
-      "igdb_release_date_ids": [
-        980964
-      ],
-      "igdb_updated_at": "2026-10-21T13:36:35+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -186509,31 +186509,6 @@
       ],
       "igdb_updated_at": "2026-10-23T14:47:42+00:00",
       "igdb_release_status": "Full Release"
-    },
-    {
-      "uid": "3cc2b89bf000f45c23b3f1@game-release-calendar",
-      "date": "2026-10-29",
-      "title": "Feeding Gooble",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "A roguelike deckbuilder about feeding the hungriest little guy. Push buttons, combine foods, and press your luck to keep him sated... or else.",
-      "cover_image_id": "cod7c9",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7c9.jpg",
-      "source": "https://www.igdb.com/games/feeding-gooble",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-22",
-      "sequence": 0,
-      "igdb_game_id": 425163,
-      "igdb_release_date_ids": [
-        981242
-      ],
-      "igdb_updated_at": "2026-10-21T23:16:11+00:00",
-      "igdb_release_status": "Early Access"
     },
     {
       "uid": "41e36a956e450b0bbf907a@game-release-calendar",
@@ -206428,6 +206403,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "3cc2b89bf000f45c23b3f1@game-release-calendar",
+      "date": "2026-11-06",
+      "title": "Feeding Gooble",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A roguelike deckbuilder about feeding the hungriest little guy. Push buttons, combine foods, and press your luck to keep him sated... or else.",
+      "cover_image_id": "cod7c9",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod7c9.jpg",
+      "source": "https://www.igdb.com/games/feeding-gooble",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 1,
+      "igdb_game_id": 425163,
+      "igdb_release_date_ids": [
+        990001
+      ],
+      "igdb_updated_at": "2026-11-10T21:47:06+00:00",
+      "igdb_release_status": "Early Access"
+    },
+    {
       "uid": "0a14d6ade2cdd9dc734f47@game-release-calendar",
       "date": "2026-11-06",
       "title": "Find The Needle",
@@ -212084,6 +212084,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "d17efaf9eb239e1c28dc89@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "9999",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A party-builder rogue like, build your party to survive the monsters guarding the crystal. Master the turn-based combat system and break your limits to see how far you can take your party.",
+      "cover_image_id": "cod4m4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod4m4.jpg",
+      "source": "https://www.igdb.com/games/9999",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 423334,
+      "igdb_release_date_ids": [
+        990002
+      ],
+      "igdb_updated_at": "2026-11-10T21:48:42+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "e8cca38eec82929d795e72@game-release-calendar",
       "date": "2026-11-10",
       "title": "Abyssal Elevator: Idle Breaker",
@@ -212282,6 +212307,31 @@
       ],
       "igdb_updated_at": "2026-11-08T16:44:13+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "230d590953452246c8d4d9@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Ash Hills: Descent",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "An atmospheric first-person horror where you play as a forest ranger investigating a series of bloody events. Search for clues, monitor the perimeter through surveillance cameras, and keep your shotgun at the ready: an unfathomable horror lurks in the nocturnal gloom…",
+      "cover_image_id": "cob444",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cob444.jpg",
+      "source": "https://www.igdb.com/games/ash-hills-descent",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 382811,
+      "igdb_release_date_ids": [
+        989991
+      ],
+      "igdb_updated_at": "2026-11-10T21:40:46+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "e0db4164dc8cc2c47e7936@game-release-calendar",
@@ -212934,6 +212984,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "1c6c6387190e565188dab4@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Dying Patience",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "For years, you cared for your mother until her illness began to destroy your life. Her weak voice, her exhausted appearance, her fading consciousness... Are you willing to keep enduring this?",
+      "cover_image_id": "cod75g",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod75g.jpg",
+      "source": "https://www.igdb.com/games/dying-patience",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 1,
+      "igdb_game_id": 425003,
+      "igdb_release_date_ids": [
+        989999
+      ],
+      "igdb_updated_at": "2026-11-10T21:44:48+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5a4b706205d2e9dc2bca7c@game-release-calendar",
       "date": "2026-11-10",
       "title": "Edge of the Blade",
@@ -213056,6 +213131,31 @@
         989948
       ],
       "igdb_updated_at": "2026-11-10T19:42:47+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "4376299999f0924ad4bc56@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "FailRooms",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Failrooms is a first-person exploration game that parodies liminal spaces. Delve into photorealistic environments where the terror of the unknown collides with the most incompetent architecture imaginable. Can you survive this dimensional prank without losing your mind?",
+      "cover_image_id": "cocwf5",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocwf5.jpg",
+      "source": "https://www.igdb.com/games/failrooms",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 417806,
+      "igdb_release_date_ids": [
+        989987
+      ],
+      "igdb_updated_at": "2026-11-10T22:20:33+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -213617,6 +213717,31 @@
       ],
       "igdb_updated_at": "2026-11-08T15:23:11+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "f78bcf1ef8bdcd0b75831d@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Moonbow Idle: Dark Fantasy Auto Battler",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A dark fantasy idle auto battler. A red-hooded archer with a silver moon bow holds the road against a horde that never runs out, and you decide what she becomes: gold upgrades, level-up perks, an Arsenal of fire, frost, chain lightning and more.",
+      "cover_image_id": "codb7k",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codb7k.jpg",
+      "source": "https://www.igdb.com/games/moonbow-idle-dark-fantasy-auto-battler",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 428262,
+      "igdb_release_date_ids": [
+        989997
+      ],
+      "igdb_updated_at": "2026-11-10T21:41:51+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "c62130dfe60e9a062c5f29@game-release-calendar",
@@ -215028,6 +215153,31 @@
         985376
       ],
       "igdb_updated_at": "2026-11-03T08:02:18+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "bfcb39b6394948a1bad7f5@game-release-calendar",
+      "date": "2026-11-10",
+      "title": "Vikings: Valhalla Saga — PC release",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Realistic Historical Role-Playing Game",
+      "cover_image_id": "co87fy",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co87fy.jpg",
+      "source": "https://www.igdb.com/games/vikings-valhalla-saga",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 228120,
+      "igdb_release_date_ids": [
+        989986
+      ],
+      "igdb_updated_at": "2026-11-10T21:37:54+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -225668,6 +225818,31 @@
         989949
       ],
       "igdb_updated_at": "2026-11-10T20:41:24+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "b4ccf838aac3eab50f99d0@game-release-calendar",
+      "date": "2026-11-20",
+      "title": "Wand Keeper",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "A cozy first-person organizing simulator where you pair 3,500 wands with their matching cases and file them across a two-storey wand shop. Read each magical stave, restore every pigeon hole, unlock helpful skills, or race the clock in Hardcore mode.",
+      "cover_image_id": "cod1lh",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod1lh.jpg",
+      "source": "https://www.igdb.com/games/wand-keeper",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-10",
+      "sequence": 0,
+      "igdb_game_id": 421309,
+      "igdb_release_date_ids": [
+        990015
+      ],
+      "igdb_updated_at": "2026-11-10T22:24:56+00:00",
       "igdb_release_status": "Full Release"
     },
     {
