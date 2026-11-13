@@ -100429,6 +100429,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a26241af85f6eef2a7938e@game-release-calendar
+DTSTAMP:20261113T120000Z
+LAST-MODIFIED:20261113T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🎮 ForgeTax
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-13\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/forgetax
+URL:https://www.igdb.com/games/forgetax
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1fc9b9067a38152d32280e@game-release-calendar
 DTSTAMP:20261007T120000Z
 LAST-MODIFIED:20261007T120000Z
@@ -103034,6 +103051,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:81d76a94c97979d0cdf623@game-release-calendar
+DTSTAMP:20261113T120000Z
+LAST-MODIFIED:20261113T120000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe
+DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
+ TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-13\nIGDB r
+ elease status: Full Release\nNotes: Automatically added from IGDB. Relea
+ se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
+ mes/wingspan-bird-pack-birds-of-continental-europe
+URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
+ rope
+CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3c285d86b8da88d4ad4f5d@game-release-calendar
 DTSTAMP:20261005T120000Z
 LAST-MODIFIED:20261005T120000Z
@@ -103655,7 +103691,7 @@ BEGIN:VEVENT
 UID:7d7b4ef121d6ae2168a2fc@game-release-calendar
 DTSTAMP:20261001T120000Z
 LAST-MODIFIED:20261001T120000Z
-SEQUENCE:90
+SEQUENCE:91
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:🎮 Monster Nursery
@@ -126769,6 +126805,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1ab6773d8e5a2a203469f4@game-release-calendar
+DTSTAMP:20261113T120000Z
+LAST-MODIFIED:20261113T120000Z
+SEQUENCE:4
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🧩 VHS Chaos: XXX
+DESCRIPTION:Platforms: PC\nRelease type: DLC / add-on\nPrice: TBA / not v
+ erified\nStatus: Confirmed\nLast verified: 2026-11-13\nIGDB release stat
+ us: Full Release\nNotes: Automatically added from IGDB. Release date is 
+ synchronized\; price is not.\nSource: https://www.igdb.com/games/vhs-cha
+ os-xxx
+URL:https://www.igdb.com/games/vhs-chaos-xxx
+CATEGORIES:GAME RELEASE,PC,DLC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ee8c69a528b8cd570ba419@game-release-calendar
 DTSTAMP:20260812T120000Z
 LAST-MODIFIED:20260812T120000Z
@@ -138685,10 +138739,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1ab6773d8e5a2a203469f4@game-release-calendar
+UID:ba3922bd25b143e632f3ef@game-release-calendar
 DTSTAMP:20261113T120000Z
 LAST-MODIFIED:20261113T120000Z
-SEQUENCE:2
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:🧩 VHS Chaos: XXX+
@@ -140883,6 +140937,24 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/hull-rupture
 URL:https://www.igdb.com/games/hull-rupture
 CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85d2f9ae0f71d264359519@game-release-calendar
+DTSTAMP:20261113T120000Z
+LAST-MODIFIED:20261113T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 Hypermarket: Sort & Stock
+DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
+ \nStatus: Confirmed\nLast verified: 2026-11-13\nIGDB release status: Ful
+ l Release\nNotes: Automatically added from IGDB. Release date is synchro
+ nized\; price is not.\nSource: https://www.igdb.com/games/hypermarket-so
+ rt-and-stock
+URL:https://www.igdb.com/games/hypermarket-sort-and-stock
+CATEGORIES:GAME RELEASE,PS5
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
@@ -152642,10 +152714,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:85d2f9ae0f71d264359519@game-release-calendar
+UID:e6ae4c94ce2b029d346075@game-release-calendar
 DTSTAMP:20261113T120000Z
 LAST-MODIFIED:20261113T120000Z
-SEQUENCE:4
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🚀 Hypermarket: Sort & Stock — PC release
@@ -157377,26 +157449,6 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
  ized\; price is not.\nSource: https://www.igdb.com/games/water-maid
 URL:https://www.igdb.com/games/water-maid
 CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:81d76a94c97979d0cdf623@game-release-calendar
-DTSTAMP:20261113T120000Z
-LAST-MODIFIED:20261113T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:🧩 Wingspan: Bird Pack - Birds of Continental Europe — Switch
-  release
-DESCRIPTION:Platforms: PC • Switch\nRelease type: DLC / add-on\nPrice: 
- TBA / not verified\nStatus: Confirmed\nLast verified: 2026-11-13\nIGDB r
- elease status: Full Release\nNotes: Automatically added from IGDB. Relea
- se date is synchronized\; price is not.\nSource: https://www.igdb.com/ga
- mes/wingspan-bird-pack-birds-of-continental-europe
-URL:https://www.igdb.com/games/wingspan-bird-pack-birds-of-continental-eu
- rope
-CATEGORIES:GAME RELEASE,PC,SWITCH,DLC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
