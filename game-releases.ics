@@ -129831,6 +129831,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7df3c99d79e8c04779a7b6@game-release-calendar
+DTSTAMP:20261117T120000Z
+LAST-MODIFIED:20261117T120000Z
+SEQUENCE:8
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎮 An Eggcelent Sorting Game
+DESCRIPTION:Platforms: PS5\nRelease type: Game\nPrice: TBA / not verified
+ \nStatus: Confirmed\nLast verified: 2026-11-17\nIGDB release status: Ful
+ l Release\nNotes: Automatically added from IGDB. Release date is synchro
+ nized\; price is not.\nSource: https://www.igdb.com/games/an-eggcelent-s
+ orting-game
+URL:https://www.igdb.com/games/an-eggcelent-sorting-game
+CATEGORIES:GAME RELEASE,PS5
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:4cf88b56db4fea94dcfd40@game-release-calendar
 DTSTAMP:20261025T120000Z
 LAST-MODIFIED:20261025T120000Z
@@ -167639,10 +167657,10 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7df3c99d79e8c04779a7b6@game-release-calendar
+UID:41a1c4bbacb473b4377f58@game-release-calendar
 DTSTAMP:20261117T120000Z
 LAST-MODIFIED:20261117T120000Z
-SEQUENCE:4
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:🚀 An Eggcelent Sorting Game — PC release

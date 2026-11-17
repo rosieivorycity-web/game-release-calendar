@@ -10,7 +10,7 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 9956,
+    "event_count": 9957,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
@@ -185846,6 +185846,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "7df3c99d79e8c04779a7b6@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "An Eggcelent Sorting Game",
+      "platforms": [
+        "PS5"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Sort thousands of colorful eggs by matching their patterns in this relaxing organizing game. Turn a giant mess into satisfying order, level up 8 skills, meet quirky characters, and complete quests. No rush, no pressure. Just you and an eggnormous pile of eggs!",
+      "cover_image_id": "code86",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/code86.jpg",
+      "source": "https://www.igdb.com/games/an-eggcelent-sorting-game",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-17",
+      "sequence": 8,
+      "igdb_game_id": 428301,
+      "igdb_release_date_ids": [
+        993122
+      ],
+      "igdb_updated_at": "2026-11-17T03:03:30+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "4cf88b56db4fea94dcfd40@game-release-calendar",
       "date": "2026-10-29",
       "title": "Aniimo: Season 1 - Departure with the Wind: Part 2",
@@ -240131,7 +240156,7 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "7df3c99d79e8c04779a7b6@game-release-calendar",
+      "uid": "41a1c4bbacb473b4377f58@game-release-calendar",
       "date": "2026-12-10",
       "title": "An Eggcelent Sorting Game — PC release",
       "platforms": [
@@ -240147,7 +240172,7 @@
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-11-17",
-      "sequence": 4,
+      "sequence": 0,
       "igdb_game_id": 428301,
       "igdb_release_date_ids": [
         993123
