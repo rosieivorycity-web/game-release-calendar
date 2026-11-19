@@ -149397,23 +149397,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:23dc659e095f83d834cf5c@game-release-calendar
-DTSTAMP:20261104T120000Z
-LAST-MODIFIED:20261104T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:🎮 Grimdelve
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-11-04\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/grimdelve
-URL:https://www.igdb.com/games/grimdelve
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:1152a9aa1c10cd6db683e9@game-release-calendar
 DTSTAMP:20261110T120000Z
 LAST-MODIFIED:20261110T120000Z
@@ -158656,23 +158639,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c64a165ba89dbb0b077b7@game-release-calendar
-DTSTAMP:20261015T120000Z
-LAST-MODIFIED:20261015T120000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:🎮 Malignus
-DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-10-15\nIGDB release status: Earl
- y Access\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/malignus
-URL:https://www.igdb.com/games/malignus
-CATEGORIES:GAME RELEASE,PC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:e11006ad610064a744c771@game-release-calendar
 DTSTAMP:20261117T120000Z
 LAST-MODIFIED:20261117T120000Z
@@ -161719,6 +161685,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:07e2411bab4e0035e66161@game-release-calendar
+DTSTAMP:20261119T120000Z
+LAST-MODIFIED:20261119T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎮 Echo Pandemic
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-19\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/echo-pandemic
+URL:https://www.igdb.com/games/echo-pandemic
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fcebdbe973aa3b6cdf5249@game-release-calendar
 DTSTAMP:20261104T120000Z
 LAST-MODIFIED:20261104T120000Z
@@ -161787,6 +161770,23 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:23dc659e095f83d834cf5c@game-release-calendar
+DTSTAMP:20261119T120000Z
+LAST-MODIFIED:20261119T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎮 Grimdelve
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-19\nIGDB release status: Full
+  Release\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/grimdelve
+URL:https://www.igdb.com/games/grimdelve
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0726f07f58bdb0585fea63@game-release-calendar
 DTSTAMP:20261012T120000Z
 LAST-MODIFIED:20261012T120000Z
@@ -161817,6 +161817,23 @@ DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
   Release\nNotes: Automatically added from IGDB. Release date is synchron
  ized\; price is not.\nSource: https://www.igdb.com/games/let-me-die
 URL:https://www.igdb.com/games/let-me-die
+CATEGORIES:GAME RELEASE,PC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8d72ee5c0799c299858b@game-release-calendar
+DTSTAMP:20261119T120000Z
+LAST-MODIFIED:20261119T120000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎮 Lord of Undead
+DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
+ nStatus: Confirmed\nLast verified: 2026-11-19\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/lord-of-undead
+URL:https://www.igdb.com/games/lord-of-undead
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -162332,18 +162349,18 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4a8d72ee5c0799c299858b@game-release-calendar
-DTSTAMP:20260812T120000Z
-LAST-MODIFIED:20260812T120000Z
-SEQUENCE:0
+UID:1c64a165ba89dbb0b077b7@game-release-calendar
+DTSTAMP:20261119T120000Z
+LAST-MODIFIED:20261119T120000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:🎮 Lord of Undead
+SUMMARY:🎮 Malignus
 DESCRIPTION:Platforms: PC\nRelease type: Game\nPrice: TBA / not verified\
- nStatus: Confirmed\nLast verified: 2026-08-12\nIGDB release status: Full
-  Release\nNotes: Automatically added from IGDB. Release date is synchron
- ized\; price is not.\nSource: https://www.igdb.com/games/lord-of-undead
-URL:https://www.igdb.com/games/lord-of-undead
+ nStatus: Confirmed\nLast verified: 2026-11-19\nIGDB release status: Earl
+ y Access\nNotes: Automatically added from IGDB. Release date is synchron
+ ized\; price is not.\nSource: https://www.igdb.com/games/malignus
+URL:https://www.igdb.com/games/malignus
 CATEGORIES:GAME RELEASE,PC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
