@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 10600,
+    "event_count": 10606,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-11-25",
-      "window_start": "2026-10-11",
-      "window_end": "2028-11-24",
+      "last_scan": "2026-11-26",
+      "window_start": "2026-10-12",
+      "window_end": "2028-11-25",
       "platforms": [
         "PC",
         "PS5",
@@ -188847,6 +188847,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "92d297692e3c2e9341a033@game-release-calendar",
+      "date": "2026-10-29",
+      "title": "Of Tales and Deeds",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Of Tales and Deeds is a turn-based sandbox RPG. There's no main quest pushing you along. Just a world full of people, towns, roads, and stories that unfold as you play. Everyone you meet has a life of their own. The blacksmith goes to work in the morning, visits the tavern at night, and might remember that you helped his sister. Someone who sees you stealing might tell the neighbours. People talk, remember things…",
+      "cover_image_id": "codgf8",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgf8.jpg",
+      "source": "https://www.igdb.com/games/of-tales-and-deeds",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 428746,
+      "igdb_release_date_ids": [
+        996878
+      ],
+      "igdb_updated_at": "2026-11-26T00:06:32+00:00",
+      "igdb_release_status": "Alpha"
+    },
+    {
       "uid": "f3b2f246109398ceaf00b8@game-release-calendar",
       "date": "2026-10-29",
       "title": "One More Letter",
@@ -200723,6 +200748,31 @@
       ],
       "igdb_updated_at": "2026-10-22T01:58:46+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "3d37b20571af164fac212f@game-release-calendar",
+      "date": "2026-11-03",
+      "title": "Kagekari",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Kagekari is a top-down action roguelite inspired by Japanese folklore. A young shinobi hunts yōkai wave after wave, builds a run with jutsu techniques and shop items, and combines elements: water and lightning stun, fire burns. Free demo playable in the browser and on Windows, with Japanese voice acting and subtitles.",
+      "cover_image_id": "codav6",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codav6.jpg",
+      "source": "https://www.igdb.com/games/kagekari",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 427883,
+      "igdb_release_date_ids": [
+        986201
+      ],
+      "igdb_updated_at": "2026-11-26T00:47:44+00:00",
+      "igdb_release_status": "Alpha"
     },
     {
       "uid": "9cd108939020dba3f91a08@game-release-calendar",
@@ -241848,7 +241898,7 @@
     {
       "uid": "623862b38527d0a182bd44@game-release-calendar",
       "date": "2026-11-24",
-      "title": "HordeNight",
+      "title": "HordeNight 1996",
       "platforms": [
         "PC"
       ],
@@ -241858,11 +241908,11 @@
       "summary": "Blast through a blood-soaked zombie horde in this zombie FPS. Shred the Starved, dodge Bilebelly acid, and drop Necromancers before they raise the dead again. Survive the waves or spawn your own nightmare in Sandbox.",
       "cover_image_id": "codgev",
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgev.jpg",
-      "source": "https://www.igdb.com/games/hordenight",
+      "source": "https://www.igdb.com/games/hordenight-1996",
       "source_kind": "igdb",
       "status": "confirmed",
       "last_verified": "2026-11-25",
-      "sequence": 0,
+      "sequence": 1,
       "igdb_game_id": 427948,
       "igdb_release_date_ids": [
         996828
@@ -252667,6 +252717,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "c5864543824b82582e383b@game-release-calendar",
+      "date": "2026-12-07",
+      "title": "Detonumber!",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Detonumber! is an action roguelite in which the player's weapon is a number. The player lays coils around enemies to build a circuit, and each coil performs a math operation: addition, subtraction, multiplication, absolute value or a sign flip. Once the circuit is activated, a current carries a number around it, changing with every operation, and the player can detonate the circuit at any time to deal the current…",
+      "cover_image_id": "codgf0",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgf0.jpg",
+      "source": "https://www.igdb.com/games/detonumber",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 431471,
+      "igdb_release_date_ids": [
+        996832
+      ],
+      "igdb_updated_at": "2026-11-26T00:05:04+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "3e3b389f0d432137eb8505@game-release-calendar",
       "date": "2026-12-07",
       "title": "Did You See That?",
@@ -255096,6 +255171,31 @@
         982816
       ],
       "igdb_updated_at": "2026-10-28T05:22:57+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "f8dd6e9365ca32319583e6@game-release-calendar",
+      "date": "2026-12-10",
+      "title": "Runz",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "RUNZ is a top-down roguelite arena shooter where every bullet in your magazine matters. Draft bullets like an auto-battler, combine three of a kind, stack synergies and upgrade your gun to survive 20 waves.",
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/runz--1",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 427881,
+      "igdb_release_date_ids": [
+        996912
+      ],
+      "igdb_updated_at": "2026-11-26T00:48:01+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -260424,6 +260524,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "ba7664fca28a47eb6c5a3d@game-release-calendar",
+      "date": "2027-01-21",
+      "title": "Somebody's Home: The Boarding House",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "1980. Rooms to let on a quiet street, meals included, a landlady who calls her lodgers family. You move into one. And as the days pass, you cannot shake the feeling that something in that house is wrong, and that it has been wrong for a very long time. A first-person psychological horror story.",
+      "cover_image_id": "codbkt",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codbkt.jpg",
+      "source": "https://www.igdb.com/games/somebodys-home-the-boarding-house",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 428229,
+      "igdb_release_date_ids": [
+        991676
+      ],
+      "igdb_updated_at": "2026-11-26T00:55:33+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "30a89481e161fad700d41d@game-release-calendar",
       "date": "2027-01-21",
       "title": "UvsU: You vs. You",
@@ -263433,6 +263558,31 @@
       ],
       "igdb_updated_at": "2026-11-09T21:48:45+00:00",
       "igdb_release_status": "Early Access"
+    },
+    {
+      "uid": "dc803431966a4c955e8d25@game-release-calendar",
+      "date": "2027-03-04",
+      "title": "Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey — Switch 2 release",
+      "platforms": [
+        "Switch 2"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "The Nohara family has decided to spend their summer vacation in Kumamoto. A week of life begins in the small town of Asso. Surrounded by abundant nature, you can catch rare insects, catch fish in nearby streams, and pick up wild plants. You can also record the fun events in a picture diary every day.",
+      "cover_image_id": "co4x6z",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co4x6z.jpg",
+      "source": "https://www.igdb.com/games/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-26",
+      "sequence": 0,
+      "igdb_game_id": 143621,
+      "igdb_release_date_ids": [
+        977684
+      ],
+      "igdb_updated_at": "2026-11-26T00:24:28+00:00",
+      "igdb_release_status": "Full Release"
     },
     {
       "uid": "3c331e863609655acad8@chatgpt-game-release-calendar",
