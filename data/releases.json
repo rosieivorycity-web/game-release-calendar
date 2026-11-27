@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 10683,
+    "event_count": 10686,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-11-26",
-      "window_start": "2026-10-12",
-      "window_end": "2028-11-25",
+      "last_scan": "2026-11-27",
+      "window_start": "2026-10-13",
+      "window_end": "2028-11-26",
       "platforms": [
         "PC",
         "PS5",
@@ -158499,31 +158499,6 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "54ad239f76dfefe258fc30@game-release-calendar",
-      "date": "2026-10-12",
-      "title": "Tide of the Depths",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Build a team of mighty sea creatures in a lane-based tower defense where the battlefield reshapes your strategy. Harness environmental powers, trigger elemental chain reactions, and adapt your defenders to stop the corruption.",
-      "cover_image_id": "cod1ug",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod1ug.jpg",
-      "source": "https://www.igdb.com/games/tide-of-the-depths",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-15",
-      "sequence": 0,
-      "igdb_game_id": 421228,
-      "igdb_release_date_ids": [
-        972756
-      ],
-      "igdb_updated_at": "2026-10-15T01:19:14+00:00",
-      "igdb_release_status": "Beta"
-    },
-    {
       "uid": "11edb18d8b3a8272a683cb@game-release-calendar",
       "date": "2026-10-12",
       "title": "Time To Wake Up",
@@ -160098,8 +160073,8 @@
       "igdb_updated_at": "2026-10-15T22:32:39+00:00",
       "igdb_release_status": "Full Release",
       "summary": "Witch's Cabin Cleanup is a cozy organizing simulator where you sort 5,313 curios in a cluttered witch's cabin. Clean, learn spells, and restore order in a calm and atmospheric environment.",
-      "cover_image_id": "cocogd",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cocogd.jpg"
+      "cover_image_id": "codgox",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgox.jpg"
     },
     {
       "uid": "12c9a5841240dfa8cc57d6@game-release-calendar",
@@ -237640,6 +237615,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "f1bb7e2b59cf8d7e56c95c@game-release-calendar",
+      "date": "2026-11-20",
+      "title": "Bragnarok",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Steal the spotlight in a chaotic 5-player dance-off! Dance to score, shove rivals out of the way, grab power-ups, and dodge hazards as the stage turns into mayhem. It's easy to Boogie and Bash! With just two buttons, anyone can join the party - locally or online.",
+      "cover_image_id": "codgtq",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgtq.jpg",
+      "source": "https://www.igdb.com/games/bragnarok",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "sequence": 0,
+      "igdb_game_id": 275123,
+      "igdb_release_date_ids": [
+        997408
+      ],
+      "igdb_updated_at": "2026-11-27T00:20:16+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "7b3f567fe9c8416e1401a9@game-release-calendar",
       "date": "2026-11-20",
       "title": "Chigusa's Diary",
@@ -243371,6 +243371,31 @@
       "igdb_release_status": "Full Release"
     },
     {
+      "uid": "17a4b590dbada10cef28f7@game-release-calendar",
+      "date": "2026-11-25",
+      "title": "Arcade Archives 2: Rainbow Islands",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Platform release",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "\"RAINBOW ISLANDS\" is an action game released in 1987 by TAITO. A sequel to BUBBLE BOBBLE in which Bubby and Bobby, having returned to their human form, travel the RAINBOW ISLANDS using their rainbow magic to rescue the villagers from the clutches of the Boss of Shadow. Rainbows can be used in various ways, like attacking enemies or as platforms to jump on. This game includes the updated RAINBOW ISLANDS EXTRA…",
+      "cover_image_id": "codgfm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgfm.jpg",
+      "source": "https://www.igdb.com/games/arcade-archives-2-rainbow-islands",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "sequence": 6,
+      "igdb_game_id": 431481,
+      "igdb_release_date_ids": [
+        996914
+      ],
+      "igdb_updated_at": "2026-11-26T02:36:47+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
       "uid": "5b24d4d9acd87f19c3a925@game-release-calendar",
       "date": "2026-11-25",
       "title": "Arctic Drive",
@@ -244827,7 +244852,7 @@
       "igdb_release_status": "Full Release"
     },
     {
-      "uid": "17a4b590dbada10cef28f7@game-release-calendar",
+      "uid": "24e858b6541ed14b862ff3@game-release-calendar",
       "date": "2026-11-26",
       "title": "Arcade Archives 2: Rainbow Islands — PS5 / Switch 2 release",
       "platforms": [
@@ -244843,8 +244868,8 @@
       "source": "https://www.igdb.com/games/arcade-archives-2-rainbow-islands",
       "source_kind": "igdb",
       "status": "confirmed",
-      "last_verified": "2026-11-26",
-      "sequence": 3,
+      "last_verified": "2026-11-27",
+      "sequence": 0,
       "igdb_game_id": 431481,
       "igdb_release_date_ids": [
         996915,
@@ -245902,8 +245927,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Shark Mart is a crazy co-op simulator about sharks undercover disguised as friendly dolphins. Run the shop, and scrub whales to secretly kidnap unsuspecting fish and cook up tasty delicacies! But beware - the Fish Police are out to expose your toothy secret...",
-      "cover_image_id": "coc5la",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coc5la.jpg",
+      "cover_image_id": "codgtx",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgtx.jpg",
       "source": "https://www.igdb.com/games/shark-mart",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -259986,6 +260011,31 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobp0a.jpg"
     },
     {
+      "uid": "f95319615a94138143f1e0@game-release-calendar",
+      "date": "2027-01-01",
+      "title": "Deepwell Rising",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Deepwell Rising is a top-down co-op twin-stick shooter RPG for 1 to 4 players, set in Deepwell: a decaying cyberpunk megacity stacked in layers around the base of the Lift, the colossal space elevator owned by Solace Industries. Play solo or team up online with up to three friends. Pick a class, each with its own weapons, skills and playstyle, and fight your way through neon markets, flooded undercity tunnels…",
+      "cover_image_id": null,
+      "cover_url": null,
+      "source": "https://www.igdb.com/games/deepwell-rising",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "sequence": 0,
+      "igdb_game_id": 430061,
+      "igdb_release_date_ids": [
+        992980
+      ],
+      "igdb_updated_at": "2026-11-27T00:54:06+00:00",
+      "igdb_release_status": "Alpha"
+    },
+    {
       "uid": "e1375cc8194710ca31022e@game-release-calendar",
       "date": "2027-01-01",
       "title": "Duoshift",
@@ -260271,8 +260321,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "You’re stuck in a dream and must run a special program on your computer to escape. Anomalies in the house disturb you, increasing your stress. Work with 2 or more Players to clear them before your stress consumes you.",
-      "cover_image_id": "co8suv",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8suv.jpg",
+      "cover_image_id": "codgm4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codgm4.jpg",
       "source": "https://www.igdb.com/games/a-developer-nightmare",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -262164,6 +262214,31 @@
         991676
       ],
       "igdb_updated_at": "2026-11-26T00:55:33+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "54ad239f76dfefe258fc30@game-release-calendar",
+      "date": "2027-01-21",
+      "title": "Tide of the Depths",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Build a team of mighty sea creatures in a lane-based tower defense where the battlefield reshapes your strategy. Harness environmental powers, trigger elemental chain reactions, and adapt your defenders to stop the corruption.",
+      "cover_image_id": "cod1ug",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod1ug.jpg",
+      "source": "https://www.igdb.com/games/tide-of-the-depths",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-27",
+      "sequence": 1,
+      "igdb_game_id": 421228,
+      "igdb_release_date_ids": [
+        972757
+      ],
+      "igdb_updated_at": "2026-10-15T01:19:14+00:00",
       "igdb_release_status": "Full Release"
     },
     {
