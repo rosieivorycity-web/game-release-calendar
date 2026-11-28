@@ -10,14 +10,14 @@
       "Switch",
       "Switch 2"
     ],
-    "event_count": 10721,
+    "event_count": 10723,
     "feed_filename": "game-releases.ics",
     "source_policy": "Prefer official publisher/platform/store announcements; use reputable release calendars for discovery and mark uncertain information clearly.",
     "igdb_sync": {
       "enabled": true,
-      "last_scan": "2026-11-27",
-      "window_start": "2026-10-13",
-      "window_end": "2028-11-26",
+      "last_scan": "2026-11-28",
+      "window_start": "2026-10-14",
+      "window_end": "2028-11-27",
       "platforms": [
         "PC",
         "PS5",
@@ -158776,31 +158776,6 @@
       "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/coco71.jpg"
     },
     {
-      "uid": "b4a39127efae883d8746ee@game-release-calendar",
-      "date": "2026-10-13",
-      "title": "Austin Lost in Maze",
-      "platforms": [
-        "PC"
-      ],
-      "release_type": "Game",
-      "price": "TBA / not verified",
-      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
-      "summary": "Austin wakes up trapped in a maze that seems to shift every time he turns around. With no map, no clear way out, and strange sounds echoing through the corridors, he must explore carefully, solve puzzles, and uncover the truth behind the place he’s been trapped in. Navigate winding passages, search for clues, and keep your bearings as the maze twists into something far more unsettling than it first appears. Every…",
-      "cover_image_id": "cod4y4",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod4y4.jpg",
-      "source": "https://www.igdb.com/games/austin-lost-in-maze",
-      "source_kind": "igdb",
-      "status": "confirmed",
-      "last_verified": "2026-10-15",
-      "sequence": 0,
-      "igdb_game_id": 423532,
-      "igdb_release_date_ids": [
-        977758
-      ],
-      "igdb_updated_at": "2026-10-15T08:06:52+00:00",
-      "igdb_release_status": "Early Access"
-    },
-    {
       "uid": "7a24e53e9015771e6b0435@game-release-calendar",
       "date": "2026-10-13",
       "title": "Bio-Submariner DX",
@@ -168182,6 +168157,31 @@
         980944
       ],
       "igdb_updated_at": "2026-10-21T12:00:40+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "b4a39127efae883d8746ee@game-release-calendar",
+      "date": "2026-10-20",
+      "title": "Austin Lost in Maze",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Austin wakes up trapped in a maze that seems to shift every time he turns around. With no map, no clear way out, and strange sounds echoing through the corridors, he must explore carefully, solve puzzles, and uncover the truth behind the place he’s been trapped in. Navigate winding passages, search for clues, and keep your bearings as the maze twists into something far more unsettling than it first appears. Every…",
+      "cover_image_id": "cod4y4",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cod4y4.jpg",
+      "source": "https://www.igdb.com/games/austin-lost-in-maze",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-28",
+      "sequence": 1,
+      "igdb_game_id": 423532,
+      "igdb_release_date_ids": [
+        977757
+      ],
+      "igdb_updated_at": "2026-10-15T08:06:52+00:00",
       "igdb_release_status": "Full Release"
     },
     {
@@ -202846,6 +202846,31 @@
       "igdb_release_status": "Early Access"
     },
     {
+      "uid": "19697b75758532c256e6c1@game-release-calendar",
+      "date": "2026-11-04",
+      "title": "Dread Rune",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "Dread Rune Is a roguelike RPG with 3d graphics and lots of variety and replayability. Every game is unique, with seven different playable characters, randomized levels and enemies, and over 120 items to collect and use. The game is simple to get into, but has lots of depth. Mastering of weapons, combos and strategic use of items will be required to win.",
+      "cover_image_id": "co8odi",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/co8odi.jpg",
+      "source": "https://www.igdb.com/games/dread-rune",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-28",
+      "sequence": 0,
+      "igdb_game_id": 199982,
+      "igdb_release_date_ids": [
+        997845
+      ],
+      "igdb_updated_at": "2026-11-28T00:03:44+00:00",
+      "igdb_release_status": null
+    },
+    {
       "uid": "797c2f95029ef29fbaaf5b@game-release-calendar",
       "date": "2026-11-04",
       "title": "Echo Mates",
@@ -215260,8 +215285,8 @@
       "price": "TBA / not verified",
       "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
       "summary": "Take a breather and challenge your brain with these calming logic puzzles",
-      "cover_image_id": "cobjw7",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/cobjw7.jpg",
+      "cover_image_id": "codjxm",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codjxm.jpg",
       "source": "https://www.igdb.com/games/picronix-2",
       "source_kind": "igdb",
       "status": "confirmed",
@@ -247045,6 +247070,31 @@
         994902
       ],
       "igdb_updated_at": "2026-11-20T23:40:22+00:00",
+      "igdb_release_status": "Full Release"
+    },
+    {
+      "uid": "57d3e68cf77a5eb27b6b09@game-release-calendar",
+      "date": "2026-11-27",
+      "title": "Bowlo",
+      "platforms": [
+        "PC"
+      ],
+      "release_type": "Game",
+      "price": "TBA / not verified",
+      "notes": "Automatically added from IGDB. Release date is synchronized; price is not.",
+      "summary": "BOWLO is a 3D bowling roguelike where every throw is an attack. Your ball carries a gun that fires down the lane on its own, the pins answer with bullet-hell patterns, and you steer the rolling ball through the fire while it's on its way to the pocket.",
+      "cover_image_id": "codk17",
+      "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_small_2x/codk17.jpg",
+      "source": "https://www.igdb.com/games/bowlo",
+      "source_kind": "igdb",
+      "status": "confirmed",
+      "last_verified": "2026-11-28",
+      "sequence": 0,
+      "igdb_game_id": 431761,
+      "igdb_release_date_ids": [
+        997823
+      ],
+      "igdb_updated_at": "2026-11-28T00:34:28+00:00",
       "igdb_release_status": "Full Release"
     },
     {
